@@ -35,11 +35,16 @@ jobs:
       - name: Pick episode
         id: ep
         run: |
+          EP=""
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             EP="${{ github.event.inputs.episode }}"
           else
-            EP=$(git diff --name-only HEAD~1 HEAD -- 'episodes/*/script.md' | head -1 | cut -d/ -f2 || true)
-            if [ -z "$EP" ]; then EP=$(ls -1 episodes | grep -E '^[0-9]{4}-' | sort | tail -1); fi
+            # script.md files touched by the latest commit (works on a first commit too)
+            EP=$(git show --name-only --pretty=format: HEAD -- 'episodes/*/script.md' 2>/dev/null | head -1 | cut -d/ -f2) || true
+          fi
+          if [ -z "$EP" ]; then
+            echo "No episode script found in this commit; nothing to build."
+            exit 1
           fi
           echo "episode=$EP" >> "$GITHUB_OUTPUT"
           echo "Building episode: $EP"
