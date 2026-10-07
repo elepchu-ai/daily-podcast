@@ -1,0 +1,72 @@
+name: Build podcast episode
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "episodes/*/script.md"
+  workflow_dispatch:
+    inputs:
+      episode:
+        description: "Episode folder under episodes/ (e.g. sample or 2026-10-08)"
+        required: true
+        default: "sample"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-episode
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Pick episode
+        id: ep
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            EP="${{ github.event.inputs.episode }}"
+          else
+            EP=$(git diff --name-only HEAD~1 HEAD -- 'episodes/*/script.md' | head -1 | cut -d/ -f2 || true)
+            if [ -z "$EP" ]; then EP=$(ls -1 episodes | grep -E '^[0-9]{4}-' | sort | tail -1); fi
+          fi
+          echo "episode=$EP" >> "$GITHUB_OUTPUT"
+          echo "Building episode: $EP"
+
+      - name: Build MP3 and feed
+        env:
+          GOOGLE_TTS_API_KEY: ${{ secrets.GOOGLE_TTS_API_KEY }}
+        run: python scripts/build_episode.py --episode "${{ steps.ep.outputs.episode }}"
+
+      - name: Publish MP3 as a release asset
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          EP="${{ steps.ep.outputs.episode }}"
+          gh release delete "ep-$EP" --yes --cleanup-tag 2>/dev/null || true
+          gh release create "ep-$EP" "out/podcast-$EP.mp3" \
+            --title "Episode $EP" --notes "Audio for $EP" --latest=false
+          # keep only the 14 newest releases
+          gh release list --limit 100 --json tagName --jq '.[14:][].tagName' \
+            | xargs -r -I{} gh release delete {} --yes --cleanup-tag
+
+      - name: Commit feed and usage counter
+        if: steps.ep.outputs.episode != 'sample'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/feed.xml docs/episodes.json state/usage.json
+          git diff --cached --quiet || git commit -m "Update feed for ${{ steps.ep.outputs.episode }}"
+          git pull --rebase origin main
+          git push origin HEAD:main

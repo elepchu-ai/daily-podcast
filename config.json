@@ -1,0 +1,16 @@
+{
+  "podcast_title": "Elep's Daily Briefing",
+  "podcast_description": "Daily 30-minute briefing: Vietnam news (Vietnamese), world news (English), actualite de la France (francais).",
+  "podcast_author": "Elep",
+  "episode_title_prefix": "Daily Briefing",
+  "github_repo": "elepchu-ai/daily-podcast",
+  "site_url": "https://elepchu-ai.github.io/daily-podcast",
+  "keep_episodes": 14,
+  "max_chars_per_episode": 45000,
+  "max_chars_per_month": 900000,
+  "voices": {
+    "vi": {"languageCode": "vi-VN", "name": "vi-VN-Neural2-A", "speakingRate": 1.0},
+    "en": {"languageCode": "en-US", "name": "en-US-Neural2-F", "speakingRate": 1.0},
+    "fr": {"languageCode": "fr-FR", "name": "fr-FR-Neural2-A", "speakingRate": 1.0}
+  }
+}
