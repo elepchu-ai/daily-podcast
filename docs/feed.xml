@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Elep's Daily Briefing</title>
+    <link>https://elepchu-ai.github.io/daily-podcast/</link>
+    <description>Daily 30-minute briefing: Vietnam news (Vietnamese), world news (English), actualite de la France (francais).</description>
+    <language>en</language>
+    <itunes:author>Elep</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Daily Briefing - Thu 08 Oct 2026</title>
+      <description>Tóm tắt / Summary / Résumé — 2026-10-08
+
+ Tin tức trong nước
+Mưa to đến rất to ở miền Trung (Huế, Đà Nẵng, Quảng Ngãi); Hà Tĩnh đến Quảng Trị 70-150 mm, có nơi trên 250 mm; giảm dần từ 9/10.
+GDP quý III ước tăng 9,95%, 9 tháng tăng 9,01%; CPI 9 tháng bình quân 4,52%, tháng 9 tăng 5,08% so với cùng kỳ.
+Xuất nhập khẩu 9 tháng khoảng 888 tỷ USD, FDI trên 50 tỷ USD (chưa rõ đăng ký hay thực hiện), khách quốc tế khoảng 17,68 triệu lượt.
+Tín dụng tăng 11,59% so với cuối 2025; Thông tư 50/2026 nâng LDR tối đa lên 95% từ 1/12; tin Reuters về kế hoạch chào bán cổ phiếu khoảng 7 tỷ USD của các ngân hàng chưa được kiểm chứng độc lập.
+Khối ngoại bán ròng 4 phiên liên tiếp; vàng SJC khoảng 139,9-142,9 triệu đồng/lượng; vàng thế giới quanh 4.150 USD/ounce.
+Hà Nội: dự án Vườn thú hoang dã Ba Vì, quỹ nhà tái định cư gần hết; cúm mùa gia tăng.
+
+ World news
+Iran war in its seventh month: Vance demands a meaningful cut to enrichment; Trump reportedly rejected Tehran's latest offer; tanker off Qatar reports projectile hits; Houthi attacks in Yemen.
+Ukraine: Russian strikes on energy sector kill at least 19; drone attacks on vessels in Bulgaria's Black Sea zone.
+Wall Street slipped from records; 10-year Treasury yield about 5.3%, highest since 2002; Brent about 102 dollars.
+AI agents (Meta Muse) blocked by retailers; open agent-commerce standard in development; Meta 16,000-job report unconfirmed.
+South Korea: Nuri rocket fifth launch succeeded; church data leak of about 850,000 members, AI tools </description>
+      <pubDate>Thu, 08 Oct 2026 08:30:00 +0700</pubDate>
+      <guid isPermaLink="false">daily-podcast-2026-10-08</guid>
+      <enclosure url="https://github.com/elepchu-ai/daily-podcast/releases/download/ep-2026-10-08/podcast-2026-10-08.mp3" length="11634432" type="audio/mpeg"/>
+      <itunes:duration>1755</itunes:duration>
+    </item>
+  </channel>
+</rss>
