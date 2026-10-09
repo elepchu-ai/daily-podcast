@@ -14,6 +14,7 @@ GOOGLE_TTS_API_KEY environment variable (a GitHub Actions secret).
 import argparse
 import base64
 import datetime as dt
+import html
 import json
 import os
 import re
@@ -140,6 +141,68 @@ def audio_duration(path, fallback_chars):
         return int(fallback_chars / 14)  # ~14 spoken characters per second
 
 
+# ------------------------------------------------------------- show notes
+LINK_RE = re.compile(r"\[([^\]]+)\]\((https?://[^)\s]+)\)")
+DESC_LIMIT = 3900  # podcast apps cut show notes around 4000 characters
+
+
+def _inline(text):
+    """Escape text and turn [label](url) into links."""
+    out, pos = [], 0
+    for m in LINK_RE.finditer(text):
+        out.append(html.escape(text[pos:m.start()], quote=False))
+        out.append(f'<a href="{html.escape(m.group(2), quote=True)}">{html.escape(m.group(1), quote=False)}</a>')
+        pos = m.end()
+    out.append(html.escape(text[pos:], quote=False))
+    return re.sub(r"[*_`]", "", "".join(out))
+
+
+def summary_to_html(md, limit=DESC_LIMIT):
+    """Render summary.md as small HTML show notes: bold section titles,
+    bullet lists, source links. Whole sections are dropped (Sources first,
+    then trailing sections) rather than cut mid-sentence."""
+    sections, cur = [], None
+    for line in md.splitlines():
+        line = line.rstrip()
+        if line.startswith("## "):
+            cur = {"title": line[3:].strip(), "items": [], "paras": []}
+            sections.append(cur)
+        elif line.startswith("# "):
+            continue  # document title
+        elif not line.strip():
+            continue
+        elif cur is None:
+            cur = {"title": "", "items": [], "paras": []}
+            sections.append(cur)
+            cur["paras"].append(line.strip())
+        elif re.match(r"^\s*[-*+]\s+", line):
+            cur["items"].append(re.sub(r"^\s*[-*+]\s+", "", line))
+        else:
+            cur["paras"].append(line.strip())
+
+    def render(sec):
+        h = f"<p><b>{_inline(sec['title'])}</b></p>" if sec["title"] else ""
+        paras = "".join(f"<p>{_inline(t)}</p>" for t in sec["paras"])
+        items = ("<ul>" + "".join(f"<li>{_inline(t)}</li>" for t in sec["items"]) + "</ul>") if sec["items"] else ""
+        return h + paras + items
+
+    is_src = lambda sec: sec["title"].strip().lower() in ("sources", "nguồn", "sources:", "nguon")
+    body = [sec for sec in sections if not is_src(sec)]
+    sources = [sec for sec in sections if is_src(sec)]
+    for keep_sources in (True, False):
+        parts = body + (sources if keep_sources else [])
+        text = "".join(render(sec) for sec in parts)
+        if len(text) <= limit:
+            return text
+    # still too long: drop trailing body sections whole
+    while len(body) > 1:
+        body.pop()
+        text = "".join(render(sec) for sec in body)
+        if len(text) <= limit:
+            return text
+    return text[:limit]
+
+
 # -------------------------------------------------------------------- feed
 def build_feed(cfg, episodes):
     site = cfg["site_url"].rstrip("/")
@@ -148,7 +211,7 @@ def build_feed(cfg, episodes):
         pub = dt.datetime.fromisoformat(ep["published"])
         items.append(f"""    <item>
       <title>{escape(ep['title'])}</title>
-      <description>{escape(ep['description'])}</description>
+      <description><![CDATA[{ep['description'].replace(']]>', ']]&gt;')}]]></description>
       <pubDate>{format_datetime(pub)}</pubDate>
       <guid isPermaLink="false">daily-podcast-{escape(ep['id'])}</guid>
       <enclosure url="{escape(ep['url'])}" length="{ep['length']}" type="audio/mpeg"/>
@@ -172,13 +235,28 @@ def build_feed(cfg, episodes):
 # -------------------------------------------------------------------- main
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--episode", required=True, help="folder name under episodes/, e.g. 2026-10-08 or sample")
+    ap.add_argument("--episode", help="folder name under episodes/, e.g. 2026-10-08 or sample")
     ap.add_argument("--dry-run", action="store_true", help="parse and count only; no API calls")
+    ap.add_argument("--rebuild-feed", action="store_true",
+                    help="regenerate descriptions of existing episodes from their summary.md and rewrite the feed; no audio")
     args = ap.parse_args()
 
     cfg = load_json(ROOT / "config.json", None)
     if cfg is None:
         sys.exit("config.json missing")
+    if args.rebuild_feed:
+        ep_json = ROOT / "docs" / "episodes.json"
+        episodes = load_json(ep_json, [])
+        for ep in episodes:
+            sp = ROOT / "episodes" / ep["id"] / "summary.md"
+            if sp.exists():
+                ep["description"] = summary_to_html(sp.read_text(encoding="utf-8"))
+        ep_json.write_text(json.dumps(episodes, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+        (ROOT / "docs" / "feed.xml").write_text(build_feed(cfg, episodes), encoding="utf-8")
+        print("Feed rebuilt:", len(episodes), "episodes")
+        return
+    if not args.episode:
+        sys.exit("--episode is required (or use --rebuild-feed)")
     ep_dir = ROOT / "episodes" / args.episode
     script_path = ep_dir / "script.md"
     if not script_path.exists():
@@ -242,8 +320,8 @@ def main():
     published = dt.datetime(date.year, date.month, date.day, 8, 30,
                             tzinfo=dt.timezone(dt.timedelta(hours=7)))
     summary_path = ep_dir / "summary.md"
-    desc = clean(summary_path.read_text(encoding="utf-8"))[:1500] if summary_path.exists() \
-        else "Daily briefing: Vietnam, world and France."
+    desc = summary_to_html(summary_path.read_text(encoding="utf-8")) if summary_path.exists() \
+        else "<p>Daily briefing: Vietnam, world and France.</p>"
     repo = cfg["github_repo"]
     entry = {
         "id": args.episode,
