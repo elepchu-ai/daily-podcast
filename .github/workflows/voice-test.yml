@@ -1,0 +1,54 @@
+name: Voice test
+
+# Manual only. Reads the same news excerpt with several Google TTS voices and
+# publishes the MP3s on a "voice-test" release so the voices can be compared by ear.
+
+on:
+  workflow_dispatch:
+    inputs:
+      languages:
+        description: "Language codes, comma separated"
+        required: true
+        default: "vi-VN,en-US"
+      families:
+        description: "Voice families to try (substring of the voice name), comma separated"
+        required: true
+        default: "Chirp3-HD,Studio,Neural2"
+      per_family:
+        description: "Voices per family and language"
+        required: true
+        default: "4"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: voice-test
+  cancel-in-progress: false
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Synthesize voice samples
+        env:
+          GOOGLE_TTS_API_KEY: ${{ secrets.GOOGLE_TTS_API_KEY }}
+          IN_LANGUAGES: ${{ github.event.inputs.languages }}
+          IN_FAMILIES: ${{ github.event.inputs.families }}
+          IN_PER_FAMILY: ${{ github.event.inputs.per_family }}
+        run: python scripts/voice_test.py --languages "$IN_LANGUAGES" --families "$IN_FAMILIES" --per-family "$IN_PER_FAMILY"
+
+      - name: Publish samples as a release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release delete voice-test --yes --cleanup-tag 2>/dev/null || true
+          gh release create voice-test out/voice-test/*.mp3 \
+            --title "Voice test" --notes-file out/voice-test/RESULTS.md --prerelease
