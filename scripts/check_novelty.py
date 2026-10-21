@@ -22,6 +22,13 @@ INDEX = ROOT / "state" / "covered.json"
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 RECAP_RE = re.compile(r"^\s*(tóm lại|tom lai|to recap|in summary|en résumé|en resume)\b", re.I)
 EXEMPT_RE = re.compile(r"vn-index|\bsjc\b|\btcb\b|techcombank", re.I)  # daily market lines
+HEDGE_RE = re.compile(
+    r"\b(i do not have|i don't have|i could not (confirm|find|verify)|i did not find|i cannot confirm)\b"
+    r"|chưa thể (đọc|xác nhận)|không tìm thấy|je n'ai pas (pu|de)\b|je n'ai pu\b", re.I)
+SPORT_RE = re.compile(r"premier league|champions league|europa league|tennis|formula one|grand prix|"
+                      r"\bnba\b|\bnfl\b|world cup|\bbeat\b|\bwon\b|\bdraw\b|final\b|masters", re.I)
+SCIENCE_RE = re.compile(r"scien|researchers|study|trial|astronom|nasa|telescope|vaccine|cancer|"
+                        r"patients|clinical|galax|species|climate", re.I)
 STOP = set("""that this with from have were been will which their about after
 into over than also more most other some such only still while where when
 nhung cung trong cuoc cua cho nhu duoc khong mot cac nhieu nguoi nam thang
@@ -92,7 +99,8 @@ def main():
 
     cfg = json.loads((ROOT / "config.json").read_text(encoding="utf-8")).get("novelty", {})
     cfg = {"lookback": 5, "jaccard": 0.5, "shared_numbers": 2, "shared_words": 3,
-           "min_words": 2400, "max_words": 3300, "index_days": 10, **cfg}
+           "min_words": 2800, "max_words": 3400,
+           "section_words": {"vi": [900, 1100], "en": [1100, 1400], "fr": [700, 900]}, "index_days": 10, **cfg}
 
     eps = episodes()
     if args.update_index:
@@ -119,11 +127,24 @@ def main():
     for line in script.splitlines():
         if RECAP_RE.match(line):
             warns.append(f"recap paragraph: \"{line.strip()[:60]}...\"")
+    for lang, (lo, hi) in cfg["section_words"].items():
+        n = len(segment(script, lang).split())
+        if not lo <= n <= hi:
+            warns.append(f"[{lang}] section has {n} words (target {lo}-{hi})")
+    for para in re.split(r"\n\s*\n", script):
+        if HEDGE_RE.search(para):
+            warns.append(f"hedging sentence (drop the fact or find another): \"{para.strip()[:70]}...\"")
     if "tcb" not in norm(segment(script, "vi")):
         warns.append("vi section has no TCB item (price + news required)")
     en = norm(segment(script, "en"))
     if "ericsson" not in en and "telecom" not in en:
         warns.append("en section has no Ericsson / telecom item")
+
+    paras = re.split(r"\n\s*\n", segment(script, "en"))
+    if sum(1 for p in paras if SPORT_RE.search(p)) < 2:
+        warns.append("en section needs at least 2 sport results")
+    if not any(SCIENCE_RE.search(p) for p in paras):
+        warns.append("en section needs a science or health item")
 
     seen = {s: e for e in prev for s in sentences((EP_DIR / e / "script.md").read_text(encoding="utf-8"))}
     for s in sentences(script):
