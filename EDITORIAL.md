@@ -20,8 +20,14 @@ task at this file) so the prompt and the repo guard stay in sync.
 
 ## 1. Structure and length
 
-- Target **2,500 to 3,000 words** in total (`config.json` -> `novelty`).
-  About 1,000 `[vi]`, 1,100 `[en]`, 800 `[fr]`.
+- Target **2,800 to 3,200 words** in total, about 20 minutes of audio
+  (`config.json` -> `novelty`). Per-section words: `[vi]` 900 to 1,100,
+  `[en]` 1,100 to 1,400, `[fr]` 700 to 900. A section under its minimum
+  needs more fresh stories, not padding or background.
+- **No hedging sentences** such as "I do not have…", "I could not confirm…",
+  "chưa thể xác nhận…" or "je n'ai pas pu…". If a fact is missing, drop it
+  and research a replacement. For a TCB quote without a verified close, give
+  the last verified close with its date instead.
 - Greeting in one sentence. **No recap or "Tóm lại / To recap / En résumé"
   paragraphs.** End each section with a single short transition line.
 - Do not start two days in a row with the same phrasing; vary the story order.
@@ -58,8 +64,9 @@ task at this file) so the prompt and the repo guard stay in sync.
      regulation (FCC, EU Digital Networks Act).
    - If Ericsson has no new item that day, cover another telecom story. Never
      rerun an old Ericsson item.
-2. Then 3 to 5 other new world stories: technology and AI, geopolitics,
-   economy, one sport item, one science or health item. Apply the section 0
+2. Then 5 to 7 other new world stories: technology and AI, geopolitics,
+   economy, **at least 2 sport results** from the last 24 to 48 hours,
+   and **at least 1 science or health item**. Apply the section 0
    rules strictly.
 
 ## 4. France section (`[fr]`)

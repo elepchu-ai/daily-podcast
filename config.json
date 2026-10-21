@@ -30,8 +30,22 @@
     "jaccard": 0.5,
     "shared_numbers": 2,
     "shared_words": 3,
-    "min_words": 2400,
-    "max_words": 3300,
-    "index_days": 10
+    "min_words": 2800,
+    "max_words": 3400,
+    "index_days": 10,
+    "section_words": {
+      "vi": [
+        900,
+        1100
+      ],
+      "en": [
+        1100,
+        1400
+      ],
+      "fr": [
+        700,
+        900
+      ]
+    }
   }
 }
