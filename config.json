@@ -1,6 +1,6 @@
 {
   "podcast_title": "Elep's Daily Briefing",
-  "podcast_description": "Daily 30-minute briefing: Vietnam news (Vietnamese), world news (English), actualite de la France (francais).",
+  "podcast_description": "Daily briefing: Vietnam news and TCB (Vietnamese), world news with AI and telecom/Ericsson (English), actualite de la France (francais). Only new stories, no repeats.",
   "podcast_author": "Elep",
   "episode_title_prefix": "Daily Briefing",
   "github_repo": "elepchu-ai/daily-podcast",
@@ -9,8 +9,29 @@
   "max_chars_per_episode": 45000,
   "max_chars_per_month": 900000,
   "voices": {
-    "vi": {"languageCode": "vi-VN", "name": "vi-VN-Neural2-A", "speakingRate": 1.0},
-    "en": {"languageCode": "en-US", "name": "en-US-Neural2-F", "speakingRate": 1.0},
-    "fr": {"languageCode": "fr-FR", "name": "fr-FR-Neural2-A", "speakingRate": 1.0}
+    "vi": {
+      "languageCode": "vi-VN",
+      "name": "vi-VN-Neural2-A",
+      "speakingRate": 1.0
+    },
+    "en": {
+      "languageCode": "en-US",
+      "name": "en-US-Neural2-F",
+      "speakingRate": 1.0
+    },
+    "fr": {
+      "languageCode": "fr-FR",
+      "name": "fr-FR-Neural2-A",
+      "speakingRate": 1.0
+    }
+  },
+  "novelty": {
+    "lookback": 5,
+    "jaccard": 0.5,
+    "shared_numbers": 2,
+    "shared_words": 3,
+    "min_words": 2400,
+    "max_words": 3300,
+    "index_days": 10
   }
 }

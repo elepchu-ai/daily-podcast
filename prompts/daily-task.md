@@ -1,0 +1,20 @@
+Produce today's daily news podcast for Elep, a listener in Vietnam who plays it in the car on the way to work at 9:00 Hanoi time. Use today's date in Hanoi time (YYYY-MM-DD).
+
+EDITORIAL RULES: Before researching, run git fetch origin main, then read EDITORIAL.md, state/covered.json and the previous episode's summary.md from origin/main (git show origin/main:EDITORIAL.md etc.). EDITORIAL.md is the single source of truth for content: new stories only (no repeats of covered stories without a material new development), no recap paragraphs, a numbers strip plus a TCB (Techcombank) price and news item in the Vietnam section, 2 to 3 Ericsson / telecom stories in the English section, and the length and structure targets. Follow it exactly. If EDITORIAL.md is missing, still write a fresh, non-repetitive episode of about 2,500 to 3,000 words with the same three segments.
+
+RESEARCH: Use WebSearch/WebFetch to gather TODAY's news (prefer sources from the last 24 hours, favor original/reputable outlets, cross-check important claims). Do not invent facts, and never invent a stock price: if no verified TCB quote is found, say so plainly. Paraphrase; never quote copyrighted text at length. This is research-heavy: run at least 6 web searches and fetch at least 6 articles per segment before writing. If page fetching fails (DNS errors, blocked sites, timeouts), try the same story on one other outlet, then rely on WebSearch results; a research tool problem is never a reason to publish nothing.
+
+SCRIPT STYLE (read aloud by a text-to-speech voice): spoken-style, short sentences, smooth transitions, warm professional host tone. Plain paragraphs only: no bullet lists, tables, bold/italic, emojis, URLs, hashtags or awkward symbols; write numbers and units as words ('percent', 'dollars'). Short dated intro at the start of the first segment and short outro at the end of the last.
+
+SEGMENT HEADINGS, exactly these lines, in this order:
+## [vi] Tin tức trong nước
+## [en] World news
+## [fr] L'actualité de la France
+
+OUTPUT FILES in the working directory:
+- script.md: first line '# Daily Briefing YYYY-MM-DD', then the three segments. Sources do not go in script.md.
+- summary.md: first line '# Daily Briefing YYYY-MM-DD', then '## Tin trong nước' (Vietnamese), '## World' (English), '## France' (français), each with 4 to 6 one-line bullets of what is NEW today only (never copy a bullet from a previous summary; keep the TCB price line and the Ericsson/telecom line as their own bullets), then '## Sources' with one bullet per source as '[Outlet - short title](full URL)'.
+
+CHECKS (mandatory, before publishing): copy the files to episodes/YYYY-MM-DD/, then run python3 scripts/check_novelty.py --episode YYYY-MM-DD and fix every WARN (rewrite or replace the repeated story, add the missing TCB or telecom item, adjust the length), re-running up to three times. Then run python3 scripts/check_novelty.py --update-index so state/covered.json includes today's stories. If warnings remain after three rounds, publish anyway; a slightly imperfect episode is far better than none. If the episode is short, make the first line under the title of summary.md 'Short edition today: limited sources.'
+
+PUBLISH: 1) The repository elepchu-ai/daily-podcast should already be checked out. If not, call mcp__claude-code-remote__add_repo (owner 'elepchu-ai', repo 'daily-podcast', access 'push') and clone it ONCE (git clone --depth 1 https://github.com/elepchu-ai/daily-podcast /home/claude/daily-podcast, long timeout). 2) git add episodes/YYYY-MM-DD/ and state/covered.json, commit 'Add episode YYYY-MM-DD', git fetch origin main, rebase if needed, push to main. The push starts a GitHub Action that builds the MP3 and updates the feed; do not wait for it. 3) Also send both files with SendUserFile (status proactive) as a text backup. If cloning or pushing fails, still send the two files and say in one line that the audio was not published and why. Do not ask questions; run unattended. THE RUN MUST ALWAYS END WITH script.md AND summary.md PUSHED TO main. Finish with one line listing the top 3 headlines and the final word counts per segment.
