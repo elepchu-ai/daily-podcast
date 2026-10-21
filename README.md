@@ -60,3 +60,11 @@ Edit `config.json`:
   stories, recap paragraphs, off-target length, and missing TCB or telecom
   items. It runs in the workflow as a warning only; add `--strict` to fail.
   Thresholds are in the `novelty` block of `config.json`.
+
+## Scheduled task prompts
+
+`prompts/daily-task.md` is the prompt for the "Daily News Podcast" scheduled
+task; `prompts/daily-task-retry.md` is the same prompt with a skip-if-published
+check, for the "Daily post cast -retry" task. Paste them into the tasks at
+claude.ai/code/routines. The prompts only wrap the publishing steps; the
+content rules live in `EDITORIAL.md`.
