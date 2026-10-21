@@ -49,6 +49,10 @@ jobs:
           echo "episode=$EP" >> "$GITHUB_OUTPUT"
           echo "Building episode: $EP"
 
+      - name: Novelty and format check (warn only)
+        if: steps.ep.outputs.episode != 'sample'
+        run: python scripts/check_novelty.py --episode "${{ steps.ep.outputs.episode }}"
+
       - name: Build MP3 and feed
         env:
           GOOGLE_TTS_API_KEY: ${{ secrets.GOOGLE_TTS_API_KEY }}
@@ -69,9 +73,10 @@ jobs:
       - name: Commit feed and usage counter
         if: steps.ep.outputs.episode != 'sample'
         run: |
+          python scripts/check_novelty.py --update-index
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/feed.xml docs/episodes.json state/usage.json
+          git add docs/feed.xml docs/episodes.json state/usage.json state/covered.json
           git diff --cached --quiet || git commit -m "Update feed for ${{ steps.ep.outputs.episode }}"
           git pull --rebase origin main
           git push origin HEAD:main

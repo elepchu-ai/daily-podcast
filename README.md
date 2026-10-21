@@ -48,3 +48,15 @@ Edit `config.json`:
 - `voices`: Google voice names. Stay with **Neural2** or **WaveNet** voices to remain in the free tier.
 - `max_chars_per_episode` and `max_chars_per_month` stop a run before it can exceed the free allowance.
 - `state/usage.json` tracks characters used per month.
+
+## Editorial rules (no repeated stories)
+
+- `EDITORIAL.md` is the brief for the daily scheduled task: new stories only,
+  a TCB price and news item in the Vietnam section, and Ericsson / telecom
+  items in the English section.
+- `state/covered.json` indexes stories from the last 10 episodes. The task
+  reads it before writing; the workflow refreshes it after each build.
+- `scripts/check_novelty.py --episode YYYY-MM-DD` warns about repeated
+  stories, recap paragraphs, off-target length, and missing TCB or telecom
+  items. It runs in the workflow as a warning only; add `--strict` to fail.
+  Thresholds are in the `novelty` block of `config.json`.
