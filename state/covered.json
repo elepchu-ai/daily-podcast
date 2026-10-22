@@ -1,80 +1,6 @@
 {
  "note": "Stories already covered. Read before writing; skip unless materially new.",
  "episodes": {
-  "2026-10-12": [
-   {
-    "lang": "vi",
-    "story": "Chủ tịch Quốc hội Trần Thanh Mẫn thăm chính thức Trung Quốc từ 11 đến 15/10, đồng chủ trì phiên họp Ủy ban hợp tác nghị viện."
-   },
-   {
-    "lang": "vi",
-    "story": "GDP quý ba tăng 9,95 phần trăm, chín tháng tăng 9,01 phần trăm; xuất khẩu chín tháng 434,3 tỷ đô la, tăng 24,5 phần trăm."
-   },
-   {
-    "lang": "vi",
-    "story": "VN-Index đóng cửa 9/10 ở 1.735,09 điểm, giảm 0,22 phần trăm, tuần giảm thứ ba liên tiếp."
-   },
-   {
-    "lang": "vi",
-    "story": "Vàng miếng SJC ngày 10/10: 141,8 mua vào, 144,8 bán ra (triệu đồng một lượng)."
-   },
-   {
-    "lang": "vi",
-    "story": "Bộ Y tế cảnh báo cúm mùa tăng nhẹ; hơn 113.000 ca tay chân miệng từ đầu năm."
-   },
-   {
-    "lang": "vi",
-    "story": "Ninh Bình khởi tố Thắng Ật tội gây rối trật tự công cộng; Lào Cai bắt nguyên kế toán nghi tham ô 30 tỷ đồng."
-   },
-   {
-    "lang": "en",
-    "story": "OpenAI rolled GPT-6 Sol and Luna into ChatGPT on October 7; Google previewed its Gemini agent on October 8."
-   },
-   {
-    "lang": "en",
-    "story": "Houthi missile strike on Riyadh airport killed at least 12 and wounded over 300; airport hit again Sunday."
-   },
-   {
-    "lang": "en",
-    "story": "Trump announced a Russia-Ukraine energy ceasefire; Zelensky offered elections for a 60-day total ceasefire; no Kremlin confirmation."
-   },
-   {
-    "lang": "en",
-    "story": "Brent above 105 dollars as tankers hit mines in Hormuz; US inflation data due Wednesday."
-   },
-   {
-    "lang": "en",
-    "story": "Navi Pillay wins the 2026 Nobel Peace Prize."
-   },
-   {
-    "lang": "en",
-    "story": "Verstappen wins in Singapore; Antonelli leads Russell by 102 points. Packers beat Bears 31-7."
-   },
-   {
-    "lang": "en",
-    "story": "Epcoritamab plus R-CHOP cut lymphoma progression risk by 51 percent in phase 3 topline results."
-   },
-   {
-    "lang": "fr",
-    "story": "Raphaël Glucksmann wins the left primary with 66,13 pour cent des voix au premier tour."
-   },
-   {
-    "lang": "fr",
-    "story": "Gazole à 2,35 euros : baisse de 12 à 18 centimes promise de novembre à janvier grâce aux stocks stratégiques."
-   },
-   {
-    "lang": "fr",
-    "story": "Gifi : les élus du personnel déclenchent un droit d'alerte économique."
-   },
-   {
-    "lang": "fr",
-    "story": "Campagne grippe et Covid dès le 13 octobre avec 24,5 millions de doses."
-   },
-   {
-    "lang": "fr",
-    "story": "Les Bleues battent la Lettonie 9-0 ; Toulouse s'impose 45-34 face à Bayonne en Top 14."
-   }
-  ],
   "2026-10-13": [
    {
     "lang": "vi",
@@ -703,6 +629,84 @@
    {
     "lang": "fr",
     "story": "Ligue des champions : PSG bat Barcelone 4-2 au Parc des Princes."
+   }
+  ],
+  "2026-10-22": [
+   {
+    "lang": "vi",
+    "story": "VN-Index đóng cửa 21/10 ở 1.738,67 điểm, tăng khoảng 46,7 điểm; khối ngoại quay lại mua ròng khoảng 160 tỷ đồng sau chuỗi dài bán ròng."
+   },
+   {
+    "lang": "vi",
+    "story": "TCB đóng cửa 21/10 ở 34.400 đồng (+1,33%), khối ngoại mua ròng khoảng 290 tỷ đồng, phiên thứ ba liên tiếp được gom."
+   },
+   {
+    "lang": "vi",
+    "story": "SJC sáng 22/10: 139,3 - 142,3 triệu đồng/lượng, giảm phiên thứ ba liên tiếp; Vietcombank USD khoảng 25.670 - 26.050."
+   },
+   {
+    "lang": "vi",
+    "story": "Tổng Bí thư, Chủ tịch nước Tô Lâm: Việt Nam - Đan Mạch nâng lên đối tác chiến lược toàn diện, nhận Huân chương Voi; tới Brussels thăm EU và Bỉ."
+   },
+   {
+    "lang": "vi",
+    "story": "Quốc hội thảo luận tổ về luật lao động, việc làm, bảo hiểm xã hội; 22/10 chuyển sang ba dự án luật đất đai, bất động sản."
+   },
+   {
+    "lang": "vi",
+    "story": "TP.HCM có ca não mô cầu thứ năm, bé 12 tuổi; 99 người tiếp xúc gần uống thuốc dự phòng."
+   },
+   {
+    "lang": "en",
+    "story": "Ericsson and Singtel sign a five-year partnership on 5G Advanced and AI-native networks (Oct 20), alongside a Sweden-Singapore tech declaration."
+   },
+   {
+    "lang": "en",
+    "story": "AT&T adds 379,000 postpaid phone customers, below forecasts; Verizon falls about 3 percent; T-Mobile makes first AI-RAN call with Nokia and Nvidia."
+   },
+   {
+    "lang": "en",
+    "story": "Kremlin says it will resume trilateral Ukraine talks in November after Putin meets Witkoff; US prisoner Stephen Hubbard released."
+   },
+   {
+    "lang": "en",
+    "story": "Wall Street rises: Dow +0.7 percent to about 52,856 on a SpaceX-led tech rally; Brent touched about 112 dollars, highest since May."
+   },
+   {
+    "lang": "en",
+    "story": "US orders non-essential embassy staff out of Saudi Arabia amid Houthi attacks; Netanyahu reportedly pushes for renewed strikes on Iran."
+   },
+   {
+    "lang": "en",
+    "story": "NBA opens: Pistons beat Celtics 121-113, Sixers beat Knicks 106-100, Thunder beat Spurs 116-104."
+   },
+   {
+    "lang": "en",
+    "story": "Champions League: Bayern 2-2 Arsenal, Real Madrid beat Leipzig 4-1, Galatasaray won 4-2 at Lille."
+   },
+   {
+    "lang": "en",
+    "story": "Kenya confirms eighth Bundibugyo Ebola case; study finds no overall link between ultra-processed food and colorectal cancer."
+   },
+   {
+    "lang": "fr",
+    "story": "Macron préside un conseil de sécurité jeudi 22 octobre à 10 h; Lecornu reçoit les maires de Paris, Marseille et Lyon l'après-midi."
+   },
+   {
+    "lang": "fr",
+    "story": "Budget 2027 : Philippe Juvin presse Lecornu d'utiliser le 49.3 ; David Amiel chiffre à dix milliards d'euros la dégradation du solde."
+   },
+   {
+    "lang": "fr",
+    "story": "Carrefour chute d'environ 10 % après avoir abaissé ses objectifs 2026 ; EssilorLuxottica bondit d'environ 11,7 % ; la dette française à dix ans dépasse 5 %."
+   },
+   {
+    "lang": "fr",
+    "story": "Les maires demandent un fonds de solidarité nationale dans le budget 2027 ; manifestations interdites à Paris jeudi de 8 h à 20 h dans certains secteurs."
+   },
+   {
+    "lang": "fr",
+    "story": "Ligue des champions : Lille battu 4-2 par Galatasaray, toujours sans point."
    }
   ]
  }
