@@ -1,72 +1,6 @@
 {
  "note": "Stories already covered. Read before writing; skip unless materially new.",
  "episodes": {
-  "2026-10-13": [
-   {
-    "lang": "vi",
-    "story": "Ủy ban Thường vụ Quốc hội cho ý kiến về ngân sách 2027: ưu tiên kiểm soát lạm phát, bảo đảm điện và xăng dầu."
-   },
-   {
-    "lang": "vi",
-    "story": "Thủ tướng Lê Minh Hưng họp về cung ứng điện đến 2030 và điều chỉnh Quy hoạch điện VIII."
-   },
-   {
-    "lang": "vi",
-    "story": "GDP 9 tháng tăng 9,01%, quý III tăng 9,95%; CPI tháng 9 khoảng 5,08%."
-   },
-   {
-    "lang": "vi",
-    "story": "VN-Index đóng cửa 12/10 ở 1.720,98 điểm (-0,81%), khối ngoại bán ròng hơn 583 tỷ đồng."
-   },
-   {
-    "lang": "vi",
-    "story": "Vàng miếng SJC sáng 13/10: 141,3 - 144,3 triệu đồng/lượng, giảm 500.000 đồng."
-   },
-   {
-    "lang": "en",
-    "story": "OpenAI rolls out GPT-6 Sol and Luna in ChatGPT; safety report shows some regressions."
-   },
-   {
-    "lang": "en",
-    "story": "Anthropic IPO could come as soon as November, with reports of up to $100 billion raised."
-   },
-   {
-    "lang": "en",
-    "story": "Iran rejects giving up enrichment; US adds sanctions, says no strike this month."
-   },
-   {
-    "lang": "en",
-    "story": "Man City beat Liverpool 3-0 at Anfield; Bergs knocks Alcaraz out of Shanghai."
-   },
-   {
-    "lang": "en",
-    "story": "Ebola (Bundibugyo): about 8,700 confirmed cases in DRC, first imported case in Kenya."
-   },
-   {
-    "lang": "en",
-    "story": "Hubble data hint at a planet formed after its star died."
-   },
-   {
-    "lang": "fr",
-    "story": "Budget 2027: 43 milliards d'euros d'effort pour ramener le déficit à 5 % du PIB."
-   },
-   {
-    "lang": "fr",
-    "story": "Banque de France : croissance 2026 abaissée à 0,4 % ; chômage à 8,3 %."
-   },
-   {
-    "lang": "fr",
-    "story": "Grève et mobilisation lycéenne ce 13 octobre malgré 3 000 remplaçants annoncés."
-   },
-   {
-    "lang": "fr",
-    "story": "Anne Carson, prix Nobel de littérature 2026."
-   },
-   {
-    "lang": "fr",
-    "story": "Ligue 1 : PSG 3-1 Le Mans, Troyes 0-2 OM ; Top 14 : Toulouse bat Bayonne 45-34."
-   }
-  ],
   "2026-10-14": [
    {
     "lang": "vi",
@@ -707,6 +641,72 @@
    {
     "lang": "fr",
     "story": "Ligue des champions : Lille battu 4-2 par Galatasaray, toujours sans point."
+   }
+  ],
+  "2026-10-23": [
+   {
+    "lang": "vi",
+    "story": "VN-Index đóng cửa 22/10 ở 1.760,63 điểm (+21,96; +1,26%), cao nhất từ tháng Tư, nhưng chỉ 149 mã tăng so với 167 mã giảm; khối ngoại mua ròng khoảng 340 tỷ đồng phiên thứ hai."
+   },
+   {
+    "lang": "vi",
+    "story": "TCB đóng cửa 22/10 ở 34.150 đồng (-0,73%), khối ngoại mua ròng khoảng 178 tỷ đồng, phiên thứ tư liên tiếp; nhóm ngân hàng kéo chỉ số xuống."
+   },
+   {
+    "lang": "vi",
+    "story": "SJC sáng 23/10 đi ngang 139,3 - 142,3 triệu đồng/lượng; nhẫn SJC giảm hơn 1 triệu; vàng thế giới khoảng 4.091 USD/ounce; Vietcombank USD khoảng 25.660 - 26.040."
+   },
+   {
+    "lang": "vi",
+    "story": "Quốc hội thảo luận tổ Luật Đất đai, Nhà ở, Kinh doanh bất động sản sửa đổi: bảng giá đất 3 năm một lần, siết bán lại nhà ở xã hội sau 5 năm, thu tiền tăng dần với dự án chậm sử dụng đất."
+   },
+   {
+    "lang": "vi",
+    "story": "Tổng Bí thư, Chủ tịch nước Tô Lâm tới Brussels ngày 21/10, thăm chính thức EU và Bỉ đến 24/10; Phó Thủ tướng ký quyết định chuyển giao Khu liên hợp thể thao quốc gia."
+   },
+   {
+    "lang": "en",
+    "story": "Telecom: Nokia Q3 beats on AI and cloud sales (up about 123 percent) and lifts 2027 optical/IP target, but shares fall 8 to 10 percent on weaker reported profit and cash outlook."
+   },
+   {
+    "lang": "en",
+    "story": "Ericsson: shares slip in Nokia's wake; Ericsson and T-Mobile show AI gains on a live 5G Advanced network in New York; Nokia and Nvidia advance AI-RAN."
+   },
+   {
+    "lang": "en",
+    "story": "Houthis strike King Fahd airport in Saudi Arabia and an oil field; Wall Street tech sell-off with chipmakers down nearly 7 percent, per Bloomberg."
+   },
+   {
+    "lang": "en",
+    "story": "Champions League: Como 4-1 Manchester United, Club Brugge 3-0 Lens; Europa League: Juventus 2-2 Rennes, Sturm Graz 1-0 Marseille, Leverkusen 2-0 at OFI Crete."
+   },
+   {
+    "lang": "en",
+    "story": "OpenAI near $30 billion round at $1.25 trillion valuation, IPO now 2027; Anthropic could file its prospectus as soon as today. Russia hits 12 Ukrainian regions; Timberwolves 131-106 Heat, Lakers 127-105 Warriors."
+   },
+   {
+    "lang": "en",
+    "story": "Science: solar-storm train delay re-dated to 1848; FAST finds dark-galaxy candidate; study of 13 astronauts says heart may cope with Mars trip."
+   },
+   {
+    "lang": "fr",
+    "story": "Macron préside un conseil de sécurité, dénonce l'ultragauche et réclame la plus grande dureté ; recours au Conseil d'État contre des interdictions de manifester le 24 octobre."
+   },
+   {
+    "lang": "fr",
+    "story": "Lecornu reçoit les maires de Paris, Marseille et Lyon, qui veulent un fonds de solidarité nationale ; il se rend à Limoges aujourd'hui."
+   },
+   {
+    "lang": "fr",
+    "story": "Budget 2027 : le vote sur la partie recettes est reporté du 20 octobre au 3 novembre ; 15 articles sur 58 examinés."
+   },
+   {
+    "lang": "fr",
+    "story": "CAC 40 -1,39 % à 7 811 points : Hermès -4,9 %, taux à dix ans brièvement au-dessus de 5 % ; Monet « Iris » vendu 50 millions d'euros ; panne Orange et Sosh."
+   },
+   {
+    "lang": "fr",
+    "story": "Ligue Europa : Rennes 2-2 à la Juventus ; Marseille battu 1-0 à Sturm Graz, troisième défaite de suite."
    }
   ]
  }
