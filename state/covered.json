@@ -1,72 +1,6 @@
 {
  "note": "Stories already covered. Read before writing; skip unless materially new.",
  "episodes": {
-  "2026-10-14": [
-   {
-    "lang": "vi",
-    "story": "Quốc hội khóa XVI khai mạc kỳ họp thứ hai ngày 17/10, đến 20/11, khoảng 43 luật và nghị quyết."
-   },
-   {
-    "lang": "vi",
-    "story": "Phó Thủ tướng Hồ Quốc Dũng yêu cầu siết chống khai thác IUU để gỡ thẻ vàng EC trong năm 2026."
-   },
-   {
-    "lang": "vi",
-    "story": "Sân bay Quảng Trị bay kiểm tra tĩnh không ngày 15/10, nâng cấp lên cấp 4E."
-   },
-   {
-    "lang": "vi",
-    "story": "Sốt xuất huyết: Thanh Hóa 139 ca từ đầu năm; TP.HCM tuần 37 có 1.544 ca."
-   },
-   {
-    "lang": "vi",
-    "story": "VN-Index 13/10 đóng cửa 1.719,42 điểm (-0,09%), giảm phiên thứ năm liên tiếp; SJC khoảng 140,5-143,5 triệu đồng/lượng."
-   },
-   {
-    "lang": "en",
-    "story": "OpenAI annualized revenue about $50B, roughly $20B below earlier figures; Nasdaq fell 1.25%."
-   },
-   {
-    "lang": "en",
-    "story": "Finland orders Google to halt work at two data center sites over forest clearing."
-   },
-   {
-    "lang": "en",
-    "story": "Houthi strike on Riyadh airport: at least 12 dead, 309 wounded; Trump weighing joining Saudi campaign."
-   },
-   {
-    "lang": "en",
-    "story": "Drones sink a cargo ship off Bulgaria; about ten crew missing."
-   },
-   {
-    "lang": "en",
-    "story": "IMF lifts 2026 global growth to 3.1%; oil could hit $130 in a prolonged war."
-   },
-   {
-    "lang": "en",
-    "story": "Shanghai Masters: Zverev beats Bublik, Geá reaches first Masters quarterfinal."
-   },
-   {
-    "lang": "fr",
-    "story": "Budget 2027 reaches the Assemblée after the finance committee rejected the revenue section 31 to 3."
-   },
-   {
-    "lang": "fr",
-    "story": "Fitch warns it could downgrade France's A+ rating if debt keeps rising."
-   },
-   {
-    "lang": "fr",
-    "story": "Lycéen protest movement continues: 891 high schools disrupted on Oct 6, new day of action Oct 13."
-   },
-   {
-    "lang": "fr",
-    "story": "Goncourt: eight novels remain in the second selection; winner on Nov 3."
-   },
-   {
-    "lang": "fr",
-    "story": "Ligue 1: PSG 3-1 Le Mans, Marseille 2-0 Troyes; Top 14: Toulouse 45-34 Bayonne."
-   }
-  ],
   "2026-10-15": [
    {
     "lang": "vi",
@@ -707,6 +641,80 @@
    {
     "lang": "fr",
     "story": "Ligue Europa : Rennes 2-2 à la Juventus ; Marseille battu 1-0 à Sturm Graz, troisième défaite de suite."
+   }
+  ],
+  "2026-10-24": [
+   {
+    "lang": "vi",
+    "story": "VN-Index 23/10 đóng cửa 1.774,15 điểm (+13,52; +0,77%), tăng phiên thứ ba liên tiếp; khối ngoại bán ròng khoảng 480 tỷ đồng, chủ yếu ACB."
+   },
+   {
+    "lang": "vi",
+    "story": "TCB đóng cửa 23/10 ở 34.200 đồng (+0,15%), khối ngoại mua ròng phiên thứ năm liên tiếp; STB tăng trần, ACB +3,9%."
+   },
+   {
+    "lang": "vi",
+    "story": "SJC sáng 24/10: 139 - 142 triệu đồng/lượng (-300.000 đồng), nhẫn SJC giảm 1,3 triệu; vàng thế giới xuống dưới 4.000 USD/ounce."
+   },
+   {
+    "lang": "vi",
+    "story": "Quốc hội ngày làm việc thứ bảy: tờ trình Luật Ngân sách nhà nước hợp nhất, Luật Đấu thầu sửa đổi; thẩm tra Luật Trưng mua, trưng dụng tài sản."
+   },
+   {
+    "lang": "vi",
+    "story": "Thủ tướng Ba Lan Donald Tusk đến Đà Nẵng, bắt đầu chuyến thăm đến 26/10; bà Pauline Tamesis (LHQ) được Thủ tướng tiếp ngày 23/10."
+   },
+   {
+    "lang": "en",
+    "story": "Ericsson: group simplification and new executive team, two Asian market areas merge into APAC from January 2027; Verizon and Ericsson report a first outdoor 6G field call."
+   },
+   {
+    "lang": "en",
+    "story": "Telecom: Nokia and Nvidia move AI-RAN toward commercial deployment and launch a sovereign agentic AI platform for operators."
+   },
+   {
+    "lang": "en",
+    "story": "Wall Street falls on oil: Dow -1.23 percent to 52,215, Brent settles at 116.72 dollars, highest close since April, on US-Israel plans for a possible Iran strike after the midterms."
+   },
+   {
+    "lang": "en",
+    "story": "American Express to cut about 5 percent of staff; Meta plans non-voting shares to fund AI spending; reports on Anthropic's draft prospectus show 16.3 billion dollars of first-half revenue."
+   },
+   {
+    "lang": "en",
+    "story": "Oleshky ceasefire announced by the White House to start October 29; EU-Western Balkans summit set for November 25."
+   },
+   {
+    "lang": "en",
+    "story": "NBA: Thunder 96-84 Nuggets, 76ers 114-106 Cavaliers; Ligue 1: Nice 2-1 Brest."
+   },
+   {
+    "lang": "en",
+    "story": "Science: Moderna and Merck mRNA melanoma vaccine cuts recurrence risk by 42 percent; new immune defense against small cell lung cancer."
+   },
+   {
+    "lang": "fr",
+    "story": "Attaque terroriste raciste à Trappes et La Verrière : un mort de 26 ans, cinq blessés, suspect de 39 ans interpellé, parquet antiterroriste saisi."
+   },
+   {
+    "lang": "fr",
+    "story": "Samedi 24 octobre : 70 000 policiers et gendarmes mobilisés, congrès du RN à Orléans, recours devant le Conseil d'État contre les restrictions de cortèges."
+   },
+   {
+    "lang": "fr",
+    "story": "Macron reçoit une vingtaine de représentants lycéens ; première réponse attendue lundi chez le Premier ministre."
+   },
+   {
+    "lang": "fr",
+    "story": "L'Assemblée rejette la partie recettes du budget de la Sécurité sociale 2027 par 115 voix contre 1 ; le Sénat s'en saisit le 9 novembre."
+   },
+   {
+    "lang": "fr",
+    "story": "Moody's maintient la note de la France à Aa3 (perspective négative) ; CAC 40 autour de 7 783 points, Kering et Safran pénalisent."
+   },
+   {
+    "lang": "fr",
+    "story": "Football : succès de Nice 2-1 à Brest en huitième journée de Ligue 1."
    }
   ]
  }
