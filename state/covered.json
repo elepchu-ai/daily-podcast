@@ -1,80 +1,6 @@
 {
  "note": "Stories already covered. Read before writing; skip unless materially new.",
  "episodes": {
-  "2026-10-15": [
-   {
-    "lang": "vi",
-    "story": "Thủ tướng Lê Minh Hưng ký Quyết định 1966 ngày 12/10 lập Ban Chỉ đạo Trung ương các Chương trình mục tiêu quốc gia, tự làm Trưởng ban."
-   },
-   {
-    "lang": "vi",
-    "story": "TP.HCM tổ chức lễ viếng, truy điệu và an táng 731 hài cốt liệt sĩ ngày 14/10 tại Long Bình."
-   },
-   {
-    "lang": "vi",
-    "story": "GDP 9 tháng ước tăng 9,01%, quý III tăng 9,95%; xuất nhập khẩu 9 tháng đạt 888 tỷ USD, tháng 9 xuất siêu 1,27 tỷ USD."
-   },
-   {
-    "lang": "vi",
-    "story": "Kinh phí bảo trì đường bộ chỉ đáp ứng khoảng 40% nhu cầu."
-   },
-   {
-    "lang": "vi",
-    "story": "VN-Index đóng cửa 14/10 ở 1.704,87 điểm (-0,85%), phiên giảm thứ sáu liên tiếp."
-   },
-   {
-    "lang": "vi",
-    "story": "Vàng miếng SJC chốt 14/10: 140,3 - 143,3 triệu đồng/lượng, giảm 1 triệu đồng."
-   },
-   {
-    "lang": "en",
-    "story": "Anthropic held a pre-IPO investor day on October 14; last private valuation was 965 billion dollars, with a listing possibly before Thanksgiving."
-   },
-   {
-    "lang": "en",
-    "story": "Google Cloud unveiled its Gemini agent for enterprise work in private preview; OpenAI shelved GPT-6.1 Astra and shipped the cheaper Sol."
-   },
-   {
-    "lang": "en",
-    "story": "Hormuz crisis: 106 shipping incidents and 24 seafarer deaths; Iran calls the US reply to its seven conditions insufficient; Brent above 100 dollars."
-   },
-   {
-    "lang": "en",
-    "story": "IMF and World Bank meetings in Bangkok: Georgieva warns \"winter is coming\", global growth near 3 percent in 2026."
-   },
-   {
-    "lang": "en",
-    "story": "Champions League: Arsenal 3-0 Lille, Atletico 2-0 Man United, Barcelona 4-1 Galatasaray, Inter 3-4 Club Brugge."
-   },
-   {
-    "lang": "en",
-    "story": "Zverev clinches year-end world number one after Alcaraz loses to Bergs in Shanghai; Nobel chemistry goes to Kagan and Soai."
-   },
-   {
-    "lang": "fr",
-    "story": "Le budget 2027 arrive à l'Assemblée : effort de 43 milliards d'euros, le RN votera contre, le PS veut le rejeter."
-   },
-   {
-    "lang": "fr",
-    "story": "L'Insee prévoit 0,1 % de croissance au troisième trimestre et une inflation proche de 2,9 % fin 2026."
-   },
-   {
-    "lang": "fr",
-    "story": "Nouvelle journée de grève et de manifestations dans l'éducation le 13 octobre ; 3 000 remplaçants annoncés."
-   },
-   {
-    "lang": "fr",
-    "story": "Goncourt : huit romans en lice, quatre finalistes le 27 octobre, lauréat le 3 novembre."
-   },
-   {
-    "lang": "fr",
-    "story": "Ligue des champions : Arsenal bat Lille 3-0, Lens battu 2-0 par le Sporting."
-   },
-   {
-    "lang": "fr",
-    "story": "Ligue 1 : le PSG gagne 3-1 contre Le Mans, Brest écrase Angers 5-1."
-   }
-  ],
   "2026-10-16": [
    {
     "lang": "vi",
@@ -715,6 +641,84 @@
    {
     "lang": "fr",
     "story": "Football : succès de Nice 2-1 à Brest en huitième journée de Ligue 1."
+   }
+  ],
+  "2026-10-25": [
+   {
+    "lang": "vi",
+    "story": "VN-Index chốt tuần ở 1.774,15 điểm, tăng khoảng 68 điểm cả tuần; thị trường nghỉ cuối tuần."
+   },
+   {
+    "lang": "vi",
+    "story": "TCB đóng cửa 23/10 ở 34.200 đồng; khối ngoại mua ròng khoảng 990 tỷ đồng cổ phiếu TCB trong tuần, mạnh nhất theo tuần từ giữa năm 2018."
+   },
+   {
+    "lang": "vi",
+    "story": "SJC sáng 25/10: 138,7 - 141,7 triệu đồng/lượng, mất 1,9 triệu cả tuần; vàng thế giới khoảng 3.994 USD/ounce, thủng mốc 4.000 USD."
+   },
+   {
+    "lang": "vi",
+    "story": "Quốc hội ngày thứ tám nghe tờ trình năm dự án luật; Luật An toàn thực phẩm sửa đổi lấy Bộ Y tế làm đầu mối, siết bán thực phẩm online."
+   },
+   {
+    "lang": "vi",
+    "story": "Bão Champi suy yếu, không vào Biển Đông; sóng cao 4-6 m ở bắc Biển Đông."
+   },
+   {
+    "lang": "en",
+    "story": "Telecom: SpaceX reportedly seeks 80,000 US cell sites; T-Mobile -5 percent, AT&T -4, Verizon -3; FCC vote on satellite-to-phone rules set for October 29."
+   },
+   {
+    "lang": "en",
+    "story": "Telecom: Reuters says Iran has contingency plans to target Gulf undersea cables if the US strikes again."
+   },
+   {
+    "lang": "en",
+    "story": "Putin says US-mediated trilateral Ukraine talks resume on or after November 10; Russia fires about 30 ballistic missiles overnight."
+   },
+   {
+    "lang": "en",
+    "story": "Trump says US controls Hormuz; White House says no strike on Iran before midterms."
+   },
+   {
+    "lang": "en",
+    "story": "Report: OpenAI moves frontier training off the live internet after a September leak; Anthropic Agent Skills and OpenAI Open Responses join the Agentic AI Foundation."
+   },
+   {
+    "lang": "en",
+    "story": "NBA: Rockets 114-110 Spurs after Thompson's late block; F1: Antonelli on pole for the US Grand Prix; Wall Street ends the week lower with the 10-year yield near 5 percent."
+   },
+   {
+    "lang": "en",
+    "story": "Premier League: Villa 2-1 Man City, Arsenal 2-0 Everton, Fulham 1-0 Coventry."
+   },
+   {
+    "lang": "en",
+    "story": "Science: Parkinson's exercise study; blood signs of IBD up to 10 years early; Mitch protein and fat burning."
+   },
+   {
+    "lang": "fr",
+    "story": "Mobilisation du 24 octobre : 410 000 manifestants selon le ministère, près de 1 000 interpellations."
+   },
+   {
+    "lang": "fr",
+    "story": "Lyon : 22 blessés dont 18 policiers ; tentatives de pillage à Marseille."
+   },
+   {
+    "lang": "fr",
+    "story": "Congrès du RN à Orléans : Bardella réélu avec 98,98 % ; discours de Ciotti, Bardella et Le Pen dimanche."
+   },
+   {
+    "lang": "fr",
+    "story": "Fusillade de Trappes : le PNAT enquête pour assassinat en relation avec une entreprise terroriste."
+   },
+   {
+    "lang": "fr",
+    "story": "Budget : débats de l'État reprennent mardi 27 octobre ; Juvin presse Lecornu d'utiliser le 49.3."
+   },
+   {
+    "lang": "fr",
+    "story": "Lycéens : première réponse du gouvernement attendue lundi."
    }
   ]
  }
