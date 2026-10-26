@@ -1,80 +1,6 @@
 {
  "note": "Stories already covered. Read before writing; skip unless materially new.",
  "episodes": {
-  "2026-10-16": [
-   {
-    "lang": "vi",
-    "story": "Hội nghị Trung ương 4 khóa XIV bế mạc 8/10, thông qua 3 nghị quyết; Quốc hội khai mạc kỳ họp cuối năm ngày 17/10."
-   },
-   {
-    "lang": "vi",
-    "story": "Bộ Y tế đề xuất tiến tới cấm hút thuốc hoàn toàn trong nhà tại khách sạn, bar, karaoke."
-   },
-   {
-    "lang": "vi",
-    "story": "9 tháng đầu năm đón hơn 17,7 triệu khách quốc tế, tăng 14,5 phần trăm."
-   },
-   {
-    "lang": "vi",
-    "story": "Tết Nguyên đán 2027 nghỉ 7 ngày, từ 4 đến 10/2/2027."
-   },
-   {
-    "lang": "vi",
-    "story": "Thủy điện Trị An tăng xả lũ lên 610 mét khối mỗi giây lúc 16 giờ ngày 15/10."
-   },
-   {
-    "lang": "vi",
-    "story": "VN-Index đóng cửa 15/10 ở 1.698,35 điểm (giảm 0,38 phần trăm); vàng SJC 140,3 - 143,3 triệu đồng/lượng."
-   },
-   {
-    "lang": "en",
-    "story": "CoreWeave debt fears: default insurance near 1,000 basis points, AI shares sold off."
-   },
-   {
-    "lang": "en",
-    "story": "Russia's massive strike on Ukraine killed at least 9; energy ceasefire in doubt."
-   },
-   {
-    "lang": "en",
-    "story": "Drones sank a cargo ship off Bulgaria, 11 sailors missing; Sofia summoned Russia's ambassador."
-   },
-   {
-    "lang": "en",
-    "story": "US September CPI 3.7 percent; Kospi fell about 7.6 percent on Thursday."
-   },
-   {
-    "lang": "en",
-    "story": "Peshawar school roof collapse killed at least 35, mostly children."
-   },
-   {
-    "lang": "en",
-    "story": "PSG beat Man City 4-2; Real Madrid came back to win 4-3 at Roma; Pope Leo recovering after lung cancer surgery."
-   },
-   {
-    "lang": "fr",
-    "story": "Budget 2027: l'Assemblée poursuit l'examen des recettes; objectif de déficit de 5 pour cent."
-   },
-   {
-    "lang": "fr",
-    "story": "Croissance 2026 prévue à 0,4 pour cent, chômage à 8,3 pour cent au T2."
-   },
-   {
-    "lang": "fr",
-    "story": "Loi intégrale contre les violences sexistes et sexuelles adoptée: 503 voix pour, 0 contre."
-   },
-   {
-    "lang": "fr",
-    "story": "Exposition Belmondo à la Cinémathèque jusqu'au 31 janvier; Goncourt le 3 novembre."
-   },
-   {
-    "lang": "fr",
-    "story": "PSG 4-2 Manchester City en Ligue des champions."
-   },
-   {
-    "lang": "fr",
-    "story": "Lyon bat Crystal Palace 3-2 en Ligue Europa."
-   }
-  ],
   "2026-10-17": [
    {
     "lang": "vi",
@@ -719,6 +645,72 @@
    {
     "lang": "fr",
     "story": "Lycéens : première réponse du gouvernement attendue lundi."
+   }
+  ],
+  "2026-10-26": [
+   {
+    "lang": "vi",
+    "story": "TCB đóng cửa 23/10 ở 34.200 đồng (+0,15%), giá xác nhận gần nhất; dòng tiền xoay sang ngân hàng, VIC đóng góp gần 37 điểm cho VN-Index tuần trước."
+   },
+   {
+    "lang": "vi",
+    "story": "VN-Index cận vùng cản 1.776-1.780 điểm; công ty chứng khoán khuyên chờ nhịp chỉnh về quanh 1.740 để mua thăm dò."
+   },
+   {
+    "lang": "vi",
+    "story": "SJC sáng 26/10 đi ngang 138,7 - 141,7 triệu đồng/lượng; vàng thế giới quanh 3.995 USD/ounce."
+   },
+   {
+    "lang": "vi",
+    "story": "Luật Định danh và xác thực điện tử (8 chương, 46 điều) và 4 dự án luật an ninh được Bộ Công an trình sáng 26/10; đề xuất nâng mức phạt hành chính tối đa lên 1,5 tỷ (cá nhân) và 3 tỷ đồng (tổ chức)."
+   },
+   {
+    "lang": "vi",
+    "story": "Thủ tướng Ba Lan Tusk kết thúc thăm chính thức hôm nay; Chủ tịch Quốc hội kiểm tra Nghị quyết 41/2026/QH16 tại Phú Quốc; Đà Nẵng thắng Hà Nội 1-0 ở V-League."
+   },
+   {
+    "lang": "en",
+    "story": "Ericsson: new KTH-NTU 6G positioning research initiative starts in November; share buyback of up to 15 billion kronor continues to March 2027."
+   },
+   {
+    "lang": "en",
+    "story": "Telecom: FCC votes Thursday on satellite-to-phone spectrum; carriers via CTIA want 2.5 and 3.45 GHz kept off limits; T-Mobile reports Wednesday."
+   },
+   {
+    "lang": "en",
+    "story": "Oleshky ceasefire start disputed: White House says October 29, Ukraine's ombudsman says October 27; technical talks planned in Abu Dhabi in early November."
+   },
+   {
+    "lang": "en",
+    "story": "Asia opens week on edge: Kospi down almost a fifth in October, Brent at 116.72 dollars on Friday."
+   },
+   {
+    "lang": "en",
+    "story": "Sport: Antonelli wins US Grand Prix; Liverpool 2-0 Brighton, Bournemouth 3-0 Man United; Lions 20-17 Packers."
+   },
+   {
+    "lang": "en",
+    "story": "Science: glioblastoma study on how brain cancer cells turn aggressive."
+   },
+   {
+    "lang": "fr",
+    "story": "Congrès du RN : Marine Le Pen lance sa campagne, Bardella annoncé Premier ministre ; discours de Bardella brièvement interrompu par l'UEJF."
+   },
+   {
+    "lang": "fr",
+    "story": "Manifestations de samedi : bilan relevé à 1 314 interpellations et 53 membres des forces de l'ordre blessés."
+   },
+   {
+    "lang": "fr",
+    "story": "Trappes : le suspect placé en observation psychiatrique selon Reuters ; meurtre à Dijon dans un contexte intrafamilial."
+   },
+   {
+    "lang": "fr",
+    "story": "PMI flash d'octobre : repli simultané des services et de l'industrie."
+   },
+   {
+    "lang": "fr",
+    "story": "Ligue 1 : OM 4-3 Le Havre, Rennes 3-0 Strasbourg ; PSG-Lyon ce soir."
    }
   ]
  }
