@@ -1,76 +1,6 @@
 {
  "note": "Stories already covered. Read before writing; skip unless materially new.",
  "episodes": {
-  "2026-10-17": [
-   {
-    "lang": "vi",
-    "story": "Quốc hội khóa XVI khai mạc kỳ họp thứ 2 sáng 17/10, dự kiến đến khoảng 21/11, xem xét khoảng 43 dự án luật, nghị quyết."
-   },
-   {
-    "lang": "vi",
-    "story": "Cán bộ, công chức cấp xã hưởng phụ cấp công vụ 55% theo Nghị định 381/2026."
-   },
-   {
-    "lang": "vi",
-    "story": "GDP 9 tháng tăng 9,01%, xuất khẩu 434,3 tỷ USD (+24,5%), CPI tháng 9 tăng 5,08%."
-   },
-   {
-    "lang": "vi",
-    "story": "Hà Nội ký hợp đồng 5 tuyến metro, tổng vốn gần 900.000 tỷ đồng, mục tiêu hoàn thành năm 2030."
-   },
-   {
-    "lang": "vi",
-    "story": "4 ca liên cầu lợn trong 2 tuần; Long Thành giai đoạn 1 phải khai thác trong năm 2026."
-   },
-   {
-    "lang": "vi",
-    "story": "VN-Index 16/10: 1.705,91 điểm (+7,56); vàng SJC 140,9 - 143,9 triệu đồng/lượng."
-   },
-   {
-    "lang": "en",
-    "story": "Trump says the US may strike Iran's Pickaxe Mountain nuclear site, ruling out nuclear weapons and ground troops."
-   },
-   {
-    "lang": "en",
-    "story": "Zelenskyy in Brussels: no sign Russia wants peace; Kramatorsk bus strike killed over 30."
-   },
-   {
-    "lang": "en",
-    "story": "US inflation rose to 3.7% in September; gasoline up 9.1%, core 2.6%."
-   },
-   {
-    "lang": "en",
-    "story": "FTC probing OpenAI and Anthropic over AI agent safety; Google prices Gemini 4 Argon at $2/$10 per million tokens."
-   },
-   {
-    "lang": "en",
-    "story": "Brewers sweep Dodgers 4-0 for first pennant since 1982; Man City beat Liverpool 3-0."
-   },
-   {
-    "lang": "en",
-    "story": "USC reports renewable source of engineered cancer-fighting immune cells; Konstanz plastic-eating enzyme."
-   },
-   {
-    "lang": "fr",
-    "story": "Mobilisation du 17 octobre : environ 500 actions envisagées, Paris interdit autour de l'Élysée et de Matignon."
-   },
-   {
-    "lang": "fr",
-    "story": "Budget : la commission rejette l'État puis la Sécu ; croissance 2026 prévue à 0,4 %."
-   },
-   {
-    "lang": "fr",
-    "story": "Mouvement lycéen : plus de 250 000 manifestants début octobre, cinq chantiers annoncés par Lecornu."
-   },
-   {
-    "lang": "fr",
-    "story": "Goncourt : le roman de Thélyson Orélien retiré après accusations de plagiat et d'IA."
-   },
-   {
-    "lang": "fr",
-    "story": "Ligue 1 : PSG 3-1 Le Mans, Troyes 0-2 OM, Lens 2-1 Lyon ; C1 : Arsenal 3-0 Lille, Lens battu 2-0 par le Sporting."
-   }
-  ],
   "2026-10-18": [
    {
     "lang": "vi",
@@ -711,6 +641,68 @@
    {
     "lang": "fr",
     "story": "Ligue 1 : OM 4-3 Le Havre, Rennes 3-0 Strasbourg ; PSG-Lyon ce soir."
+   }
+  ],
+  "2026-10-27": [
+   {
+    "lang": "vi",
+    "story": "VN-Index 26/10 đóng cửa 1.763,55 điểm (-10,60; -0,60%), đứt chuỗi bốn phiên tăng; khối ngoại bán ròng khoảng 890 tỷ đồng, FPT bị bán mạnh nhất."
+   },
+   {
+    "lang": "vi",
+    "story": "TCB giảm 1,17% phiên 26/10 (khoảng 33.800 đồng, suy ra từ mức đóng cửa 34.200 đồng ngày 23/10); khối ngoại mua ròng khoảng 64 tỷ, tự doanh mua ròng khoảng 51 tỷ đồng."
+   },
+   {
+    "lang": "vi",
+    "story": "SJC chiều 26/10 đi ngang 138,7 - 141,7 triệu đồng/lượng; vàng thế giới hồi lên quanh 4.020 USD/ounce."
+   },
+   {
+    "lang": "vi",
+    "story": "Tỷ giá trung tâm 25.627 đồng/USD; Vietcombank bán ra khoảng 26.030 đồng, thị trường tự do 26.400 - 26.500 đồng."
+   },
+   {
+    "lang": "vi",
+    "story": "Miền Bắc đón đợt không khí lạnh cường độ trung bình trong tuần; rét đậm, rét hại đầu tiên dự báo đến muộn, cuối tháng 12 đến tháng 1."
+   },
+   {
+    "lang": "en",
+    "story": "Telecom: Comcast lost about 144,000 broadband customers in Q3 and plans a roughly 1 billion dollar Q4 restructuring charge with layoffs."
+   },
+   {
+    "lang": "en",
+    "story": "Telecom: Nokia and ICEYE sign a Ukraine deal to explore sovereign LEO satellite communications; VEON reports 11 million Starlink direct-to-device users across Ukraine, Kazakhstan and Bangladesh."
+   },
+   {
+    "lang": "en",
+    "story": "Anthropic publicly files its S-1: Nasdaq ticker ANT, 16.3 billion dollars first-half revenue, 80.7 billion dollar net loss, pricing possibly November 19-20."
+   },
+   {
+    "lang": "en",
+    "story": "Lula wins a fourth term in Brazil, about 51.5 to 48.5 over Flávio Bolsonaro."
+   },
+   {
+    "lang": "en",
+    "story": "Russia accuses Ukraine of strikes on Oleshky before the ceasefire; Brent slips about 1.3 percent to around 115 dollars."
+   },
+   {
+    "lang": "en",
+    "story": "Sport: PSG 2-0 Lyon; Brewers lead the World Series 2-0 after a 5-4 comeback over the Rays."
+   },
+   {
+    "lang": "fr",
+    "story": "Lycéens : le gouvernement annonce 500 postes dans les lycées, 1 264 en BTS, classes limitées à 28 en seconde d'ici 2028 et annule 836 suppressions de postes ; les syndicats appellent à de nouvelles mobilisations les 31 octobre et 5 novembre."
+   },
+   {
+    "lang": "fr",
+    "story": "CAC 40 : +0,83 % à 7 847 points, porté par une détente des taux à dix ans."
+   },
+   {
+    "lang": "fr",
+    "story": "Le Sénat examine le projet de loi constitutionnelle sur une Corse autonome ; la partie État du budget reprend à l'Assemblée."
+   },
+   {
+    "lang": "fr",
+    "story": "Ligue 1 : PSG 2-0 Lyon, Paris seul en tête avec 17 points devant Rennes (16)."
    }
   ]
  }
