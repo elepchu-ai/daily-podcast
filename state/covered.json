@@ -1,80 +1,6 @@
 {
  "note": "Stories already covered. Read before writing; skip unless materially new.",
  "episodes": {
-  "2026-10-18": [
-   {
-    "lang": "vi",
-    "story": "Quốc hội khóa XVI khai mạc Kỳ họp thứ 2 ngày 17/10, làm việc hai đợt đến 21/11."
-   },
-   {
-    "lang": "vi",
-    "story": "Tổng thống Thụy Sĩ Guy Parmelin thăm chính thức Việt Nam 17-18/10, kỷ niệm 55 năm quan hệ."
-   },
-   {
-    "lang": "vi",
-    "story": "GDP 9 tháng tăng khoảng 9%, CPI bình quân 4,52%; UOB nâng dự báo GDP 2026 lên 9,2%."
-   },
-   {
-    "lang": "vi",
-    "story": "Giá xăng E10 RON95 giảm 1.225 đồng, còn không quá 27.029 đồng/lít (15/10)."
-   },
-   {
-    "lang": "vi",
-    "story": "9 tháng đón 17,7 triệu khách quốc tế, tăng 14,5%."
-   },
-   {
-    "lang": "vi",
-    "story": "VN-Index đóng cửa 16/10 ở 1.705,91 điểm; vàng SJC tối 17/10: 140,6 - 143,6 triệu đồng/lượng."
-   },
-   {
-    "lang": "en",
-    "story": "Anthropic IPO reportedly eyed at about $1.5 trillion for November, down from $2 trillion; Q3 revenue $16.8 billion."
-   },
-   {
-    "lang": "en",
-    "story": "White House voluntary AI accord with major AI chiefs; FTC reportedly probing OpenAI and Anthropic."
-   },
-   {
-    "lang": "en",
-    "story": "Trump waived Graham Act sanctions and tariffs on Russia; Zelenskyy calls it wrong."
-   },
-   {
-    "lang": "en",
-    "story": "Pakistan-Afghanistan border clashes continue; Pakistan declares emergency in Khyber Pakhtunkhwa."
-   },
-   {
-    "lang": "en",
-    "story": "IMF lifts 2026 global growth to 3.1%; warns AI-boom resilience is near its limit."
-   },
-   {
-    "lang": "en",
-    "story": "Liverpool won 2-1 at Brentford, Chelsea 2-0 at Everton; all-Spanish Shanghai Masters final today."
-   },
-   {
-    "lang": "fr",
-    "story": "Budget 2027: motion de rejet du PS repoussée par 236 voix contre 149."
-   },
-   {
-    "lang": "fr",
-    "story": "Inflation à 3,1 % sur un an en septembre, plus haut depuis janvier 2024."
-   },
-   {
-    "lang": "fr",
-    "story": "Mobilisation du 17 octobre : 550 000 manifestants selon le gouvernement, violences en marge."
-   },
-   {
-    "lang": "fr",
-    "story": "Expositions Mary Cassatt (Orsay) et Belmondo (Cinémathèque) jusqu'au 31 janvier."
-   },
-   {
-    "lang": "fr",
-    "story": "Ligue 1 : le PSG s'impose 3-1 à Strasbourg."
-   },
-   {
-    "lang": "fr",
-    "story": "Lens gagne 3-1 à Troyes, Lille tenu en échec 1-1 par Brest ; trois équipes à 14 points."
-   }
-  ],
   "2026-10-19": [
    {
     "lang": "vi",
@@ -703,6 +629,72 @@
    {
     "lang": "fr",
     "story": "Ligue 1 : PSG 2-0 Lyon, Paris seul en tête avec 17 points devant Rennes (16)."
+   }
+  ],
+  "2026-10-28": [
+   {
+    "lang": "vi",
+    "story": "VN-Index 27/10 đóng cửa 1.761,87 điểm (-1,68; -0,1%), phiên giảm thứ ba liên tiếp, thanh khoản thấp; khối ngoại bán ròng khoảng 319 tỷ đồng."
+   },
+   {
+    "lang": "vi",
+    "story": "TCB kết phiên 27/10 khoảng 33.550 đồng; là mã được khối ngoại mua ròng mạnh nhất, khoảng 112,5 tỷ đồng; ngày giao dịch không hưởng quyền cổ tức cổ phiếu 50% dự kiến 29/10, vốn điều lệ lên 106.593 tỷ đồng."
+   },
+   {
+    "lang": "vi",
+    "story": "SJC 27/10 tăng 300.000 đồng lên 139 - 142 triệu đồng/lượng; tỷ giá trung tâm 25.633 đồng/USD (+6)."
+   },
+   {
+    "lang": "vi",
+    "story": "Diễn đàn Kinh tế mùa Thu AEF 2026 tại TP.HCM, đồng thương hiệu WEF; Thủ tướng Lê Minh Hưng đối thoại với lãnh đạo WEF sáng nay."
+   },
+   {
+    "lang": "vi",
+    "story": "Trung Bộ mưa lớn, có nơi trên 250 mm; TP.HCM ghi nhận 5 ca não mô cầu trong một tuần, 1 ca tử vong; CAHN thắng Shanghai Port 3-2 tại AFC Champions League Elite."
+   },
+   {
+    "lang": "en",
+    "story": "Telecom: Verizon adds 406,000 postpaid phones in Q3, best third quarter in five years, and raises 2026 guidance for the third time."
+   },
+   {
+    "lang": "en",
+    "story": "Ericsson: former CEO Börje Ekholm elected to the Nasdaq board from November 1; FCC votes Thursday on auctioning 25 MHz of mid-band spectrum for direct-to-device service."
+   },
+   {
+    "lang": "en",
+    "story": "Israel election: exit polls show Likud largest party but the two blocs about tied at 50-52 seats; turnout 77.7 percent, highest in over two decades."
+   },
+   {
+    "lang": "en",
+    "story": "Wall Street rises ahead of the Fed decision; Brent falls to about 113.86 dollars on hopes of Iran talks; Anthropic IPO could raise up to 100 billion dollars."
+   },
+   {
+    "lang": "en",
+    "story": "Sport: Brewers rout Rays 10-1, lead World Series 3-0; Fleetwood knock Arsenal out of the League Cup on penalties; Warriors, Thunder and Bucks win in the NBA."
+   },
+   {
+    "lang": "en",
+    "story": "Health: NEJM study finds Ebola survivors report more lasting symptoms a year on; China's September industrial profits surge."
+   },
+   {
+    "lang": "fr",
+    "story": "Le Sénat rejette par 181 voix contre 134 la réforme constitutionnelle sur l'autonomie de la Corse ; le PNC quitte le processus de Beauvau."
+   },
+   {
+    "lang": "fr",
+    "story": "Confiance des ménages (Insee) : 80 points en octobre, plus bas depuis juin 2013."
+   },
+   {
+    "lang": "fr",
+    "story": "Le RN annonce des poursuites en diffamation contre Le Monde après un article sur l'attentat de Trappes."
+   },
+   {
+    "lang": "fr",
+    "story": "Nice : procès de dix militants d'ultradroite reporté au 26 novembre."
+   },
+   {
+    "lang": "fr",
+    "story": "Prix d'automne : liste des finalistes du Goncourt attendue, Renaudot publie sa liste finale ; lauréats le 3 novembre."
    }
   ]
  }
