@@ -1,76 +1,6 @@
 {
  "note": "Stories already covered. Read before writing; skip unless materially new.",
  "episodes": {
-  "2026-10-19": [
-   {
-    "lang": "vi",
-    "story": "VN-Index đóng cửa 16/10 ở 1.705,91 điểm (+0,45 phần trăm), chấm dứt chuỗi 7 phiên giảm."
-   },
-   {
-    "lang": "vi",
-    "story": "Vàng miếng SJC ngày 18/10: 140,6 mua vào, 143,6 bán ra triệu đồng/lượng, giảm 1,2 triệu trong tuần."
-   },
-   {
-    "lang": "vi",
-    "story": "GDP quý III tăng 9,95 phần trăm; CPI tháng 9 tăng 5,08 phần trăm so với cùng kỳ."
-   },
-   {
-    "lang": "vi",
-    "story": "Xăng E5 RON 92 tối đa 26.971 đồng/lít; kỳ điều hành tới có thể giảm."
-   },
-   {
-    "lang": "vi",
-    "story": "TP.HCM có ca não mô cầu thứ 4 trong trường học; Hà Nội 400 ca sốt xuất huyết một tuần."
-   },
-   {
-    "lang": "vi",
-    "story": "Từ 20/10 Hà Nội điều chỉnh 4 tuyến buýt và tổ chức giao thông mới ở Long Biên."
-   },
-   {
-    "lang": "en",
-    "story": "Google opened Gemini 4 Argon to paying users around October 13."
-   },
-   {
-    "lang": "en",
-    "story": "China proposed export controls on 23 AI-related technologies; comment open until November 15."
-   },
-   {
-    "lang": "en",
-    "story": "Iran says Hormuz could reopen in six days if US meets its conditions; Washington has not agreed."
-   },
-   {
-    "lang": "en",
-    "story": "Ukraine hit a Saint Petersburg oil terminal in one of its biggest drone raids of the year."
-   },
-   {
-    "lang": "en",
-    "story": "IMF sees global growth at 3.1 percent in 2026 and inflation at 4.7 percent; Brent near 109.86 dollars."
-   },
-   {
-    "lang": "en",
-    "story": "Davidovich Fokina won the Shanghai Masters; Arsenal won 1-0 at Forest, Brighton beat Palace 5-0."
-   },
-   {
-    "lang": "fr",
-    "story": "Budget 2027 prévoit 54 milliards d'euros d'économies, sans majorité à l'Assemblée."
-   },
-   {
-    "lang": "fr",
-    "story": "Insee et Banque de France: croissance 2026 à 0,4 pour cent, inflation 3,0 pour cent en septembre."
-   },
-   {
-    "lang": "fr",
-    "story": "Plus de 1 300 stations touchées par une pénurie de carburant début octobre."
-   },
-   {
-    "lang": "fr",
-    "story": "Goncourt: huit romans en lice, lauréat le 3 novembre; le Renaudot fête son centenaire."
-   },
-   {
-    "lang": "fr",
-    "story": "Ligue 1: PSG gagne 3-1 à Strasbourg; Lyon, vainqueur 2-1 de Nice, prend la tête."
-   }
-  ],
   "2026-10-20": [
    {
     "lang": "vi",
@@ -695,6 +625,88 @@
    {
     "lang": "fr",
     "story": "Prix d'automne : liste des finalistes du Goncourt attendue, Renaudot publie sa liste finale ; lauréats le 3 novembre."
+   }
+  ],
+  "2026-10-29": [
+   {
+    "lang": "vi",
+    "story": "VN-Index 28/10 đóng cửa 1.766,65 điểm (+4,78; +0,27%), phiên tăng đầu tiên sau ba phiên giảm; khối ngoại bán ròng khoảng 260 tỷ đồng, FPT bị bán ròng gần 260 tỷ."
+   },
+   {
+    "lang": "vi",
+    "story": "TCB 28/10 giảm 0,15% (khoảng 33.500 đồng), khối ngoại mua ròng 172,17 tỷ đồng, phiên thứ 9 liên tiếp; hôm nay 29/10 là ngày giao dịch không hưởng quyền cổ tức cổ phiếu 50%, giá tham chiếu điều chỉnh về quanh 22.300 đồng (tính toán)."
+   },
+   {
+    "lang": "vi",
+    "story": "Kỳ điều hành giá xăng dầu chiều nay 29/10: một số nguồn dự báo tăng 800-900 đồng/lít dù dầu thế giới hạ nhiệt."
+   },
+   {
+    "lang": "vi",
+    "story": "Trung Bộ mưa to từ Hà Tĩnh đến Đà Nẵng đến hết 29/10; không khí lạnh về miền Bắc khoảng 1-2/11."
+   },
+   {
+    "lang": "vi",
+    "story": "AEF 2026 (TP.HCM, đồng thương hiệu WEF) bế mạc hôm nay; dự kiến công bố 12 dự án tổng vốn hơn 13 tỷ USD."
+   },
+   {
+    "lang": "vi",
+    "story": "Bộ Công an đề xuất bổ sung 24 tội danh mà pháp nhân thương mại phải chịu trách nhiệm hình sự."
+   },
+   {
+    "lang": "vi",
+    "story": "Bệnh viện Nhi đồng 1 cứu bé 7 tuổi ở Cần Thơ biến chứng nặng do cúm A, hỗ trợ ECMO gần 12 ngày."
+   },
+   {
+    "lang": "en",
+    "story": "Telecom: FCC votes today on a 25 MHz mid-band auction for satellite-to-phone service and on seeking comment on 482 MHz more; AT&T, Verizon and T-Mobile oppose. Qualcomm reports November 4 after weak July guidance."
+   },
+   {
+    "lang": "en",
+    "story": "Fed holds at 3.75-4 percent in a 10-2 vote, both dissenters wanting a hike; markets price about 85 percent odds of a December 9 hike."
+   },
+   {
+    "lang": "en",
+    "story": "Alphabet Q3: revenue up 25 percent to 127.6 billion dollars, Google Cloud roughly doubles to 30.7 billion, backlog 561 billion."
+   },
+   {
+    "lang": "en",
+    "story": "Sport: Rays win Game 4 of the World Series 4-3 in 12 innings; Brewers lead 3-1."
+   },
+   {
+    "lang": "en",
+    "story": "Sport: Liverpool beat Chelsea 6-5 on penalties after a 1-1 draw in the Carabao Cup."
+   },
+   {
+    "lang": "en",
+    "story": "Ukraine: Kremlin says Zelensky can come to Moscow for talks; Putin floats a Xi-Trump-Putin meeting at APEC in November."
+   },
+   {
+    "lang": "en",
+    "story": "Health: Bundibugyo Ebola outbreak passes 10,000 cases and 4,887 deaths, with cases in Kenya, Nigeria and Uganda."
+   },
+   {
+    "lang": "fr",
+    "story": "Trappes: le gouvernement annonce un hommage national aux victimes de l'attentat."
+   },
+   {
+    "lang": "fr",
+    "story": "Chômage : catégorie A en hausse de 0,9 pour cent au troisième trimestre, à 3,35 millions."
+   },
+   {
+    "lang": "fr",
+    "story": "Trappes : un suspect de 39 ans en garde à vue, le PNAT saisi."
+   },
+   {
+    "lang": "fr",
+    "story": "Le Sénat adopte et élargit le projet de loi « casseurs-payeurs »."
+   },
+   {
+    "lang": "fr",
+    "story": "Budget 2027 : l'Assemblée poursuit l'examen du projet de loi de finances ; l'objectif de déficit reste 5 pour cent du PIB."
+   },
+   {
+    "lang": "fr",
+    "story": "Goncourt : lauréat attendu le 3 novembre chez Drouant."
    }
   ]
  }
