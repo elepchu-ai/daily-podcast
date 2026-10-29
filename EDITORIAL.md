@@ -91,3 +91,18 @@ them correctly, and keep plain paragraphs: no lists, URLs or tables.
    warning (rewrite the repeated story, or drop it) before committing.
 2. Run `python scripts/check_novelty.py --update-index` and commit
    `state/covered.json` together with the episode.
+
+## 8. Requested follow-ups (check every day, remove when done)
+
+Stories the listener asked to follow. Cover each as a **new development
+only** (the outcome, not a repeat of the preview), then delete the line in the
+same commit as the episode.
+
+- **FCC satellite-to-phone votes (open meeting of 29 Oct 2026):** report the
+  outcome of both linked items: (1) advancing the auction of 25 MHz of
+  mid-band spectrum for direct-to-device service (1675-1695 and 2020-2025
+  MHz), and (2) the proposal to seek comment on 482 MHz more for
+  supplemental coverage from space. State the vote count, any dissent, the
+  next steps and dates, and the reaction of AT&T, Verizon and T-Mobile versus
+  SpaceX and Amazon. Put it in the Ericsson / telecom block. If the vote was
+  postponed, say that instead.
