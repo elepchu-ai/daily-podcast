@@ -1,72 +1,6 @@
 {
  "note": "Stories already covered. Read before writing; skip unless materially new.",
  "episodes": {
-  "2026-10-21": [
-   {
-    "lang": "vi",
-    "story": "Techcombank công bố lợi nhuận trước thuế quý ba 10,4 nghìn tỷ đồng (+25,8%), cao nhất theo quý; chín tháng 28,9 nghìn tỷ, thu dịch vụ +40%."
-   },
-   {
-    "lang": "vi",
-    "story": "TCB đóng cửa 20/10 ở 33.950 đồng, khối lượng khoảng 30 triệu cổ phiếu, khối ngoại mua ròng khoảng 345 tỷ đồng; sáng 21/10 quanh 34.000 đến 34.200 đồng, chưa có giá đóng cửa."
-   },
-   {
-    "lang": "vi",
-    "story": "NHNN yêu cầu giảm lãi suất: tiền gửi từ sáu tháng giảm tối thiểu 0,5%/năm, cho vay ưu tiên giảm 1,5 đến 2%/năm; nhiều ngân hàng đã hạ lãi suất."
-   },
-   {
-    "lang": "vi",
-    "story": "VN-Index đóng cửa 20/10 ở 1.691,97 điểm (+0,13%); SJC sáng 21/10 139,3 - 142,3 triệu đồng/lượng; Vietcombank USD 25.660 - 26.070."
-   },
-   {
-    "lang": "vi",
-    "story": "Quốc hội nghe tờ trình bảy dự án luật (hiến mô tạng, phòng chống tác hại thuốc lá...) và thảo luận luật lao động, bảo hiểm xã hội; Bộ Y tế ban hành tiêu chí y tế xã 2026-2035."
-   },
-   {
-    "lang": "vi",
-    "story": "Siêu bão Champi hướng về Đài Loan; gió đông bắc mạnh cấp 6-7 ở bắc Biển Đông ngày 23-24/10."
-   },
-   {
-    "lang": "en",
-    "story": "Ericsson and Telstra expand collaboration on autonomous networks (Oct 20); Ericsson Q3 showed 7 percent organic growth and a 17 percent adjusted margin."
-   },
-   {
-    "lang": "en",
-    "story": "Deutsche Telekom, Orange, Telefónica and Vodafone sign a letter of intent to explore a joint bid for European satellite spectrum, a response to Starlink."
-   },
-   {
-    "lang": "en",
-    "story": "Nokia completes the sale of its fixed wireless access business to Inseego, keeping about 11 percent; Germany moves to classify the RAN as critical infrastructure."
-   },
-   {
-    "lang": "en",
-    "story": "OpenAI reportedly seeks about 30 billion dollars at a valuation above 1.4 trillion ahead of Anthropic's expected November listing."
-   },
-   {
-    "lang": "en",
-    "story": "Iran says Hormuz stays closed until the US accepts its seven-day plan; Brent settled near 108.79 dollars; Dow +1 percent."
-   },
-   {
-    "lang": "fr",
-    "story": "Lecornu reçoit les syndicats à Matignon sur la sécurité des cortèges; les lycéens ne sont pas invités; 46 saisines au Défenseur des droits."
-   },
-   {
-    "lang": "fr",
-    "story": "Budget 2027 : les débats démarrent dans l'hémicycle; 49.3 possible, ordonnances envisageables à partir du 18 décembre."
-   },
-   {
-    "lang": "fr",
-    "story": "Marseille : couvre-feu pour les mineurs de 22 h à 5 h jusqu'au 23 octobre; Payan réclame 28 millions d'euros à l'État."
-   },
-   {
-    "lang": "fr",
-    "story": "Les cheminots appellent à la grève le 5 novembre, veille du lancement du TGV M."
-   },
-   {
-    "lang": "fr",
-    "story": "Ligue des champions : PSG bat Barcelone 4-2 au Parc des Princes."
-   }
-  ],
   "2026-10-22": [
    {
     "lang": "vi",
@@ -699,6 +633,76 @@
    {
     "lang": "fr",
     "story": "CAC 40 : +1,05 % à environ 7 970 points, Renault +6,9 %, Air Liquide +1,8 %."
+   }
+  ],
+  "2026-10-31": [
+   {
+    "lang": "vi",
+    "story": "VN-Index 30/10 đóng cửa 1.741,62 điểm (-13,99; -0,8%), phiên giảm thứ hai liên tiếp; 253 mã giảm, 72 mã tăng; khối ngoại bán ròng khoảng 634 tỷ đồng trên HOSE; cả tuần mất 32,53 điểm (-1,83%)."
+   },
+   {
+    "lang": "vi",
+    "story": "TCB 30/10 đóng cửa 21.600 đồng (-750 đồng, -3,36%), khớp khoảng 17,6 triệu cổ phiếu; 30/10 là ngày đăng ký cuối cùng chia cổ tức 50% bằng cổ phiếu, vốn điều lệ sau phát hành khoảng 106.294 tỷ đồng."
+   },
+   {
+    "lang": "vi",
+    "story": "SJC giảm 1,3 triệu về 138,4 - 141,4 triệu đồng/lượng; vàng thế giới quanh 3.962 USD/ounce; Vietcombank bán USD khoảng 26.020 đồng."
+   },
+   {
+    "lang": "vi",
+    "story": "Xuất nhập khẩu 10 tháng lần đầu vượt 1.000 tỷ USD (ước 1.010,6 tỷ, +32,3%); tháng 10 xuất siêu 6,8 tỷ USD."
+   },
+   {
+    "lang": "vi",
+    "story": "Đại biểu bàn cơ chế bảo lãnh để bảo vệ người mua nhà trong dự thảo luật mới về bất động sản; xét xử Mr Pips chuyển sang xét hỏi; công an Hà Nội khởi tố người vận hành cần cẩu làm đổ tường."
+   },
+   {
+    "lang": "en",
+    "story": "Telecom: Ericsson and AT&T demo drone detection over a 5G network in Arlington using massive MIMO radios; Samsung's phones-and-networks unit loses about 0.6 trillion won in Q3 despite record group profit; Nokia and Nvidia advance AI-native networks."
+   },
+   {
+    "lang": "en",
+    "story": "Wall Street's worst day since June: Nasdaq about -2.9 percent, S&P 500 about -1.8 percent; Intel plunges roughly a quarter after weak guidance, Amazon misses; Nasdaq loses 5.2 percent in October."
+   },
+   {
+    "lang": "en",
+    "story": "Bank of Japan holds at 1.25 percent (8-1), signals possible December hike; euro-zone GDP +0.4 percent in Q3."
+   },
+   {
+    "lang": "en",
+    "story": "Trump says Iran war ends \"very soon\" and no strike before the midterms; Iran now claims four tankers hit mines, CENTCOM calls it false."
+   },
+   {
+    "lang": "en",
+    "story": "Ukraine: Dnipro blackout after Russian strikes; Israel election leaves no majority, coalition talks ahead; Ebola outbreak passes 10,000 confirmed cases."
+   },
+   {
+    "lang": "en",
+    "story": "Sport: PSG beat Le Havre 5-1 (Hakimi hat-trick), Lille edge Lens 1-0 (Giroud). Science: CTE found in about three in four deceased ex-NFL players; Juno maps Jupiter's plasma defenses."
+   },
+   {
+    "lang": "fr",
+    "story": "PIB : -0,1 % au troisième trimestre (Insee), commerce extérieur -0,6 point ; Lescure plaide pour un budget."
+   },
+   {
+    "lang": "fr",
+    "story": "Inflation : 3,4 % sur un an en octobre contre 3,1 % en septembre, énergie +24,1 %."
+   },
+   {
+    "lang": "fr",
+    "story": "Mobilisation contre la vie chère samedi : le tribunal administratif suspend l'arrêté de la préfecture sur le parcours CGT, Nuñez fait appel ; plus de 30 stations de métro fermées."
+   },
+   {
+    "lang": "fr",
+    "story": "Budget 2027 : taxe au gigaoctet adoptée 11 voix contre 10 ; vote solennel sur les recettes le 3 novembre."
+   },
+   {
+    "lang": "fr",
+    "story": "Trappes : le suspect mis en examen, arrêté puis relâché trois jours avant ; Édouard Philippe témoin assisté ; collision de trains en Espagne, 69 morts."
+   },
+   {
+    "lang": "fr",
+    "story": "Ligue 1 : Nice bat Rennes 5-2 (triplé de Wahi)."
    }
   ]
  }
