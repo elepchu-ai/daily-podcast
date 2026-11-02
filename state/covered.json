@@ -1,72 +1,6 @@
 {
  "note": "Stories already covered. Read before writing; skip unless materially new.",
  "episodes": {
-  "2026-10-23": [
-   {
-    "lang": "vi",
-    "story": "VN-Index đóng cửa 22/10 ở 1.760,63 điểm (+21,96; +1,26%), cao nhất từ tháng Tư, nhưng chỉ 149 mã tăng so với 167 mã giảm; khối ngoại mua ròng khoảng 340 tỷ đồng phiên thứ hai."
-   },
-   {
-    "lang": "vi",
-    "story": "TCB đóng cửa 22/10 ở 34.150 đồng (-0,73%), khối ngoại mua ròng khoảng 178 tỷ đồng, phiên thứ tư liên tiếp; nhóm ngân hàng kéo chỉ số xuống."
-   },
-   {
-    "lang": "vi",
-    "story": "SJC sáng 23/10 đi ngang 139,3 - 142,3 triệu đồng/lượng; nhẫn SJC giảm hơn 1 triệu; vàng thế giới khoảng 4.091 USD/ounce; Vietcombank USD khoảng 25.660 - 26.040."
-   },
-   {
-    "lang": "vi",
-    "story": "Quốc hội thảo luận tổ Luật Đất đai, Nhà ở, Kinh doanh bất động sản sửa đổi: bảng giá đất 3 năm một lần, siết bán lại nhà ở xã hội sau 5 năm, thu tiền tăng dần với dự án chậm sử dụng đất."
-   },
-   {
-    "lang": "vi",
-    "story": "Tổng Bí thư, Chủ tịch nước Tô Lâm tới Brussels ngày 21/10, thăm chính thức EU và Bỉ đến 24/10; Phó Thủ tướng ký quyết định chuyển giao Khu liên hợp thể thao quốc gia."
-   },
-   {
-    "lang": "en",
-    "story": "Telecom: Nokia Q3 beats on AI and cloud sales (up about 123 percent) and lifts 2027 optical/IP target, but shares fall 8 to 10 percent on weaker reported profit and cash outlook."
-   },
-   {
-    "lang": "en",
-    "story": "Ericsson: shares slip in Nokia's wake; Ericsson and T-Mobile show AI gains on a live 5G Advanced network in New York; Nokia and Nvidia advance AI-RAN."
-   },
-   {
-    "lang": "en",
-    "story": "Houthis strike King Fahd airport in Saudi Arabia and an oil field; Wall Street tech sell-off with chipmakers down nearly 7 percent, per Bloomberg."
-   },
-   {
-    "lang": "en",
-    "story": "Champions League: Como 4-1 Manchester United, Club Brugge 3-0 Lens; Europa League: Juventus 2-2 Rennes, Sturm Graz 1-0 Marseille, Leverkusen 2-0 at OFI Crete."
-   },
-   {
-    "lang": "en",
-    "story": "OpenAI near $30 billion round at $1.25 trillion valuation, IPO now 2027; Anthropic could file its prospectus as soon as today. Russia hits 12 Ukrainian regions; Timberwolves 131-106 Heat, Lakers 127-105 Warriors."
-   },
-   {
-    "lang": "en",
-    "story": "Science: solar-storm train delay re-dated to 1848; FAST finds dark-galaxy candidate; study of 13 astronauts says heart may cope with Mars trip."
-   },
-   {
-    "lang": "fr",
-    "story": "Macron préside un conseil de sécurité, dénonce l'ultragauche et réclame la plus grande dureté ; recours au Conseil d'État contre des interdictions de manifester le 24 octobre."
-   },
-   {
-    "lang": "fr",
-    "story": "Lecornu reçoit les maires de Paris, Marseille et Lyon, qui veulent un fonds de solidarité nationale ; il se rend à Limoges aujourd'hui."
-   },
-   {
-    "lang": "fr",
-    "story": "Budget 2027 : le vote sur la partie recettes est reporté du 20 octobre au 3 novembre ; 15 articles sur 58 examinés."
-   },
-   {
-    "lang": "fr",
-    "story": "CAC 40 -1,39 % à 7 811 points : Hermès -4,9 %, taux à dix ans brièvement au-dessus de 5 % ; Monet « Iris » vendu 50 millions d'euros ; panne Orange et Sosh."
-   },
-   {
-    "lang": "fr",
-    "story": "Ligue Europa : Rennes 2-2 à la Juventus ; Marseille battu 1-0 à Sturm Graz, troisième défaite de suite."
-   }
-  ],
   "2026-10-24": [
    {
     "lang": "vi",
@@ -679,6 +613,44 @@
    {
     "lang": "fr",
     "story": "Ligue 1 : Lyon - Angers samedi soir, Marseille - Toulouse dimanche à 20 h 45."
+   }
+  ],
+  "2026-11-02": [
+   {
+    "lang": "vi",
+    "story": "Tuần 2-6/11: các CTCK dự báo VN-Index dao động 1.700-1.780 điểm; thanh khoản tuần trước giảm hơn 16%, hỗ trợ 1.700-1.720."
+   },
+   {
+    "lang": "vi",
+    "story": "TCB: phiên 2/11 chưa có giá đóng cửa; mốc xác thực gần nhất 30/10 ở 21.600 đồng (-3,36%)."
+   },
+   {
+    "lang": "vi",
+    "story": "TCB: lợi nhuận trước thuế quý II 9.670 tỷ đồng (+22%); Rồng Việt dự phóng cả năm 37.644 tỷ đồng (+16%)."
+   },
+   {
+    "lang": "vi",
+    "story": "Bầu cử giữa kỳ Mỹ được nhắc là yếu tố rủi ro với khẩu vị đầu tư tháng 11."
+   },
+   {
+    "lang": "en",
+    "story": "Iran says it can reopen Hormuz within two days via a Qatar-shortened plan; Trump says talks go well, no strike before the midterms on November 3."
+   },
+   {
+    "lang": "en",
+    "story": "Ericsson: new CEO Per Narvinger (since Oct 1) trims management and prioritises costs; AI-native link adaptation (about 10 percent spectral efficiency) live at three operators."
+   },
+   {
+    "lang": "en",
+    "story": "Telecom: Ericsson standard-essential patent suits against a Chinese phone maker in Brazil, India, Nigeria and the UPC; Mobily signs autonomous-network MoU with Ericsson."
+   },
+   {
+    "lang": "fr",
+    "story": "Budget 2027 : vote solennel sur les recettes mardi 3 novembre, rejet probable ; vote d'ensemble le 17 novembre, limite parlementaire le 26 novembre."
+   },
+   {
+    "lang": "fr",
+    "story": "La CGT et l'intersyndicale appellent à une grève interprofessionnelle le 5 novembre après l'échec de Matignon."
    }
   ]
  }
