@@ -1,80 +1,6 @@
 {
  "note": "Stories already covered. Read before writing; skip unless materially new.",
  "episodes": {
-  "2026-10-24": [
-   {
-    "lang": "vi",
-    "story": "VN-Index 23/10 đóng cửa 1.774,15 điểm (+13,52; +0,77%), tăng phiên thứ ba liên tiếp; khối ngoại bán ròng khoảng 480 tỷ đồng, chủ yếu ACB."
-   },
-   {
-    "lang": "vi",
-    "story": "TCB đóng cửa 23/10 ở 34.200 đồng (+0,15%), khối ngoại mua ròng phiên thứ năm liên tiếp; STB tăng trần, ACB +3,9%."
-   },
-   {
-    "lang": "vi",
-    "story": "SJC sáng 24/10: 139 - 142 triệu đồng/lượng (-300.000 đồng), nhẫn SJC giảm 1,3 triệu; vàng thế giới xuống dưới 4.000 USD/ounce."
-   },
-   {
-    "lang": "vi",
-    "story": "Quốc hội ngày làm việc thứ bảy: tờ trình Luật Ngân sách nhà nước hợp nhất, Luật Đấu thầu sửa đổi; thẩm tra Luật Trưng mua, trưng dụng tài sản."
-   },
-   {
-    "lang": "vi",
-    "story": "Thủ tướng Ba Lan Donald Tusk đến Đà Nẵng, bắt đầu chuyến thăm đến 26/10; bà Pauline Tamesis (LHQ) được Thủ tướng tiếp ngày 23/10."
-   },
-   {
-    "lang": "en",
-    "story": "Ericsson: group simplification and new executive team, two Asian market areas merge into APAC from January 2027; Verizon and Ericsson report a first outdoor 6G field call."
-   },
-   {
-    "lang": "en",
-    "story": "Telecom: Nokia and Nvidia move AI-RAN toward commercial deployment and launch a sovereign agentic AI platform for operators."
-   },
-   {
-    "lang": "en",
-    "story": "Wall Street falls on oil: Dow -1.23 percent to 52,215, Brent settles at 116.72 dollars, highest close since April, on US-Israel plans for a possible Iran strike after the midterms."
-   },
-   {
-    "lang": "en",
-    "story": "American Express to cut about 5 percent of staff; Meta plans non-voting shares to fund AI spending; reports on Anthropic's draft prospectus show 16.3 billion dollars of first-half revenue."
-   },
-   {
-    "lang": "en",
-    "story": "Oleshky ceasefire announced by the White House to start October 29; EU-Western Balkans summit set for November 25."
-   },
-   {
-    "lang": "en",
-    "story": "NBA: Thunder 96-84 Nuggets, 76ers 114-106 Cavaliers; Ligue 1: Nice 2-1 Brest."
-   },
-   {
-    "lang": "en",
-    "story": "Science: Moderna and Merck mRNA melanoma vaccine cuts recurrence risk by 42 percent; new immune defense against small cell lung cancer."
-   },
-   {
-    "lang": "fr",
-    "story": "Attaque terroriste raciste à Trappes et La Verrière : un mort de 26 ans, cinq blessés, suspect de 39 ans interpellé, parquet antiterroriste saisi."
-   },
-   {
-    "lang": "fr",
-    "story": "Samedi 24 octobre : 70 000 policiers et gendarmes mobilisés, congrès du RN à Orléans, recours devant le Conseil d'État contre les restrictions de cortèges."
-   },
-   {
-    "lang": "fr",
-    "story": "Macron reçoit une vingtaine de représentants lycéens ; première réponse attendue lundi chez le Premier ministre."
-   },
-   {
-    "lang": "fr",
-    "story": "L'Assemblée rejette la partie recettes du budget de la Sécurité sociale 2027 par 115 voix contre 1 ; le Sénat s'en saisit le 9 novembre."
-   },
-   {
-    "lang": "fr",
-    "story": "Moody's maintient la note de la France à Aa3 (perspective négative) ; CAC 40 autour de 7 783 points, Kering et Safran pénalisent."
-   },
-   {
-    "lang": "fr",
-    "story": "Football : succès de Nice 2-1 à Brest en huitième journée de Ligue 1."
-   }
-  ],
   "2026-10-25": [
    {
     "lang": "vi",
@@ -651,6 +577,72 @@
    {
     "lang": "fr",
     "story": "La CGT et l'intersyndicale appellent à une grève interprofessionnelle le 5 novembre après l'échec de Matignon."
+   }
+  ],
+  "2026-11-03": [
+   {
+    "lang": "vi",
+    "story": "VN-Index 2/11 đóng cửa 1.710,72 điểm (-30,90; -1,77%), phiên giảm thứ ba liên tiếp; nhóm ngân hàng giảm 2,94%, VPB -6,1%, VCB -4,8%; khối ngoại bán ròng khoảng 520 tỷ đồng."
+   },
+   {
+    "lang": "vi",
+    "story": "TCB đóng cửa 2/11 ở 21.400 đồng (-0,9%), vững hơn hẳn nhóm ngân hàng."
+   },
+   {
+    "lang": "vi",
+    "story": "SJC sáng 2/11: 137 - 140 triệu đồng/lượng (+1 triệu); USD Eximbank 25.590 - 25.970 đồng."
+   },
+   {
+    "lang": "vi",
+    "story": "Quốc hội ngày làm việc thứ 15 thảo luận Luật Đầu tư, Luật Hiến ghép mô, Luật Luật sư, Luật Nuôi con nuôi sửa đổi."
+   },
+   {
+    "lang": "vi",
+    "story": "Không khí lạnh về miền Bắc, mưa dông diện rộng; Bắc Bộ chuyển lạnh từ 9/11, Biển Đông vắng bão."
+   },
+   {
+    "lang": "en",
+    "story": "Telecom: Ericsson unveils network-based drone detection (sensing pilots from 2027); Telia and Ericsson start outdoor 6G trials in Sweden; FCC moves to add 482 MHz for satellite-to-phone."
+   },
+   {
+    "lang": "en",
+    "story": "Brent falls about 7.6 percent to 104.77 dollars on a draft US-Iran deal; Trump says Iran wants a settlement."
+   },
+   {
+    "lang": "en",
+    "story": "Wall Street: Nasdaq -1.07 percent, Dow +0.41 percent; Oracle plans 20 billion dollars of stock and bond sales."
+   },
+   {
+    "lang": "en",
+    "story": "Everton 1-0 Newcastle; NFL: Broncos 28-24 Chiefs, Bengals 43-36 Titans (OT), Lions 19-15 Vikings."
+   },
+   {
+    "lang": "en",
+    "story": "Apple beats on iPhone (+17.5 percent) but guides cautiously; Ukraine: 193 drones overnight, Oleshky ceasefire over."
+   },
+   {
+    "lang": "en",
+    "story": "Health: Bundibugyo Ebola deaths pass 5,300 (Africa CDC); US travel declaration from November 3."
+   },
+   {
+    "lang": "fr",
+    "story": "Grève du 5 novembre : cinq confédérations, préavis commun des syndicats SNCF, prévisions de trafic attendues mercredi."
+   },
+   {
+    "lang": "fr",
+    "story": "Lycéens : reprise des blocages le 2 novembre ; comité de réforme attendu en novembre."
+   },
+   {
+    "lang": "fr",
+    "story": "Trappes : première heure de cours banalisée lundi, dix jours après l'attaque."
+   },
+   {
+    "lang": "fr",
+    "story": "Police : alerte sur les appels frauduleux visant les fichiers de police ; manifestation étudiante parisienne refusée par la préfecture."
+   },
+   {
+    "lang": "fr",
+    "story": "Ligue 1 : Marseille 2-0 Toulouse, quatrième victoire de suite."
    }
   ]
  }
