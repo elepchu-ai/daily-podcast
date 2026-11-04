@@ -1,84 +1,6 @@
 {
  "note": "Stories already covered. Read before writing; skip unless materially new.",
  "episodes": {
-  "2026-10-25": [
-   {
-    "lang": "vi",
-    "story": "VN-Index chốt tuần ở 1.774,15 điểm, tăng khoảng 68 điểm cả tuần; thị trường nghỉ cuối tuần."
-   },
-   {
-    "lang": "vi",
-    "story": "TCB đóng cửa 23/10 ở 34.200 đồng; khối ngoại mua ròng khoảng 990 tỷ đồng cổ phiếu TCB trong tuần, mạnh nhất theo tuần từ giữa năm 2018."
-   },
-   {
-    "lang": "vi",
-    "story": "SJC sáng 25/10: 138,7 - 141,7 triệu đồng/lượng, mất 1,9 triệu cả tuần; vàng thế giới khoảng 3.994 USD/ounce, thủng mốc 4.000 USD."
-   },
-   {
-    "lang": "vi",
-    "story": "Quốc hội ngày thứ tám nghe tờ trình năm dự án luật; Luật An toàn thực phẩm sửa đổi lấy Bộ Y tế làm đầu mối, siết bán thực phẩm online."
-   },
-   {
-    "lang": "vi",
-    "story": "Bão Champi suy yếu, không vào Biển Đông; sóng cao 4-6 m ở bắc Biển Đông."
-   },
-   {
-    "lang": "en",
-    "story": "Telecom: SpaceX reportedly seeks 80,000 US cell sites; T-Mobile -5 percent, AT&T -4, Verizon -3; FCC vote on satellite-to-phone rules set for October 29."
-   },
-   {
-    "lang": "en",
-    "story": "Telecom: Reuters says Iran has contingency plans to target Gulf undersea cables if the US strikes again."
-   },
-   {
-    "lang": "en",
-    "story": "Putin says US-mediated trilateral Ukraine talks resume on or after November 10; Russia fires about 30 ballistic missiles overnight."
-   },
-   {
-    "lang": "en",
-    "story": "Trump says US controls Hormuz; White House says no strike on Iran before midterms."
-   },
-   {
-    "lang": "en",
-    "story": "Report: OpenAI moves frontier training off the live internet after a September leak; Anthropic Agent Skills and OpenAI Open Responses join the Agentic AI Foundation."
-   },
-   {
-    "lang": "en",
-    "story": "NBA: Rockets 114-110 Spurs after Thompson's late block; F1: Antonelli on pole for the US Grand Prix; Wall Street ends the week lower with the 10-year yield near 5 percent."
-   },
-   {
-    "lang": "en",
-    "story": "Premier League: Villa 2-1 Man City, Arsenal 2-0 Everton, Fulham 1-0 Coventry."
-   },
-   {
-    "lang": "en",
-    "story": "Science: Parkinson's exercise study; blood signs of IBD up to 10 years early; Mitch protein and fat burning."
-   },
-   {
-    "lang": "fr",
-    "story": "Mobilisation du 24 octobre : 410 000 manifestants selon le ministère, près de 1 000 interpellations."
-   },
-   {
-    "lang": "fr",
-    "story": "Lyon : 22 blessés dont 18 policiers ; tentatives de pillage à Marseille."
-   },
-   {
-    "lang": "fr",
-    "story": "Congrès du RN à Orléans : Bardella réélu avec 98,98 % ; discours de Ciotti, Bardella et Le Pen dimanche."
-   },
-   {
-    "lang": "fr",
-    "story": "Fusillade de Trappes : le PNAT enquête pour assassinat en relation avec une entreprise terroriste."
-   },
-   {
-    "lang": "fr",
-    "story": "Budget : débats de l'État reprennent mardi 27 octobre ; Juvin presse Lecornu d'utiliser le 49.3."
-   },
-   {
-    "lang": "fr",
-    "story": "Lycéens : première réponse du gouvernement attendue lundi."
-   }
-  ],
   "2026-10-26": [
    {
     "lang": "vi",
@@ -643,6 +565,72 @@
    {
     "lang": "fr",
     "story": "Ligue 1 : Marseille 2-0 Toulouse, quatrième victoire de suite."
+   }
+  ],
+  "2026-11-04": [
+   {
+    "lang": "vi",
+    "story": "VN-Index 3/11 đóng cửa 1.699,62 điểm (-11,10; -0,65%), phiên giảm thứ tư liên tiếp, lần đầu dưới 1.700; khối ngoại bán ròng khoảng 500 tỷ đồng phiên thứ tám liền (MBB -254 tỷ, VCB -219 tỷ)."
+   },
+   {
+    "lang": "vi",
+    "story": "TCB đóng cửa 3/11 ở 21.450 đồng (+50; +0,23%), khoảng 10 triệu cổ phiếu khớp; giảm khoảng 6% trong tuần; lãi suất tiết kiệm đầu tháng 11 hạ nhiệt theo chỉ đạo của Ngân hàng Nhà nước."
+   },
+   {
+    "lang": "vi",
+    "story": "SJC sáng 4/11: 137,6 - 140,6 triệu đồng/lượng; vàng nhẫn 133,7 - 137,7 triệu; vàng thế giới quanh 3.920 USD/ounce; USD Vietcombank bán 25.960 đồng."
+   },
+   {
+    "lang": "vi",
+    "story": "Đại biểu Quốc hội bàn về bốn dự án luật mới; Bộ trưởng Công Thương nhấn mạnh giá điện phải minh bạch; Chủ tịch Quốc hội hội đàm người đồng cấp Lào."
+   },
+   {
+    "lang": "vi",
+    "story": "Tai nạn giao thông 10 tháng giảm 16,9%; không khí lạnh tăng cường sớm vào 7-8/11, cảnh báo lũ quét tại Quảng Trị và Huế."
+   },
+   {
+    "lang": "en",
+    "story": "Telecom: Ericsson and Telia Sweden sign a 6G memorandum and demo upper 6 GHz; Ericsson to upgrade Batelco's Bahrain network with Massive MIMO and cloud-native 5G core; Ericsson and Verizon work on AI in RAN automation."
+   },
+   {
+    "lang": "en",
+    "story": "Telecom: report that Musk may use Boost Mobile to make Starlink Mobile a full US carrier after the big three carriers refused network access."
+   },
+   {
+    "lang": "en",
+    "story": "US midterms held; no confirmed House call yet, CBS projects Democrats on track; Iran offers to reopen Hormuz in 48 hours as Trump says a deal could happen."
+   },
+   {
+    "lang": "en",
+    "story": "Wall Street: Nasdaq +0.83 percent, Dow -0.38 percent; AMD jumps about 7 percent after results; OpenAI Abu Dhabi deals and shared ChatGPT-Codex allowance from December."
+   },
+   {
+    "lang": "en",
+    "story": "China official PMI 49.3; euro area Q3 growth 0.4 percent. Champions League: Man United 3-2 Roma, PSG 6-0 Villarreal, Bayern 2-0 at Atlético, Barcelona 3-0 Villa; NBA 15-game Monday slate."
+   },
+   {
+    "lang": "en",
+    "story": "Science and health: five nucleobases found in Ryugu samples; Ebola deaths reach 5,376 (Africa CDC), Ervebo doses reach Congo."
+   },
+   {
+    "lang": "fr",
+    "story": "Les députés n'ont pas terminé les amendements : le scrutin sur les recettes du budget glisse, sans nouvelle date avant le 17 novembre."
+   },
+   {
+    "lang": "fr",
+    "story": "Livret A : le gouvernement évoque un plafond à 30 000 euros dès février, pas encore adopté."
+   },
+   {
+    "lang": "fr",
+    "story": "Lycéens : 48 lycées bloqués selon le ministère, 500 selon les syndicats ; polémique sur les enseignants comptés grévistes."
+   },
+   {
+    "lang": "fr",
+    "story": "Grève du 5 novembre : SNCF perturbée, RATP normale, prévisions détaillées mercredi."
+   },
+   {
+    "lang": "fr",
+    "story": "Nice : enquête pour tentative de meurtre après l'agression d'une directrice de maternelle ; Ligue des champions : PSG 6-0 Villarreal."
    }
   ]
  }
