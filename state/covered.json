@@ -1,88 +1,6 @@
 {
  "note": "Stories already covered. Read before writing; skip unless materially new.",
  "episodes": {
-  "2026-10-29": [
-   {
-    "lang": "vi",
-    "story": "VN-Index 28/10 đóng cửa 1.766,65 điểm (+4,78; +0,27%), phiên tăng đầu tiên sau ba phiên giảm; khối ngoại bán ròng khoảng 260 tỷ đồng, FPT bị bán ròng gần 260 tỷ."
-   },
-   {
-    "lang": "vi",
-    "story": "TCB 28/10 giảm 0,15% (khoảng 33.500 đồng), khối ngoại mua ròng 172,17 tỷ đồng, phiên thứ 9 liên tiếp; hôm nay 29/10 là ngày giao dịch không hưởng quyền cổ tức cổ phiếu 50%, giá tham chiếu điều chỉnh về quanh 22.300 đồng (tính toán)."
-   },
-   {
-    "lang": "vi",
-    "story": "Kỳ điều hành giá xăng dầu chiều nay 29/10: một số nguồn dự báo tăng 800-900 đồng/lít dù dầu thế giới hạ nhiệt."
-   },
-   {
-    "lang": "vi",
-    "story": "Trung Bộ mưa to từ Hà Tĩnh đến Đà Nẵng đến hết 29/10; không khí lạnh về miền Bắc khoảng 1-2/11."
-   },
-   {
-    "lang": "vi",
-    "story": "AEF 2026 (TP.HCM, đồng thương hiệu WEF) bế mạc hôm nay; dự kiến công bố 12 dự án tổng vốn hơn 13 tỷ USD."
-   },
-   {
-    "lang": "vi",
-    "story": "Bộ Công an đề xuất bổ sung 24 tội danh mà pháp nhân thương mại phải chịu trách nhiệm hình sự."
-   },
-   {
-    "lang": "vi",
-    "story": "Bệnh viện Nhi đồng 1 cứu bé 7 tuổi ở Cần Thơ biến chứng nặng do cúm A, hỗ trợ ECMO gần 12 ngày."
-   },
-   {
-    "lang": "en",
-    "story": "Telecom: FCC votes today on a 25 MHz mid-band auction for satellite-to-phone service and on seeking comment on 482 MHz more; AT&T, Verizon and T-Mobile oppose. Qualcomm reports November 4 after weak July guidance."
-   },
-   {
-    "lang": "en",
-    "story": "Fed holds at 3.75-4 percent in a 10-2 vote, both dissenters wanting a hike; markets price about 85 percent odds of a December 9 hike."
-   },
-   {
-    "lang": "en",
-    "story": "Alphabet Q3: revenue up 25 percent to 127.6 billion dollars, Google Cloud roughly doubles to 30.7 billion, backlog 561 billion."
-   },
-   {
-    "lang": "en",
-    "story": "Sport: Rays win Game 4 of the World Series 4-3 in 12 innings; Brewers lead 3-1."
-   },
-   {
-    "lang": "en",
-    "story": "Sport: Liverpool beat Chelsea 6-5 on penalties after a 1-1 draw in the Carabao Cup."
-   },
-   {
-    "lang": "en",
-    "story": "Ukraine: Kremlin says Zelensky can come to Moscow for talks; Putin floats a Xi-Trump-Putin meeting at APEC in November."
-   },
-   {
-    "lang": "en",
-    "story": "Health: Bundibugyo Ebola outbreak passes 10,000 cases and 4,887 deaths, with cases in Kenya, Nigeria and Uganda."
-   },
-   {
-    "lang": "fr",
-    "story": "Trappes: le gouvernement annonce un hommage national aux victimes de l'attentat."
-   },
-   {
-    "lang": "fr",
-    "story": "Chômage : catégorie A en hausse de 0,9 pour cent au troisième trimestre, à 3,35 millions."
-   },
-   {
-    "lang": "fr",
-    "story": "Trappes : un suspect de 39 ans en garde à vue, le PNAT saisi."
-   },
-   {
-    "lang": "fr",
-    "story": "Le Sénat adopte et élargit le projet de loi « casseurs-payeurs »."
-   },
-   {
-    "lang": "fr",
-    "story": "Budget 2027 : l'Assemblée poursuit l'examen du projet de loi de finances ; l'objectif de déficit reste 5 pour cent du PIB."
-   },
-   {
-    "lang": "fr",
-    "story": "Goncourt : lauréat attendu le 3 novembre chez Drouant."
-   }
-  ],
   "2026-10-30": [
    {
     "lang": "vi",
@@ -631,6 +549,40 @@
    {
     "lang": "fr",
     "story": "Fausses alertes à la bombe sur plusieurs vols européens ; accident de car dans l'Ain, au moins deux morts."
+   }
+  ],
+  "2026-11-08": [
+   {
+    "lang": "vi",
+    "story": "Tổng Bí thư, Chủ tịch nước Tô Lâm bắt đầu thăm chính thức Nhật Bản (8-11/11): hội kiến Nhà vua, hội đàm Thủ tướng Takaichi Sanae, phát biểu tại Quốc hội Nhật Bản, thăm Kanagawa."
+   },
+   {
+    "lang": "vi",
+    "story": "Chứng khoán nghỉ cuối tuần; mốc gần nhất VN-Index 6/11 ở 1.725,36 điểm."
+   },
+   {
+    "lang": "vi",
+    "story": "TCB đóng cửa gần nhất (6/11) 21.650 đồng (-1,37%), khớp khoảng 11,3 triệu cổ phiếu."
+   },
+   {
+    "lang": "vi",
+    "story": "SJC sáng 7/11: 138 - 141 triệu đồng/lượng; tỷ giá trung tâm 25.615 đồng/USD."
+   },
+   {
+    "lang": "en",
+    "story": "Ericsson: Light Reading says mmWave radio production moved from Lewisville, Texas to Estonia."
+   },
+   {
+    "lang": "en",
+    "story": "Telecom: Germany reportedly preparing limits on Chinese 5G equipment."
+   },
+   {
+    "lang": "en",
+    "story": "Sport: Leeds 1-0 Tottenham, Okafor 79th minute."
+   },
+   {
+    "lang": "fr",
+    "story": "LFI : Mélenchon présente L'Avenir en commun lors d'une convention au Bourget."
    }
   ]
  }
