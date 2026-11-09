@@ -1,68 +1,6 @@
 {
  "note": "Stories already covered. Read before writing; skip unless materially new.",
  "episodes": {
-  "2026-10-30": [
-   {
-    "lang": "vi",
-    "story": "VN-Index 29/10 đóng cửa 1.755,61 điểm (-11,04; -0,62%), dầu khí bị bán mạnh (PVT giảm sàn); khối ngoại bán ròng phiên thứ năm liên tiếp, khoảng 430-480 tỷ đồng."
-   },
-   {
-    "lang": "vi",
-    "story": "TCB 29/10 đóng cửa 22.350 đồng (đứng giá so với tham chiếu sau ngày không hưởng quyền cổ tức cổ phiếu 50%), khớp khoảng 23,6 triệu cổ phiếu; khối ngoại bán ròng khoảng 118 tỷ đồng, chấm dứt chuỗi mua ròng; tự doanh bán ròng khoảng 89 tỷ."
-   },
-   {
-    "lang": "vi",
-    "story": "SJC đi ngang 139,7 - 142,7 triệu đồng/lượng; tỷ giá trung tâm khoảng 25.644 đồng/USD."
-   },
-   {
-    "lang": "vi",
-    "story": "Kết quả kỳ điều hành chiều qua: cả xăng lẫn dầu đều tăng, diesel vượt ngưỡng 30.000 đồng một lít, mazut thêm 223 đồng mỗi kg."
-   },
-   {
-    "lang": "vi",
-    "story": "Quốc hội thảo luận Luật Đất đai sửa đổi (13 chương, 112 điều; 32 đại biểu phát biểu); Chủ tịch Quốc hội Lào thăm Việt Nam 2-5/11."
-   },
-   {
-    "lang": "en",
-    "story": "Telecom: FCC commissioners advance both D2D proposals, with final votes still to come after public comment; carriers wanted two 5G bands removed, SpaceX attacks T-Mobile's 400 km buffers; Nokia signs an Indian engineering deal; Ericsson shares edge up."
-   },
-   {
-    "lang": "en",
-    "story": "Alphabet falls nearly 13 percent, its worst day ever (about 500 billion dollars lost); Microsoft trims capex forecast to 170 billion; Amazon down over 6 percent after hours, capex held at 220 billion."
-   },
-   {
-    "lang": "en",
-    "story": "ECB holds rates (deposit 2.5 percent, euro-area inflation 3.8 percent); Lagarde to leave February 7, 2027."
-   },
-   {
-    "lang": "en",
-    "story": "Iran says three tankers hit mines in Hormuz; Pentagon war cost above 47 billion dollars; Trump reportedly decides on strikes after midterms."
-   },
-   {
-    "lang": "en",
-    "story": "Sport: Milwaukee clinch their first championship in Game 5, Contreras MVP; NBA night with Heat, Rockets, Mavericks and 76ers winning."
-   },
-   {
-    "lang": "en",
-    "story": "Science: candidate dwarf planet 2026 ED138 announced; immature brain cells may explain Alzheimer's resilience."
-   },
-   {
-    "lang": "fr",
-    "story": "BCE : taux inchangés à l'unanimité (dépôt 2,5 %), inflation 3,8 % dans la zone euro."
-   },
-   {
-    "lang": "fr",
-    "story": "Christine Lagarde quittera la BCE le 7 février 2027, neuf mois avant la fin de son mandat ; Macron appelle à une succession ordonnée."
-   },
-   {
-    "lang": "fr",
-    "story": "Budget 2027 : l'Assemblée adopte à 74 voix contre 72 une taxation des multinationales et supprime la surtaxe des grandes entreprises par 79 voix contre 77."
-   },
-   {
-    "lang": "fr",
-    "story": "CAC 40 : +1,05 % à environ 7 970 points, Renault +6,9 %, Air Liquide +1,8 %."
-   }
-  ],
   "2026-10-31": [
    {
     "lang": "vi",
@@ -583,6 +521,48 @@
    {
     "lang": "fr",
     "story": "LFI : Mélenchon présente L'Avenir en commun lors d'une convention au Bourget."
+   }
+  ],
+  "2026-11-09": [
+   {
+    "lang": "vi",
+    "story": "Chuyến thăm Nhật Bản của Tổng Bí thư, Chủ tịch nước Tô Lâm (8-11/11): dự kiến tuyên bố chung, trọng tâm năng lượng hạt nhân thế hệ mới, AI, nhân lực; thương mại hai nước khoảng 50 tỷ USD."
+   },
+   {
+    "lang": "vi",
+    "story": "Phiên đầu tuần mở cửa lúc 9 giờ; mốc xác nhận gần nhất VN-Index 6/11 ở 1.725,36 điểm, khối ngoại mua ròng trở lại sau 10 phiên bán."
+   },
+   {
+    "lang": "vi",
+    "story": "TCB: mốc đóng cửa xác nhận gần nhất 21.650 đồng (6/11), chưa có công bố mới của Techcombank cuối tuần."
+   },
+   {
+    "lang": "en",
+    "story": "Telecom/Huawei: trial in Brooklyn continues (opened 9 Sept, about three months); NPR explainer on global stakes."
+   },
+   {
+    "lang": "en",
+    "story": "Ericsson: weekly buyback of 500,000 B shares for about SEK 54 million; new CEO Per Narvinger since 1 October."
+   },
+   {
+    "lang": "en",
+    "story": "Telecom: Nokia, Ericsson and Huawei compete for operators' AI budgets; Huawei unveils upper 6 GHz antenna, claims 30 percent coverage gain."
+   },
+   {
+    "lang": "en",
+    "story": "Wall Street weekly: Dow -0.9, S&P 500 -2.7 (7,377), Nasdaq -3.4 percent; Thursday rout tied to AI-regulation fears after the midterms."
+   },
+   {
+    "lang": "fr",
+    "story": "Le Sénat entame aujourd'hui l'examen du PLFSS 2027 en séance, vote solennel le 18 novembre."
+   },
+   {
+    "lang": "fr",
+    "story": "Le Sénat part du texte initial du gouvernement après le vote 115 contre 1 des députés sur les recettes."
+   },
+   {
+    "lang": "fr",
+    "story": "Commission des affaires sociales : texte jugé essentiellement comptable ; piste d'une désindexation des pensions à partir de 1 400 euros."
    }
   ]
  }
