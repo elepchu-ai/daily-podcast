@@ -1,76 +1,6 @@
 {
  "note": "Stories already covered. Read before writing; skip unless materially new.",
  "episodes": {
-  "2026-10-31": [
-   {
-    "lang": "vi",
-    "story": "VN-Index 30/10 đóng cửa 1.741,62 điểm (-13,99; -0,8%), phiên giảm thứ hai liên tiếp; 253 mã giảm, 72 mã tăng; khối ngoại bán ròng khoảng 634 tỷ đồng trên HOSE; cả tuần mất 32,53 điểm (-1,83%)."
-   },
-   {
-    "lang": "vi",
-    "story": "TCB 30/10 đóng cửa 21.600 đồng (-750 đồng, -3,36%), khớp khoảng 17,6 triệu cổ phiếu; 30/10 là ngày đăng ký cuối cùng chia cổ tức 50% bằng cổ phiếu, vốn điều lệ sau phát hành khoảng 106.294 tỷ đồng."
-   },
-   {
-    "lang": "vi",
-    "story": "SJC giảm 1,3 triệu về 138,4 - 141,4 triệu đồng/lượng; vàng thế giới quanh 3.962 USD/ounce; Vietcombank bán USD khoảng 26.020 đồng."
-   },
-   {
-    "lang": "vi",
-    "story": "Xuất nhập khẩu 10 tháng lần đầu vượt 1.000 tỷ USD (ước 1.010,6 tỷ, +32,3%); tháng 10 xuất siêu 6,8 tỷ USD."
-   },
-   {
-    "lang": "vi",
-    "story": "Đại biểu bàn cơ chế bảo lãnh để bảo vệ người mua nhà trong dự thảo luật mới về bất động sản; xét xử Mr Pips chuyển sang xét hỏi; công an Hà Nội khởi tố người vận hành cần cẩu làm đổ tường."
-   },
-   {
-    "lang": "en",
-    "story": "Telecom: Ericsson and AT&T demo drone detection over a 5G network in Arlington using massive MIMO radios; Samsung's phones-and-networks unit loses about 0.6 trillion won in Q3 despite record group profit; Nokia and Nvidia advance AI-native networks."
-   },
-   {
-    "lang": "en",
-    "story": "Wall Street's worst day since June: Nasdaq about -2.9 percent, S&P 500 about -1.8 percent; Intel plunges roughly a quarter after weak guidance, Amazon misses; Nasdaq loses 5.2 percent in October."
-   },
-   {
-    "lang": "en",
-    "story": "Bank of Japan holds at 1.25 percent (8-1), signals possible December hike; euro-zone GDP +0.4 percent in Q3."
-   },
-   {
-    "lang": "en",
-    "story": "Trump says Iran war ends \"very soon\" and no strike before the midterms; Iran now claims four tankers hit mines, CENTCOM calls it false."
-   },
-   {
-    "lang": "en",
-    "story": "Ukraine: Dnipro blackout after Russian strikes; Israel election leaves no majority, coalition talks ahead; Ebola outbreak passes 10,000 confirmed cases."
-   },
-   {
-    "lang": "en",
-    "story": "Sport: PSG beat Le Havre 5-1 (Hakimi hat-trick), Lille edge Lens 1-0 (Giroud). Science: CTE found in about three in four deceased ex-NFL players; Juno maps Jupiter's plasma defenses."
-   },
-   {
-    "lang": "fr",
-    "story": "PIB : -0,1 % au troisième trimestre (Insee), commerce extérieur -0,6 point ; Lescure plaide pour un budget."
-   },
-   {
-    "lang": "fr",
-    "story": "Inflation : 3,4 % sur un an en octobre contre 3,1 % en septembre, énergie +24,1 %."
-   },
-   {
-    "lang": "fr",
-    "story": "Mobilisation contre la vie chère samedi : le tribunal administratif suspend l'arrêté de la préfecture sur le parcours CGT, Nuñez fait appel ; plus de 30 stations de métro fermées."
-   },
-   {
-    "lang": "fr",
-    "story": "Budget 2027 : taxe au gigaoctet adoptée 11 voix contre 10 ; vote solennel sur les recettes le 3 novembre."
-   },
-   {
-    "lang": "fr",
-    "story": "Trappes : le suspect mis en examen, arrêté puis relâché trois jours avant ; Édouard Philippe témoin assisté ; collision de trains en Espagne, 69 morts."
-   },
-   {
-    "lang": "fr",
-    "story": "Ligue 1 : Nice bat Rennes 5-2 (triplé de Wahi)."
-   }
-  ],
   "2026-11-01": [
    {
     "lang": "vi",
@@ -563,6 +493,64 @@
    {
     "lang": "fr",
     "story": "Commission des affaires sociales : texte jugé essentiellement comptable ; piste d'une désindexation des pensions à partir de 1 400 euros."
+   }
+  ],
+  "2026-11-10": [
+   {
+    "lang": "vi",
+    "story": "VN-Index 9/11 giảm 11,04 điểm (-0,64%) còn 1.714,32, phiên giảm thứ hai liên tiếp; khối ngoại bán ròng hơn 800 tỷ đồng trên HOSE, bán HPG, VIC, PNJ, FPT, VHM."
+   },
+   {
+    "lang": "vi",
+    "story": "TCB: đóng cửa xác nhận gần nhất 21.650 đồng (6/11); phiên 9/11 khối ngoại mua ròng khoảng 33 tỷ đồng TCB, sau VPB và MBB."
+   },
+   {
+    "lang": "vi",
+    "story": "SJC sáng 10/11: 138,2 - 141,2 triệu đồng/lượng, nhích lên so với cuối tuần; vàng thế giới quanh 4.100 USD/ounce."
+   },
+   {
+    "lang": "vi",
+    "story": "Tô Lâm - Takaichi hội đàm tại Tokyo: thông qua Tuyên bố Tầm nhìn chung, ký 11 văn kiện gồm MOU điện hạt nhân; phát biểu tại Quốc hội Nhật Bản."
+   },
+   {
+    "lang": "vi",
+    "story": "Quốc hội thảo luận Luật Phát triển công nghiệp văn hóa và 3 dự án cao tốc; Bộ Công an khởi tố 94 bị can đường dây xuyên quốc gia; giá xăng E5 tối đa 20.898 đồng/lít."
+   },
+   {
+    "lang": "en",
+    "story": "Ericsson: new CEO Per Narvinger's first interview (Bloomberg) says AI will depend on connectivity."
+   },
+   {
+    "lang": "en",
+    "story": "Telecom: Ericsson prices network sensing as a product with a defence angle (Telia, Swedish Armed Forces), first revenue 2028; Light Reading says SpaceX and Qualcomm threaten the US 5G order."
+   },
+   {
+    "lang": "en",
+    "story": "Wall Street Monday: S&P 500 +2.35 percent to 7,549.94, Nasdaq +2.74 percent, Dow +1,104 points; Brent falls about 5 percent to about 94 dollars as Trump plays down new Iran strikes."
+   },
+   {
+    "lang": "en",
+    "story": "Massie moves again to impeach Hegseth; Russia launches 317 drones, Odesa strike kills three; Eisenkot tasked with forming Israel's government."
+   },
+   {
+    "lang": "en",
+    "story": "Sport: Lakers 121-116 Pistons (Reaves 43), Mavericks 130-93 Nets, Man United 4-4 Aston Villa. Health: salt-substitute study, weight-loss surgery vs lifestyle for diabetes."
+   },
+   {
+    "lang": "fr",
+    "story": "Grève de l'éducation nationale ce mardi : une cinquantaine de manifestations, parcours unique autorisé à Paris."
+   },
+   {
+    "lang": "fr",
+    "story": "Conférence sociale : Smic +1,6 % au 1er décembre ; la CGT rejoint la grève du 17 novembre."
+   },
+   {
+    "lang": "fr",
+    "story": "CAC 40 +1,16 % lundi, plus haut d'un mois ; Hervé Morin veut une primaire de la droite en janvier."
+   },
+   {
+    "lang": "fr",
+    "story": "Procès des policiers de l'affaire Zecler ouvert à Paris ; procès d'Escoffier à Lorient ; Lille bat Rennes 2-1, Marseille bat Lens 2-1."
    }
   ]
  }
