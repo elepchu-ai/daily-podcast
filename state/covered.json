@@ -1,60 +1,6 @@
 {
  "note": "Stories already covered. Read before writing; skip unless materially new.",
  "episodes": {
-  "2026-11-01": [
-   {
-    "lang": "vi",
-    "story": "Cuối tuần thị trường nghỉ; mốc gần nhất 30/10: VN-Index 1.741,62 điểm, tuần mất khoảng 32,5 điểm; SJC 138,4 - 141,4 triệu đồng/lượng."
-   },
-   {
-    "lang": "vi",
-    "story": "TCB: đóng cửa gần nhất 30/10 ở 21.600 đồng (-3,36%) do điều chỉnh sau ngày chốt cổ tức 50% bằng cổ phiếu; phiên kế tiếp thứ Hai 2/11."
-   },
-   {
-    "lang": "vi",
-    "story": "Quốc hội: đại biểu kiến nghị bổ sung 1.411 tỷ đồng giải phóng mặt bằng cao tốc Vinh - Thanh Thủy."
-   },
-   {
-    "lang": "vi",
-    "story": "Thủ tướng yêu cầu siết phòng chống bão lũ do El Nino; nguy cơ lũ quét, sạt lở tại Huế; không khí lạnh yếu đầu tháng 11 ở miền Bắc."
-   },
-   {
-    "lang": "vi",
-    "story": "TP.HCM mưa lớn ngập QL50 chiều 31/10; tai nạn hầm chui Tân Sơn Nhất làm hai người chết."
-   },
-   {
-    "lang": "en",
-    "story": "Telecom: Ericsson and Telstra expand autonomous-networks work with a joint knowledge-plane working group; top five RAN vendors hold about 96 percent of H1 2026 revenue."
-   },
-   {
-    "lang": "en",
-    "story": "Rubio: Trump has not decided on resuming Iran strikes; Iran offers to reopen Hormuz if the US lifts its blockade; Khamenei warns against new attacks."
-   },
-   {
-    "lang": "en",
-    "story": "Premier League: Chelsea 2-0 Manchester United; Tottenham 2-0 Crystal Palace (third straight win)."
-   },
-   {
-    "lang": "en",
-    "story": "Health: Bundibugyo Ebola remains the outbreak under WHO watch."
-   },
-   {
-    "lang": "fr",
-    "story": "Mobilisation contre la vie chère : 320 000 manifestants selon le gouvernement, jusqu'à 500 000 selon les syndicats ; 422 interpellations dans le pays."
-   },
-   {
-    "lang": "fr",
-    "story": "Heurts à Paris après le cortège ; 142 interpellations dont 126 gardes à vue selon la préfecture."
-   },
-   {
-    "lang": "fr",
-    "story": "Budget 2027 : le Parlement a jusqu'au 26 novembre ; LFI annonce la censure."
-   },
-   {
-    "lang": "fr",
-    "story": "Ligue 1 : Lyon - Angers samedi soir, Marseille - Toulouse dimanche à 20 h 45."
-   }
-  ],
   "2026-11-02": [
    {
     "lang": "vi",
@@ -551,6 +497,60 @@
    {
     "lang": "fr",
     "story": "Procès des policiers de l'affaire Zecler ouvert à Paris ; procès d'Escoffier à Lorient ; Lille bat Rennes 2-1, Marseille bat Lens 2-1."
+   }
+  ],
+  "2026-11-11": [
+   {
+    "lang": "vi",
+    "story": "VN-Index 10/11 bật tăng 28,75 điểm (+1,68%) lên 1.743,07, khối ngoại quay lại mua ròng khoảng 470 tỷ đồng trên HOSE (KDH, POW, SSI, VHM), FPT bị bán nhiều nhất."
+   },
+   {
+    "lang": "vi",
+    "story": "TCB: đóng cửa xác nhận gần nhất 21.650 đồng (6/11); sáng 10/11 giao dịch quanh 21.900 đồng; hoàn tất phát hành cổ phiếu trả cổ tức 50%, vốn điều lệ lên khoảng 106.293 tỷ đồng."
+   },
+   {
+    "lang": "vi",
+    "story": "Ngân hàng Nhà nước mua ngoại tệ giao ngay và bơm VND vào thứ Hai và thứ Tư từ 11/11; hơn 16 ngân hàng giảm lãi suất huy động; SJC chiều 10/11 bán ra 140,9 triệu đồng/lượng, sáng 11/11 giảm thêm 300 nghìn đồng."
+   },
+   {
+    "lang": "vi",
+    "story": "Tàu VTA Neptune (23.620 DWT) trôi dạt, mắc cạn ở Chân Mây - Lăng Cô (Huế) tối 9/11, 20 thuyền viên; hàng không trực 24/24 ứng phó mưa lớn Trung Bộ."
+   },
+   {
+    "lang": "vi",
+    "story": "Chính phủ yêu cầu giữ ổn định giá hàng hóa, dịch vụ nhà nước quản lý đến hết năm 2026; Bộ Y tế hoàn thiện dự thảo Luật An toàn thực phẩm sửa đổi."
+   },
+   {
+    "lang": "en",
+    "story": "Ericsson/telecom: Vodafone Egypt trials Ericsson's AI-native radio link solution; BT holds off on a Starlink collaboration; Bharti Airtel revenue +16.7 percent; Deutsche Telekom CEO says he will fight a Huawei ban."
+   },
+   {
+    "lang": "en",
+    "story": "Wall Street Tuesday: hot October CPI (+0.4 percent), S&P 500 -0.4 percent to 7,520.93, Nasdaq -0.7 percent; December Fed hike odds near 87 percent; Brent about 91.50 dollars."
+   },
+   {
+    "lang": "en",
+    "story": "Ukraine, Russia and the US hold first talks since February in Abu Dhabi; Ukraine hits Russia's second-largest refinery."
+   },
+   {
+    "lang": "en",
+    "story": "Sport: Mavericks 125-122 Pacers (Flagg 43), Warriors 138-87 Pelicans, Lakers 124-114 Hawks. Science: Nature Medicine RNA blood test for early ovarian cancer; semaglutide heart-failure substudy at AHA."
+   },
+   {
+    "lang": "fr",
+    "story": "Éducation : 1,6 % d'enseignants en grève mardi selon le ministère ; une élue LR agressée devant un lycée de Chelles ; la CGT rejoindra la journée du 17."
+   },
+   {
+    "lang": "fr",
+    "story": "Insee : chômage à 8,2 % au troisième trimestre, en baisse de 0,1 point sur le trimestre, +0,4 point sur un an."
+   },
+   {
+    "lang": "fr",
+    "story": "La France accuse l'Iran (unité Shahid Kaveh des Gardiens de la Révolution) de la cyberattaque contre environ 700 supermarchés ; information judiciaire ouverte."
+   },
+   {
+    "lang": "fr",
+    "story": "Teddy Riner annonce sa candidature à la présidentielle 2027 ; budget 2027 : le vote du 17 novembre n'aura pas lieu après le rejet des recettes."
    }
   ]
  }
