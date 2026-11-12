@@ -1,44 +1,6 @@
 {
  "note": "Stories already covered. Read before writing; skip unless materially new.",
  "episodes": {
-  "2026-11-02": [
-   {
-    "lang": "vi",
-    "story": "Tuần 2-6/11: các CTCK dự báo VN-Index dao động 1.700-1.780 điểm; thanh khoản tuần trước giảm hơn 16%, hỗ trợ 1.700-1.720."
-   },
-   {
-    "lang": "vi",
-    "story": "TCB: phiên 2/11 chưa có giá đóng cửa; mốc xác thực gần nhất 30/10 ở 21.600 đồng (-3,36%)."
-   },
-   {
-    "lang": "vi",
-    "story": "TCB: lợi nhuận trước thuế quý II 9.670 tỷ đồng (+22%); Rồng Việt dự phóng cả năm 37.644 tỷ đồng (+16%)."
-   },
-   {
-    "lang": "vi",
-    "story": "Bầu cử giữa kỳ Mỹ được nhắc là yếu tố rủi ro với khẩu vị đầu tư tháng 11."
-   },
-   {
-    "lang": "en",
-    "story": "Iran says it can reopen Hormuz within two days via a Qatar-shortened plan; Trump says talks go well, no strike before the midterms on November 3."
-   },
-   {
-    "lang": "en",
-    "story": "Ericsson: new CEO Per Narvinger (since Oct 1) trims management and prioritises costs; AI-native link adaptation (about 10 percent spectral efficiency) live at three operators."
-   },
-   {
-    "lang": "en",
-    "story": "Telecom: Ericsson standard-essential patent suits against a Chinese phone maker in Brazil, India, Nigeria and the UPC; Mobily signs autonomous-network MoU with Ericsson."
-   },
-   {
-    "lang": "fr",
-    "story": "Budget 2027 : vote solennel sur les recettes mardi 3 novembre, rejet probable ; vote d'ensemble le 17 novembre, limite parlementaire le 26 novembre."
-   },
-   {
-    "lang": "fr",
-    "story": "La CGT et l'intersyndicale appellent à une grève interprofessionnelle le 5 novembre après l'échec de Matignon."
-   }
-  ],
   "2026-11-03": [
    {
     "lang": "vi",
@@ -551,6 +513,56 @@
    {
     "lang": "fr",
     "story": "Teddy Riner annonce sa candidature à la présidentielle 2027 ; budget 2027 : le vote du 17 novembre n'aura pas lieu après le rejet des recettes."
+   }
+  ],
+  "2026-11-12": [
+   {
+    "lang": "vi",
+    "story": "VN-Index 11/11 tăng 3,83 điểm (+0,22%) lên 1.746,90, thanh khoản HOSE giảm khoảng 18%, VIC kéo chỉ số cuối phiên; khối ngoại mua ròng vài chục tỷ đồng."
+   },
+   {
+    "lang": "vi",
+    "story": "TCB: giảm 0,68% cuối phiên 11/11; mốc đóng cửa xác nhận gần nhất 21.650 đồng (6/11)."
+   },
+   {
+    "lang": "vi",
+    "story": "Techcombank quý III: lợi nhuận trước thuế 10,4 nghìn tỷ đồng (+25,8%), 9 tháng 28,9 nghìn tỷ đồng (+23,7%), NIM 3,5%, thu nhập dịch vụ +44,6%."
+   },
+   {
+    "lang": "vi",
+    "story": "SJC sáng 11/11 giảm thêm 300 nghìn đồng/lượng, bán ra quanh 140,6 triệu đồng."
+   },
+   {
+    "lang": "vi",
+    "story": "Quốc hội kết thúc đợt 1 kỳ họp thứ hai ngày 13/11, bế mạc 21/11; thảo luận Luật Bảo hiểm xã hội sửa đổi."
+   },
+   {
+    "lang": "en",
+    "story": "Ericsson/telecom: Starlink ends Q3 with about 13.6 million consumer subscribers and may test roughly 20 percent regional price rises; Ericsson CEO Narvinger reportedly favors in-house chips over Nvidia, unlike Nokia."
+   },
+   {
+    "lang": "en",
+    "story": "Trump and Xi to meet at the White House; Trump signs Russia and Iran sanctions act; Supreme Court lifts order blocking mail-in ballot executive order."
+   },
+   {
+    "lang": "en",
+    "story": "Health: CAR T-cell therapy shows promise for refractory lupus (ACR meeting); single-pill blood pressure combination beats usual care in Jamaica and Colombia."
+   },
+   {
+    "lang": "en",
+    "story": "Sport: ATP Finals open in Turin on Sunday, final on 22 November."
+   },
+   {
+    "lang": "fr",
+    "story": "Le 11 novembre commémoré dans les établissements scolaires malgré les réserves syndicales, selon le ministre Édouard Geffray."
+   },
+   {
+    "lang": "fr",
+    "story": "Questions au gouvernement : le ministre de la Culture plaide pour la liberté de la presse."
+   },
+   {
+    "lang": "fr",
+    "story": "Insee : le PIB a reculé au troisième trimestre, prévision annuelle à 0,4 %."
    }
   ]
  }
