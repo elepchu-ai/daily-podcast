@@ -1,72 +1,6 @@
 {
  "note": "Stories already covered. Read before writing; skip unless materially new.",
  "episodes": {
-  "2026-11-04": [
-   {
-    "lang": "vi",
-    "story": "VN-Index 3/11 đóng cửa 1.699,62 điểm (-11,10; -0,65%), phiên giảm thứ tư liên tiếp, lần đầu dưới 1.700; khối ngoại bán ròng khoảng 500 tỷ đồng phiên thứ tám liền (MBB -254 tỷ, VCB -219 tỷ)."
-   },
-   {
-    "lang": "vi",
-    "story": "TCB đóng cửa 3/11 ở 21.450 đồng (+50; +0,23%), khoảng 10 triệu cổ phiếu khớp; giảm khoảng 6% trong tuần; lãi suất tiết kiệm đầu tháng 11 hạ nhiệt theo chỉ đạo của Ngân hàng Nhà nước."
-   },
-   {
-    "lang": "vi",
-    "story": "SJC sáng 4/11: 137,6 - 140,6 triệu đồng/lượng; vàng nhẫn 133,7 - 137,7 triệu; vàng thế giới quanh 3.920 USD/ounce; USD Vietcombank bán 25.960 đồng."
-   },
-   {
-    "lang": "vi",
-    "story": "Đại biểu Quốc hội bàn về bốn dự án luật mới; Bộ trưởng Công Thương nhấn mạnh giá điện phải minh bạch; Chủ tịch Quốc hội hội đàm người đồng cấp Lào."
-   },
-   {
-    "lang": "vi",
-    "story": "Tai nạn giao thông 10 tháng giảm 16,9%; không khí lạnh tăng cường sớm vào 7-8/11, cảnh báo lũ quét tại Quảng Trị và Huế."
-   },
-   {
-    "lang": "en",
-    "story": "Telecom: Ericsson and Telia Sweden sign a 6G memorandum and demo upper 6 GHz; Ericsson to upgrade Batelco's Bahrain network with Massive MIMO and cloud-native 5G core; Ericsson and Verizon work on AI in RAN automation."
-   },
-   {
-    "lang": "en",
-    "story": "Telecom: report that Musk may use Boost Mobile to make Starlink Mobile a full US carrier after the big three carriers refused network access."
-   },
-   {
-    "lang": "en",
-    "story": "US midterms held; no confirmed House call yet, CBS projects Democrats on track; Iran offers to reopen Hormuz in 48 hours as Trump says a deal could happen."
-   },
-   {
-    "lang": "en",
-    "story": "Wall Street: Nasdaq +0.83 percent, Dow -0.38 percent; AMD jumps about 7 percent after results; OpenAI Abu Dhabi deals and shared ChatGPT-Codex allowance from December."
-   },
-   {
-    "lang": "en",
-    "story": "China official PMI 49.3; euro area Q3 growth 0.4 percent. Champions League: Man United 3-2 Roma, PSG 6-0 Villarreal, Bayern 2-0 at Atlético, Barcelona 3-0 Villa; NBA 15-game Monday slate."
-   },
-   {
-    "lang": "en",
-    "story": "Science and health: five nucleobases found in Ryugu samples; Ebola deaths reach 5,376 (Africa CDC), Ervebo doses reach Congo."
-   },
-   {
-    "lang": "fr",
-    "story": "Les députés n'ont pas terminé les amendements : le scrutin sur les recettes du budget glisse, sans nouvelle date avant le 17 novembre."
-   },
-   {
-    "lang": "fr",
-    "story": "Livret A : le gouvernement évoque un plafond à 30 000 euros dès février, pas encore adopté."
-   },
-   {
-    "lang": "fr",
-    "story": "Lycéens : 48 lycées bloqués selon le ministère, 500 selon les syndicats ; polémique sur les enseignants comptés grévistes."
-   },
-   {
-    "lang": "fr",
-    "story": "Grève du 5 novembre : SNCF perturbée, RATP normale, prévisions détaillées mercredi."
-   },
-   {
-    "lang": "fr",
-    "story": "Nice : enquête pour tentative de meurtre après l'agression d'une directrice de maternelle ; Ligue des champions : PSG 6-0 Villarreal."
-   }
-  ],
   "2026-11-05": [
    {
     "lang": "vi",
@@ -559,6 +493,68 @@
    {
     "lang": "fr",
     "story": "Sport : XV de France reçoit l'Afrique du Sud ce soir ; les Bleus battus 3-1 par l'Italie selon CNews."
+   }
+  ],
+  "2026-11-14": [
+   {
+    "lang": "vi",
+    "story": "VN-Index 13/11 gần như đi ngang: +0,18 điểm lên 1.734,93; cả tuần +0,55%; khối ngoại mua ròng khoảng 320,6 tỷ đồng sau phiên bán ròng lớn hôm trước."
+   },
+   {
+    "lang": "vi",
+    "story": "TCB: tăng 1,39% phiên 13/11, khoảng 21.850 đồng, ngân hàng giữ nhịp cuối phiên; cổ phiếu cổ tức mới dự kiến về tài khoản cổ đông trong tháng 11-12."
+   },
+   {
+    "lang": "vi",
+    "story": "SJC sáng 14/11: 135 - 138 triệu đồng/lượng, giảm 1 triệu mỗi chiều; vàng thế giới quanh 3.885 USD/ounce; USD Vietcombank bán quanh 25.910 đồng."
+   },
+   {
+    "lang": "vi",
+    "story": "Ba văn bản được bấm nút ngày 13/11: Luật Đo lường, Luật Chứng khoán (sửa đổi), quyết toán ngân sách năm 2025."
+   },
+   {
+    "lang": "vi",
+    "story": "Công điện 74 sau vụ tai nạn đặc biệt nghiêm trọng ở Tây Ninh làm 3 người chết; cảnh báo lũ quét, sạt lở tại Lai Châu, Điện Biên, Sơn La, Lào Cai."
+   },
+   {
+    "lang": "en",
+    "story": "Ericsson/telecom: Ericsson sets up an R&D capability in Vietnam with about 500 engineers and launches drone detection over mobile networks; Samsung Networks posts its weakest quarter in nine years; Deutsche Telekom CEO fights a Huawei ban in Germany."
+   },
+   {
+    "lang": "en",
+    "story": "Wall Street ends a choppy week: Nvidia's slide and Huang crisis pull the S&P 500 and Nasdaq lower on the day, yet both finish the week ahead; Lutnick to testify on chip sales."
+   },
+   {
+    "lang": "en",
+    "story": "Iran: Trump holds off new strikes but the Hormuz blockade stays; IAEA says Iran rules out regular inspections; Brent near 96 dollars."
+   },
+   {
+    "lang": "en",
+    "story": "US House sends Hegseth impeachment articles to committee, 211 to 204; ICC narrows Afghanistan probe to Taliban crimes; Guinea gold-mining clashes kill 10."
+   },
+   {
+    "lang": "en",
+    "story": "NBA: Sixers beat Raptors, Pistons edge Wizards in a 144-140 shootout; science: a huge Nature analysis backs the new obesity definition, and drug adverts are found to sway AI treatment advice."
+   },
+   {
+    "lang": "fr",
+    "story": "Rugby : les Bleus battent l'Afrique du Sud 21-19 au Stade de France, première victoire sur les Springboks depuis 2022."
+   },
+   {
+    "lang": "fr",
+    "story": "Budget Sécu 2027 : le Sénat supprime l'article 5 sur les chantiers d'insertion et adoucit la hausse des cotisations CNRACL ; le PLF 2027 sera examiné au Sénat du 20 novembre au 8 décembre."
+   },
+   {
+    "lang": "fr",
+    "story": "EP Group (Křetínský) détient 69,3 % de Fnac Darty ; l'offre à 35 euros est rouverte du 12 au 25 novembre."
+   },
+   {
+    "lang": "fr",
+    "story": "Primaire de la droite et du centre : Retailleau et Attal relancent la pression, Philippe refuse toujours ; procès en appel de Depardieu du 16 au 20 novembre."
+   },
+   {
+    "lang": "fr",
+    "story": "Lycées : 0,3 % des lycées bloqués selon le ministère, manifestations attendues samedi et mardi."
    }
   ]
  }
