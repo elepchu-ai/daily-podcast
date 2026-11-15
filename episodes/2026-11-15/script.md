@@ -10,7 +10,7 @@ Cổ phiếu Techcombank, mã TCB, không có phiên mới. Mức đóng cửa g
 
 Điểm đáng chú ý nhất sáng nay là vàng. Giá vàng miếng SJC niêm yết khoảng một trăm ba mươi tư phẩy năm triệu đồng mua vào và một trăm ba mươi bảy phẩy năm triệu đồng bán ra mỗi lượng, giảm thêm năm trăm nghìn đồng. Tính cả tuần, vàng miếng đã giảm khoảng ba phẩy bảy triệu đồng, về mức thấp nhất hơn một năm. Vàng thế giới cũng yếu, quanh ba nghìn tám trăm tám mươi đô la một ounce, có lúc xuống dưới ba nghìn chín trăm. Người mua vàng nên thận trọng, vì các báo vẫn nói chưa thể xác định đáy.
 
-Về Quốc hội. Tuần tới, đại biểu về địa phương và các cơ quan hoàn thiện dự thảo luật. Tối thứ Sáu, Quốc hội cũng đã bỏ phiếu cho ông Hồ Sỹ Hùng thôi làm đại biểu Quốc hội khóa mười sáu, thuộc Đoàn Hà Nội. Hôm qua, Chủ tịch Quốc hội Trần Thanh Mẫn dự lễ kỷ niệm sáu mươi năm thành lập Trường Đại học Mỏ Địa chất.
+Về Quốc hội. Tối thứ Sáu, Quốc hội cũng đã bỏ phiếu cho ông Hồ Sỹ Hùng thôi làm đại biểu Quốc hội khóa mười sáu, thuộc Đoàn Hà Nội. Hôm qua, Chủ tịch Quốc hội Trần Thanh Mẫn dự lễ kỷ niệm sáu mươi năm thành lập Trường Đại học Mỏ Địa chất.
 
 Chuyển sang thế giới, nơi tuần tới có khá nhiều sự kiện.
 
