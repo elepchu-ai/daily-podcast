@@ -49,6 +49,14 @@ jobs:
           echo "episode=$EP" >> "$GITHUB_OUTPUT"
           echo "Building episode: $EP"
 
+      # Runs are queued one at a time, so an earlier run may have pushed a feed
+      # commit since this run's commit. Build from the latest main so the feed
+      # commit at the end applies cleanly instead of conflicting on rebase.
+      - name: Sync to latest main
+        run: |
+          git fetch origin main
+          git reset --hard FETCH_HEAD
+
       - name: Novelty and format check (warn only)
         if: steps.ep.outputs.episode != 'sample'
         run: python scripts/check_novelty.py --episode "${{ steps.ep.outputs.episode }}"

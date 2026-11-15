@@ -1,3 +1,7 @@
 out/
 __pycache__/
 *.pyc
+
+# working copies written by the daily task; the published files live in episodes/
+/script.md
+/summary.md
