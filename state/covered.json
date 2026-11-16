@@ -1,68 +1,6 @@
 {
  "note": "Stories already covered. Read before writing; skip unless materially new.",
  "episodes": {
-  "2026-11-06": [
-   {
-    "lang": "vi",
-    "story": "VN-Index 5/11 đóng cửa 1.740,73 điểm (+7,71; +0,44%), phiên tăng thứ hai liên tiếp nhưng yếu dần; khối ngoại bán ròng phiên thứ mười, VCB bị bán mạnh nhất, VIX được mua ròng hơn 450 tỷ đồng."
-   },
-   {
-    "lang": "vi",
-    "story": "TCB đóng cửa 5/11 ở 21.950 đồng (+0,46%), khớp khoảng 11,26 triệu cổ phiếu (theo Investing.com)."
-   },
-   {
-    "lang": "vi",
-    "story": "SJC sáng 6/11: 139,5 - 142,5 triệu đồng/lượng; vàng nhẫn tăng mạnh; vàng thế giới vượt 4.100 USD/ounce."
-   },
-   {
-    "lang": "vi",
-    "story": "Bộ trưởng Công an giải trình về dự án Luật Bảo vệ công trình quan trọng liên quan đến an ninh quốc gia; hệ thống dữ liệu giao thông phân biệt vi phạm vô ý, cố ý, tái phạm."
-   },
-   {
-    "lang": "vi",
-    "story": "Chính phủ đề xuất giao Bộ Công an quản lý định danh địa chỉ IP."
-   },
-   {
-    "lang": "en",
-    "story": "Ericsson: VodafoneThree is the first operator to deploy Ericsson's AIR 3266 Massive MIMO radio commercially; Verizon to roll out Ericsson's Intelligent Controller for AI rApps."
-   },
-   {
-    "lang": "en",
-    "story": "Telecom: report that Germany is preparing restrictions on Huawei and ZTE in 5G networks."
-   },
-   {
-    "lang": "en",
-    "story": "Wall Street reverses the midterm rally: Dow -1,833 points (-3.44 percent) to 51,523; Nasdaq -5.5 percent into correction; Nvidia down 8 to 9 percent."
-   },
-   {
-    "lang": "en",
-    "story": "Iran's Revolutionary Guard says two tankers and a tugboat caught fire near Hormuz (unverified)."
-   },
-   {
-    "lang": "en",
-    "story": "Bank of England raises Bank Rate to 4 percent (vote 8-1), first move of 2026; Meta raises another 15 billion dollars of debt; Cat Wu moves from Anthropic to OpenAI."
-   },
-   {
-    "lang": "en",
-    "story": "Sport: Marseille win 1-0 at Leverkusen (Gouiri), Lyon 1-1 at Real Sociedad; NBA: 76ers 112-106 Pistons."
-   },
-   {
-    "lang": "en",
-    "story": "Science: ESA's Hera sends first clear images of both DART asteroids; Voyager 1 nears one light-day from Earth."
-   },
-   {
-    "lang": "fr",
-    "story": "Grève du 5 novembre : environ 600 000 manifestants selon le ministère à 17 h, 1,6 million selon la CGT ; 448 interpellations et 53 membres des forces de l'ordre blessés (bilan provisoire)."
-   },
-   {
-    "lang": "fr",
-    "story": "Budget : calendrier au Sénat précisé (PLFSS du 12 au 18 novembre, projet de loi de finances du 20 novembre au 9 décembre) ; pas de 49.3 annoncé."
-   },
-   {
-    "lang": "fr",
-    "story": "Ligue Europa : l'OM gagne 1-0 à Leverkusen (but de Gouiri, 77e), Lyon 1-1 à la Real Sociedad pour les débuts de Jorge Maciel, Monaco invaincu."
-   }
-  ],
   "2026-11-07": [
    {
     "lang": "vi",
@@ -527,6 +465,40 @@
    {
     "lang": "fr",
     "story": "Lycéens : Geffray chiffre les annonces à plus de 5 à 6 milliards d'euros, l'intersyndicale réclame 10 milliards ; manifestations attendues le 17 novembre."
+   }
+  ],
+  "2026-11-16": [
+   {
+    "lang": "vi",
+    "story": "Thị trường: chưa có phiên mới, VN-Index giữ mốc 13/11 (1.734,93 điểm); SJC 134,5 - 137,5 triệu đồng/lượng theo bảng giá chủ nhật."
+   },
+   {
+    "lang": "vi",
+    "story": "TCB: phiên gần nhất 13/11 tăng khoảng 1,39%, quanh 21.850 đồng; chưa có tin mới từ ngân hàng."
+   },
+   {
+    "lang": "vi",
+    "story": "Quốc hội nghỉ giữa hai đợt; đợt hai dự kiến bế mạc 21/11."
+   },
+   {
+    "lang": "en",
+    "story": "Ericsson/telecom: Ericsson and Singtel announce a five-year partnership on AI-native 5G Advanced networks, no value disclosed."
+   },
+   {
+    "lang": "en",
+    "story": "Pope Leo closes his three-nation tour in Peru after the Lujan mass."
+   },
+   {
+    "lang": "en",
+    "story": "Spain: housing costs dominate the campaign for the 29 November early election."
+   },
+   {
+    "lang": "fr",
+    "story": "Grève de la fonction publique annoncée mardi, avec lycéens et étudiants."
+   },
+   {
+    "lang": "fr",
+    "story": "Ligue 1 en pause, prochaine journée le 21 novembre."
    }
   ]
  }
