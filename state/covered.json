@@ -1,72 +1,6 @@
 {
  "note": "Stories already covered. Read before writing; skip unless materially new.",
  "episodes": {
-  "2026-11-07": [
-   {
-    "lang": "vi",
-    "story": "VN-Index 6/11 đóng cửa 1.725,36 điểm (-15,37; -0,88%), phiên giảm đầu tiên sau hai phiên tăng; khối ngoại quay lại mua ròng sau 10 phiên bán, tuần giảm hơn 16 điểm."
-   },
-   {
-    "lang": "vi",
-    "story": "TCB đóng cửa 6/11 ở 21.650 đồng (-300; -1,37%), khớp khoảng 11,34 triệu cổ phiếu; vay mượn qua đêm liên ngân hàng vượt 1 triệu tỷ đồng trong tuần."
-   },
-   {
-    "lang": "vi",
-    "story": "SJC sáng 7/11: 138 - 141 triệu đồng/lượng (-1,5 triệu); tỷ giá trung tâm 25.615 đồng/USD (-8)."
-   },
-   {
-    "lang": "vi",
-    "story": "Tổng Bí thư, Chủ tịch nước Tô Lâm thăm chính thức Nhật Bản từ 8 đến 11/11, chuyến đi đầu tiên của người đứng đầu Đảng sau 11 năm."
-   },
-   {
-    "lang": "vi",
-    "story": "Kỷ niệm 80 năm Quốc hội thông qua Hiến pháp 1946; Quốc hội thảo luận Luật Đấu thầu sửa đổi và Luật Tài nguyên, môi trường biển và hải đảo sửa đổi."
-   },
-   {
-    "lang": "en",
-    "story": "Ericsson: pushes autonomous networks and trusted AI data at its OSS/BSS Summit, with a new autonomous networks software release."
-   },
-   {
-    "lang": "en",
-    "story": "Telecom: Ericsson and Nokia argue for an evolutionary 6G core while Huawei favors a radical AI-centred redesign."
-   },
-   {
-    "lang": "en",
-    "story": "Wall Street rebounds: Nasdaq +1.09 percent to 24,579, S&P 500 +0.31 percent, Dow -0.46 percent; Nasdaq posts a fourth weekly loss."
-   },
-   {
-    "lang": "en",
-    "story": "October jobs: +165,000, unemployment 4.1 percent; Brent settles near 98 dollars, down more than 10 percent on the week."
-   },
-   {
-    "lang": "en",
-    "story": "Sport: Jaguars beat Ravens 33-10 on Thursday Night Football; Ravens lose a fourth straight."
-   },
-   {
-    "lang": "en",
-    "story": "Sport: Warriors beat Heat 120-100 for a sixth straight win; Suns beat Magic 117-104 in the NBA."
-   },
-   {
-    "lang": "en",
-    "story": "Health: personalized mRNA melanoma vaccine shows about 82 percent two-year recurrence-free survival in phase 3; pancreatic vaccine misses phase 2 goal."
-   },
-   {
-    "lang": "fr",
-    "story": "La France insoumise sort son programme L'Avenir en commun et le présente au Bourget ce samedi."
-   },
-   {
-    "lang": "fr",
-    "story": "Après la grève du 5 novembre, une conférence sociale évoquée ; Lecornu renonce à supprimer 800 postes dans le second degré."
-   },
-   {
-    "lang": "fr",
-    "story": "Budget : le Sénat attend le texte ; Larcher exige zéro hausse d'impôt et 12 milliards d'efforts sur la Sécu."
-   },
-   {
-    "lang": "fr",
-    "story": "Fausses alertes à la bombe sur plusieurs vols européens ; accident de car dans l'Ain, au moins deux morts."
-   }
-  ],
   "2026-11-08": [
    {
     "lang": "vi",
@@ -499,6 +433,52 @@
    {
     "lang": "fr",
     "story": "Ligue 1 en pause, prochaine journée le 21 novembre."
+   }
+  ],
+  "2026-11-17": [
+   {
+    "lang": "vi",
+    "story": "VN-Index 16/11 tăng 1,96 điểm (+0,11%) lên 1.736,89; thanh khoản giảm khoảng 10,5%, khối ngoại mua ròng nhẹ khoảng 20 tỷ đồng trên HOSE; FPT thủng mốc 50.000 đồng."
+   },
+   {
+    "lang": "vi",
+    "story": "TCB: đóng cửa xác nhận gần nhất 13/11 khoảng 21.850 đồng (+1,39%); chưa có giá phiên 16/11 từ nguồn tin cậy."
+   },
+   {
+    "lang": "vi",
+    "story": "SJC gần nhất xác nhận (15/11): 134,5 - 137,5 triệu đồng/lượng; tỷ giá trung tâm gần nhất 25.611 đồng/USD (11/11)."
+   },
+   {
+    "lang": "en",
+    "story": "Ericsson/telecom: Ericsson's weekly buyback, 100,000 shares a day at about SEK 103-107; Nokia wins One New Zealand autonomous-network deal and joins Telia on an AI compute consortium."
+   },
+   {
+    "lang": "en",
+    "story": "Wall Street: Nasdaq -2.49% to 24,510, S&P 500 -1.92% to 7,417; Nvidia about $156 before Tuesday earnings."
+   },
+   {
+    "lang": "en",
+    "story": "APEC Shenzhen on 18-19 November; Iran says Hormuz stays shut until its seven conditions are met."
+   },
+   {
+    "lang": "en",
+    "story": "NFL: Lions beat Patriots 35-10 in Munich; Maye and Hutchinson injured."
+   },
+   {
+    "lang": "en",
+    "story": "Health: Mount Sinai study finds drug ads can shape AI treatment suggestions."
+   },
+   {
+    "lang": "fr",
+    "story": "Grève et manifestations dans la fonction publique ce mardi : salaires, gel du point d'indice."
+   },
+   {
+    "lang": "fr",
+    "story": "Lecornu annonce un Smic à 1 502 euros brut en décembre (+1,6 %) ; syndicats jugent insuffisant."
+   },
+   {
+    "lang": "fr",
+    "story": "Budget de la Sécu : le texte est entre les mains du Sénat."
    }
   ]
  }
