@@ -1,40 +1,6 @@
 {
  "note": "Stories already covered. Read before writing; skip unless materially new.",
  "episodes": {
-  "2026-11-08": [
-   {
-    "lang": "vi",
-    "story": "Tổng Bí thư, Chủ tịch nước Tô Lâm bắt đầu thăm chính thức Nhật Bản (8-11/11): hội kiến Nhà vua, hội đàm Thủ tướng Takaichi Sanae, phát biểu tại Quốc hội Nhật Bản, thăm Kanagawa."
-   },
-   {
-    "lang": "vi",
-    "story": "Chứng khoán nghỉ cuối tuần; mốc gần nhất VN-Index 6/11 ở 1.725,36 điểm."
-   },
-   {
-    "lang": "vi",
-    "story": "TCB đóng cửa gần nhất (6/11) 21.650 đồng (-1,37%), khớp khoảng 11,3 triệu cổ phiếu."
-   },
-   {
-    "lang": "vi",
-    "story": "SJC sáng 7/11: 138 - 141 triệu đồng/lượng; tỷ giá trung tâm 25.615 đồng/USD."
-   },
-   {
-    "lang": "en",
-    "story": "Ericsson: Light Reading says mmWave radio production moved from Lewisville, Texas to Estonia."
-   },
-   {
-    "lang": "en",
-    "story": "Telecom: Germany reportedly preparing limits on Chinese 5G equipment."
-   },
-   {
-    "lang": "en",
-    "story": "Sport: Leeds 1-0 Tottenham, Okafor 79th minute."
-   },
-   {
-    "lang": "fr",
-    "story": "LFI : Mélenchon présente L'Avenir en commun lors d'une convention au Bourget."
-   }
-  ],
   "2026-11-09": [
    {
     "lang": "vi",
@@ -479,6 +445,64 @@
    {
     "lang": "fr",
     "story": "Budget de la Sécu : le texte est entre les mains du Sénat."
+   }
+  ],
+  "2026-11-18": [
+   {
+    "lang": "vi",
+    "story": "VN-Index 17/11 giảm 0,59% xuống 1.726,72 điểm; thanh khoản tăng gần 26% lên khoảng 14,96 nghìn tỷ đồng; 110 mã tăng, 207 mã giảm; dầu khí giảm sâu nhất."
+   },
+   {
+    "lang": "vi",
+    "story": "TCB: đóng cửa xác nhận gần nhất 16/11 ở 21.300 đồng (-550 đồng, -2,52%); phiên 17/11 sáng quanh 21.100 đồng, khối ngoại bán ròng vài chục tỷ đồng."
+   },
+   {
+    "lang": "vi",
+    "story": "SJC cuối phiên 17/11: 134,7 - 137,7 triệu đồng/lượng (+200 nghìn); vàng thế giới khoảng 3.868 USD/ounce; tỷ giá trung tâm 25.652 đồng/USD."
+   },
+   {
+    "lang": "vi",
+    "story": "Không khí lạnh tràn xuống miền Bắc từ tối 17/11, có mưa rào, dông và trời rét."
+   },
+   {
+    "lang": "en",
+    "story": "Ericsson/telecom: Nokia goes GPU-based on AI-RAN while Ericsson sells non-GPU AI features live in fifteen deployments; Huawei H1 sales up nearly 10 percent to about 468 billion yuan."
+   },
+   {
+    "lang": "en",
+    "story": "Nvidia Q3 revenue $115.8 billion (+103%), guides $130 billion for next quarter with no China data center sales; first report since Jensen Huang stepped down."
+   },
+   {
+    "lang": "en",
+    "story": "Wall Street fell a fourth straight day: S&P 500 -1.03% to 7,340.53, Nasdaq -0.74%, Dow -848 points; Anthropic expected to price its Nasdaq IPO today."
+   },
+   {
+    "lang": "en",
+    "story": "Football: Norway beat Denmark 3-2 in the Nations League, Haaland scoring twice."
+   },
+   {
+    "lang": "en",
+    "story": "Tennis: Alcaraz beat Tiafoe 6-2 6-2 in his ATP Finals opener in Turin."
+   },
+   {
+    "lang": "en",
+    "story": "Health: AML cancer vaccine trial reports 41 percent lower risk of death (company announcement); Mayo-led pancreatic vaccine study in Nature Medicine."
+   },
+   {
+    "lang": "fr",
+    "story": "Fonction publique : grève du 17 novembre en recul, moins de 3 % de grévistes dans l'État ; 146 000 manifestants selon l'Intérieur, 500 000 selon les syndicats."
+   },
+   {
+    "lang": "fr",
+    "story": "PLFSS 2027 : le Sénat a refusé plusieurs taxes et voté un transfert de dette de 15 milliards d'euros ; vote solennel prévu aujourd'hui."
+   },
+   {
+    "lang": "fr",
+    "story": "Smic : hausse de 1,6 % au 1er décembre, fixée sans vote du Parlement ; la CGT la juge insuffisante."
+   },
+   {
+    "lang": "fr",
+    "story": "Ligue des nations : la Norvège bat le Danemark 3-2 ; la Ligue 1 reprend le 21 novembre."
    }
   ]
  }
