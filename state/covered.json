@@ -1,48 +1,6 @@
 {
  "note": "Stories already covered. Read before writing; skip unless materially new.",
  "episodes": {
-  "2026-11-09": [
-   {
-    "lang": "vi",
-    "story": "Chuyến thăm Nhật Bản của Tổng Bí thư, Chủ tịch nước Tô Lâm (8-11/11): dự kiến tuyên bố chung, trọng tâm năng lượng hạt nhân thế hệ mới, AI, nhân lực; thương mại hai nước khoảng 50 tỷ USD."
-   },
-   {
-    "lang": "vi",
-    "story": "Phiên đầu tuần mở cửa lúc 9 giờ; mốc xác nhận gần nhất VN-Index 6/11 ở 1.725,36 điểm, khối ngoại mua ròng trở lại sau 10 phiên bán."
-   },
-   {
-    "lang": "vi",
-    "story": "TCB: mốc đóng cửa xác nhận gần nhất 21.650 đồng (6/11), chưa có công bố mới của Techcombank cuối tuần."
-   },
-   {
-    "lang": "en",
-    "story": "Telecom/Huawei: trial in Brooklyn continues (opened 9 Sept, about three months); NPR explainer on global stakes."
-   },
-   {
-    "lang": "en",
-    "story": "Ericsson: weekly buyback of 500,000 B shares for about SEK 54 million; new CEO Per Narvinger since 1 October."
-   },
-   {
-    "lang": "en",
-    "story": "Telecom: Nokia, Ericsson and Huawei compete for operators' AI budgets; Huawei unveils upper 6 GHz antenna, claims 30 percent coverage gain."
-   },
-   {
-    "lang": "en",
-    "story": "Wall Street weekly: Dow -0.9, S&P 500 -2.7 (7,377), Nasdaq -3.4 percent; Thursday rout tied to AI-regulation fears after the midterms."
-   },
-   {
-    "lang": "fr",
-    "story": "Le Sénat entame aujourd'hui l'examen du PLFSS 2027 en séance, vote solennel le 18 novembre."
-   },
-   {
-    "lang": "fr",
-    "story": "Le Sénat part du texte initial du gouvernement après le vote 115 contre 1 des députés sur les recettes."
-   },
-   {
-    "lang": "fr",
-    "story": "Commission des affaires sociales : texte jugé essentiellement comptable ; piste d'une désindexation des pensions à partir de 1 400 euros."
-   }
-  ],
   "2026-11-10": [
    {
     "lang": "vi",
@@ -503,6 +461,72 @@
    {
     "lang": "fr",
     "story": "Ligue des nations : la Norvège bat le Danemark 3-2 ; la Ligue 1 reprend le 21 novembre."
+   }
+  ],
+  "2026-11-19": [
+   {
+    "lang": "vi",
+    "story": "VN-Index 18/11 giảm 23,71 điểm (-1,37%) còn 1.703,01, phiên giảm thứ hai liên tiếp; khối ngoại bán ròng hơn 1.100 tỷ đồng, bán mạnh FPT, VIC, MBB, VCB."
+   },
+   {
+    "lang": "vi",
+    "story": "TCB: đóng cửa xác nhận gần nhất 16/11 ở 21.300 đồng, khối lượng khoảng 8,2 triệu cổ phiếu; phiên 17/11 khối ngoại bán ròng khoảng 38 tỷ đồng TCB."
+   },
+   {
+    "lang": "vi",
+    "story": "SJC chiều 18/11: 134,2 - 137,2 triệu đồng/lượng; vàng thế giới xuống khoảng 3.778 USD/ounce, thấp nhất từ tháng 9/2025; tỷ giá trung tâm 25.656 đồng/USD."
+   },
+   {
+    "lang": "vi",
+    "story": "Quốc hội cho ý kiến 7 luật sửa đổi; Luật An ninh dữ liệu đủ điều kiện biểu quyết; Luật Phát triển công nghiệp văn hóa lùi sang kỳ họp sau."
+   },
+   {
+    "lang": "vi",
+    "story": "Không khí lạnh về miền Bắc, mưa to ở Nghệ An, Hà Tĩnh đêm 18-19/11, có nơi trên 100 mm."
+   },
+   {
+    "lang": "en",
+    "story": "Ericsson/telecom: SpaceX picks Qualcomm for Starlink's US terrestrial 5G network; Nokia Federal wins a US defense ISAC contract; Germany's end-2026 deadline for Huawei and ZTE in 5G core nears."
+   },
+   {
+    "lang": "en",
+    "story": "Anthropic prices IPO at $83, raising about $81.3 billion; Nasdaq debut under ANT today."
+   },
+   {
+    "lang": "en",
+    "story": "Wall Street: Dow -1.11% to 50,198, S&P 500 -0.23% to 7,324 (fifth straight loss), Nasdaq +0.42%; Nvidia -2.89% to a 16-month low."
+   },
+   {
+    "lang": "en",
+    "story": "Iran and the Gulf: US strike on Qeshm, Iranian retaliation on Kuwait and Bahrain; Israeli tanks move into central Gaza."
+   },
+   {
+    "lang": "en",
+    "story": "Sport: Medvedev falls 6-2 6-4 to a limping Alcaraz; Chelsea edge PSG 1-0 and Man City win 2-0 at BK Hacken in the Women's Champions League."
+   },
+   {
+    "lang": "en",
+    "story": "Science: MIT work on boosting the brain's sleep-time cleaning system."
+   },
+   {
+    "lang": "fr",
+    "story": "PLFSS 2027 adopté au Sénat par 201 voix contre 124 ; déficit porté à 14 milliards d'euros ; retour à l'Assemblée en nouvelle lecture."
+   },
+   {
+    "lang": "fr",
+    "story": "Budget : Lecornu va lister les priorités d'un compromis ; choix final entre 49.3 et ordonnance ; le Sénat attaque le projet de loi de finances vendredi."
+   },
+   {
+    "lang": "fr",
+    "story": "Fonction publique : discussion d'un mois avec les syndicats sur les bas salaires."
+   },
+   {
+    "lang": "fr",
+    "story": "Retraites : Le Pen et Philippe présentent leurs réformes ; environ 3 000 lycéens passés en conseil de discipline."
+   },
+   {
+    "lang": "fr",
+    "story": "Ligue des champions féminine : Chelsea bat le PSG 1-0."
    }
   ]
  }
