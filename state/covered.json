@@ -1,64 +1,6 @@
 {
  "note": "Stories already covered. Read before writing; skip unless materially new.",
  "episodes": {
-  "2026-11-10": [
-   {
-    "lang": "vi",
-    "story": "VN-Index 9/11 giảm 11,04 điểm (-0,64%) còn 1.714,32, phiên giảm thứ hai liên tiếp; khối ngoại bán ròng hơn 800 tỷ đồng trên HOSE, bán HPG, VIC, PNJ, FPT, VHM."
-   },
-   {
-    "lang": "vi",
-    "story": "TCB: đóng cửa xác nhận gần nhất 21.650 đồng (6/11); phiên 9/11 khối ngoại mua ròng khoảng 33 tỷ đồng TCB, sau VPB và MBB."
-   },
-   {
-    "lang": "vi",
-    "story": "SJC sáng 10/11: 138,2 - 141,2 triệu đồng/lượng, nhích lên so với cuối tuần; vàng thế giới quanh 4.100 USD/ounce."
-   },
-   {
-    "lang": "vi",
-    "story": "Tô Lâm - Takaichi hội đàm tại Tokyo: thông qua Tuyên bố Tầm nhìn chung, ký 11 văn kiện gồm MOU điện hạt nhân; phát biểu tại Quốc hội Nhật Bản."
-   },
-   {
-    "lang": "vi",
-    "story": "Quốc hội thảo luận Luật Phát triển công nghiệp văn hóa và 3 dự án cao tốc; Bộ Công an khởi tố 94 bị can đường dây xuyên quốc gia; giá xăng E5 tối đa 20.898 đồng/lít."
-   },
-   {
-    "lang": "en",
-    "story": "Ericsson: new CEO Per Narvinger's first interview (Bloomberg) says AI will depend on connectivity."
-   },
-   {
-    "lang": "en",
-    "story": "Telecom: Ericsson prices network sensing as a product with a defence angle (Telia, Swedish Armed Forces), first revenue 2028; Light Reading says SpaceX and Qualcomm threaten the US 5G order."
-   },
-   {
-    "lang": "en",
-    "story": "Wall Street Monday: S&P 500 +2.35 percent to 7,549.94, Nasdaq +2.74 percent, Dow +1,104 points; Brent falls about 5 percent to about 94 dollars as Trump plays down new Iran strikes."
-   },
-   {
-    "lang": "en",
-    "story": "Massie moves again to impeach Hegseth; Russia launches 317 drones, Odesa strike kills three; Eisenkot tasked with forming Israel's government."
-   },
-   {
-    "lang": "en",
-    "story": "Sport: Lakers 121-116 Pistons (Reaves 43), Mavericks 130-93 Nets, Man United 4-4 Aston Villa. Health: salt-substitute study, weight-loss surgery vs lifestyle for diabetes."
-   },
-   {
-    "lang": "fr",
-    "story": "Grève de l'éducation nationale ce mardi : une cinquantaine de manifestations, parcours unique autorisé à Paris."
-   },
-   {
-    "lang": "fr",
-    "story": "Conférence sociale : Smic +1,6 % au 1er décembre ; la CGT rejoint la grève du 17 novembre."
-   },
-   {
-    "lang": "fr",
-    "story": "CAC 40 +1,16 % lundi, plus haut d'un mois ; Hervé Morin veut une primaire de la droite en janvier."
-   },
-   {
-    "lang": "fr",
-    "story": "Procès des policiers de l'affaire Zecler ouvert à Paris ; procès d'Escoffier à Lorient ; Lille bat Rennes 2-1, Marseille bat Lens 2-1."
-   }
-  ],
   "2026-11-11": [
    {
     "lang": "vi",
@@ -527,6 +469,60 @@
    {
     "lang": "fr",
     "story": "Ligue des champions féminine : Chelsea bat le PSG 1-0."
+   }
+  ],
+  "2026-11-20": [
+   {
+    "lang": "vi",
+    "story": "VN-Index 19/11 giảm 13,39 điểm (-0,79%) còn 1.689,62, thấp nhất một tháng, phiên đáo hạn phái sinh; khối ngoại bán ròng khoảng 1.000 tỷ đồng trên ba sàn."
+   },
+   {
+    "lang": "vi",
+    "story": "TCB: đóng cửa xác nhận gần nhất 16/11 ở 21.300 đồng (-2,52%), khối lượng khoảng 8,2 triệu cổ phiếu; chưa có giá xác nhận cho 19/11."
+   },
+   {
+    "lang": "vi",
+    "story": "Vùng 1.700 điểm bị mất; các công ty chứng khoán xem đây là hỗ trợ quan trọng."
+   },
+   {
+    "lang": "en",
+    "story": "Ericsson/telecom: Vodacom and Huawei test upper 6 GHz in South Africa; Ericsson's enterprise wireless unit dissolved, Åsa Tamsons leaves on December 31."
+   },
+   {
+    "lang": "en",
+    "story": "Thursday rout: the Dow sheds about 1,100 points, and the Nasdaq closes near 23,886 as health insurers and Walmart slide."
+   },
+   {
+    "lang": "en",
+    "story": "Anthropic (ANT) debuts at $111.50 vs $83 IPO price, closes at $97.17 (+17%)."
+   },
+   {
+    "lang": "en",
+    "story": "Tennis: Shelton beats Jodar to reach the ATP Finals semifinals; Alcaraz plays Shelton on Saturday, Sinner out with a knee injury."
+   },
+   {
+    "lang": "en",
+    "story": "NBA: Bulls 137-107 Nets, Giddey 18 points, 14 rebounds, 9 assists."
+   },
+   {
+    "lang": "en",
+    "story": "Science: UCLA lab study on boosting a healthy gene copy against an autism-linked mutation."
+   },
+   {
+    "lang": "fr",
+    "story": "Budget 2027 : le Sénat ouvre l'examen en séance le 20 novembre, vote solennel le 9 décembre."
+   },
+   {
+    "lang": "fr",
+    "story": "Lavarde propose de supprimer l'abattement de 10 % des retraités (4,7 milliards d'euros)."
+   },
+   {
+    "lang": "fr",
+    "story": "Lecornu n'a pas tranché entre vote, 49.3 et ordonnances ; CMP visée mi-décembre."
+   },
+   {
+    "lang": "fr",
+    "story": "Ligue 1 : Troyes-Le Havre ce soir, Nice-PSG samedi, Marseille-Le Mans dimanche."
    }
   ]
  }
