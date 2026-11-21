@@ -1,60 +1,6 @@
 {
  "note": "Stories already covered. Read before writing; skip unless materially new.",
  "episodes": {
-  "2026-11-11": [
-   {
-    "lang": "vi",
-    "story": "VN-Index 10/11 bật tăng 28,75 điểm (+1,68%) lên 1.743,07, khối ngoại quay lại mua ròng khoảng 470 tỷ đồng trên HOSE (KDH, POW, SSI, VHM), FPT bị bán nhiều nhất."
-   },
-   {
-    "lang": "vi",
-    "story": "TCB: đóng cửa xác nhận gần nhất 21.650 đồng (6/11); sáng 10/11 giao dịch quanh 21.900 đồng; hoàn tất phát hành cổ phiếu trả cổ tức 50%, vốn điều lệ lên khoảng 106.293 tỷ đồng."
-   },
-   {
-    "lang": "vi",
-    "story": "Ngân hàng Nhà nước mua ngoại tệ giao ngay và bơm VND vào thứ Hai và thứ Tư từ 11/11; hơn 16 ngân hàng giảm lãi suất huy động; SJC chiều 10/11 bán ra 140,9 triệu đồng/lượng, sáng 11/11 giảm thêm 300 nghìn đồng."
-   },
-   {
-    "lang": "vi",
-    "story": "Tàu VTA Neptune (23.620 DWT) trôi dạt, mắc cạn ở Chân Mây - Lăng Cô (Huế) tối 9/11, 20 thuyền viên; hàng không trực 24/24 ứng phó mưa lớn Trung Bộ."
-   },
-   {
-    "lang": "vi",
-    "story": "Chính phủ yêu cầu giữ ổn định giá hàng hóa, dịch vụ nhà nước quản lý đến hết năm 2026; Bộ Y tế hoàn thiện dự thảo Luật An toàn thực phẩm sửa đổi."
-   },
-   {
-    "lang": "en",
-    "story": "Ericsson/telecom: Vodafone Egypt trials Ericsson's AI-native radio link solution; BT holds off on a Starlink collaboration; Bharti Airtel revenue +16.7 percent; Deutsche Telekom CEO says he will fight a Huawei ban."
-   },
-   {
-    "lang": "en",
-    "story": "Wall Street Tuesday: hot October CPI (+0.4 percent), S&P 500 -0.4 percent to 7,520.93, Nasdaq -0.7 percent; December Fed hike odds near 87 percent; Brent about 91.50 dollars."
-   },
-   {
-    "lang": "en",
-    "story": "Ukraine, Russia and the US hold first talks since February in Abu Dhabi; Ukraine hits Russia's second-largest refinery."
-   },
-   {
-    "lang": "en",
-    "story": "Sport: Mavericks 125-122 Pacers (Flagg 43), Warriors 138-87 Pelicans, Lakers 124-114 Hawks. Science: Nature Medicine RNA blood test for early ovarian cancer; semaglutide heart-failure substudy at AHA."
-   },
-   {
-    "lang": "fr",
-    "story": "Éducation : 1,6 % d'enseignants en grève mardi selon le ministère ; une élue LR agressée devant un lycée de Chelles ; la CGT rejoindra la journée du 17."
-   },
-   {
-    "lang": "fr",
-    "story": "Insee : chômage à 8,2 % au troisième trimestre, en baisse de 0,1 point sur le trimestre, +0,4 point sur un an."
-   },
-   {
-    "lang": "fr",
-    "story": "La France accuse l'Iran (unité Shahid Kaveh des Gardiens de la Révolution) de la cyberattaque contre environ 700 supermarchés ; information judiciaire ouverte."
-   },
-   {
-    "lang": "fr",
-    "story": "Teddy Riner annonce sa candidature à la présidentielle 2027 ; budget 2027 : le vote du 17 novembre n'aura pas lieu après le rejet des recettes."
-   }
-  ],
   "2026-11-12": [
    {
     "lang": "vi",
@@ -523,6 +469,64 @@
    {
     "lang": "fr",
     "story": "Ligue 1 : Troyes-Le Havre ce soir, Nice-PSG samedi, Marseille-Le Mans dimanche."
+   }
+  ],
+  "2026-11-21": [
+   {
+    "lang": "vi",
+    "story": "VN-Index 20/11 đóng cửa 1.688,79 điểm (-0,83 điểm, -0,05%), cả tuần giảm 2,66%; khối ngoại bán ròng gần 900 tỷ đồng, phiên bán ròng thứ tư liên tiếp."
+   },
+   {
+    "lang": "vi",
+    "story": "TCB: đóng cửa xác nhận gần nhất 20.600 đồng (19/11, -150 đồng, -0,72%); phiên 20/11 khối ngoại mua ròng khoảng 16 tỷ đồng, tự doanh mua ròng khoảng 21 tỷ đồng."
+   },
+   {
+    "lang": "vi",
+    "story": "Vàng SJC sáng 20/11 còn 129,2 - 134,2 triệu đồng/lượng; vàng thế giới quanh 3.545 USD/ounce; tỷ giá trung tâm 25.659 đồng."
+   },
+   {
+    "lang": "vi",
+    "story": "Xăng dầu giảm giá kỳ thứ năm liên tiếp: E5 RON92 18.576 đồng/lít, E10 19.100 đồng/lít."
+   },
+   {
+    "lang": "vi",
+    "story": "Bộ Y tế: kế hoạch bảo hiểm y tế toàn dân giai đoạn mới; tiêu chuẩn cơ sở khám chữa bệnh ngoài bệnh viện từ 1/1/2027."
+   },
+   {
+    "lang": "en",
+    "story": "Ericsson/telecom: Ericsson B shares fall about 3 percent to 101.70 SEK in Friday's tech rout; FCC votes to bar China Mobile, China Telecom and China Unicom from direct US phone-number access; VodafoneThree to trial Nokia AI-RAN on Nvidia chips."
+   },
+   {
+    "lang": "en",
+    "story": "Wall Street Friday: S&P 500 -3.7 percent into correction, Nasdaq -5.3 percent, chip index -10.7 percent; SEC reportedly examining Nvidia's accounting."
+   },
+   {
+    "lang": "en",
+    "story": "Iran: Washington says no talks; Tehran offers to reopen Hormuz within a week if the blockade lifts."
+   },
+   {
+    "lang": "en",
+    "story": "Sport: ATP Finals semifinals set, Alcaraz v Shelton; Antoine Mille's double lifts Troyes past ten-man Le Havre, 3-1."
+   },
+   {
+    "lang": "en",
+    "story": "Science: Nature Health model says potassium-enriched salt could prevent about 2.96 million deaths; Marburg sequencing hints at wider circulation in East and Central Africa."
+   },
+   {
+    "lang": "fr",
+    "story": "Sénat : une motion d'arrêt des débats rejetée par 249 voix contre 19 ; la partie recettes court jusqu'au 28 ou 29 novembre."
+   },
+   {
+    "lang": "fr",
+    "story": "Incendie du lycée Nelson-Mandela à Nantes : deux élèves de 16 ans mis en examen, dégâts de 2 à 4 millions d'euros."
+   },
+   {
+    "lang": "fr",
+    "story": "Rugby : France-Argentine ce soir au Stade de France, une victoire bonifiée mène les Bleus en finale à Londres."
+   },
+   {
+    "lang": "fr",
+    "story": "Football : Antoine Mille signe un doublé dans la victoire de Troyes sur Le Havre, réduit à dix."
    }
   ]
  }
