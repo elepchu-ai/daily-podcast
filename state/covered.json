@@ -1,56 +1,6 @@
 {
  "note": "Stories already covered. Read before writing; skip unless materially new.",
  "episodes": {
-  "2026-11-12": [
-   {
-    "lang": "vi",
-    "story": "VN-Index 11/11 tăng 3,83 điểm (+0,22%) lên 1.746,90, thanh khoản HOSE giảm khoảng 18%, VIC kéo chỉ số cuối phiên; khối ngoại mua ròng vài chục tỷ đồng."
-   },
-   {
-    "lang": "vi",
-    "story": "TCB: giảm 0,68% cuối phiên 11/11; mốc đóng cửa xác nhận gần nhất 21.650 đồng (6/11)."
-   },
-   {
-    "lang": "vi",
-    "story": "Techcombank quý III: lợi nhuận trước thuế 10,4 nghìn tỷ đồng (+25,8%), 9 tháng 28,9 nghìn tỷ đồng (+23,7%), NIM 3,5%, thu nhập dịch vụ +44,6%."
-   },
-   {
-    "lang": "vi",
-    "story": "SJC sáng 11/11 giảm thêm 300 nghìn đồng/lượng, bán ra quanh 140,6 triệu đồng."
-   },
-   {
-    "lang": "vi",
-    "story": "Quốc hội kết thúc đợt 1 kỳ họp thứ hai ngày 13/11, bế mạc 21/11; thảo luận Luật Bảo hiểm xã hội sửa đổi."
-   },
-   {
-    "lang": "en",
-    "story": "Ericsson/telecom: Starlink ends Q3 with about 13.6 million consumer subscribers and may test roughly 20 percent regional price rises; Ericsson CEO Narvinger reportedly favors in-house chips over Nvidia, unlike Nokia."
-   },
-   {
-    "lang": "en",
-    "story": "Trump and Xi to meet at the White House; Trump signs Russia and Iran sanctions act; Supreme Court lifts order blocking mail-in ballot executive order."
-   },
-   {
-    "lang": "en",
-    "story": "Health: CAR T-cell therapy shows promise for refractory lupus (ACR meeting); single-pill blood pressure combination beats usual care in Jamaica and Colombia."
-   },
-   {
-    "lang": "en",
-    "story": "Sport: ATP Finals open in Turin on Sunday, final on 22 November."
-   },
-   {
-    "lang": "fr",
-    "story": "Le 11 novembre commémoré dans les établissements scolaires malgré les réserves syndicales, selon le ministre Édouard Geffray."
-   },
-   {
-    "lang": "fr",
-    "story": "Questions au gouvernement : le ministre de la Culture plaide pour la liberté de la presse."
-   },
-   {
-    "lang": "fr",
-    "story": "Insee : le PIB a reculé au troisième trimestre, prévision annuelle à 0,4 %."
-   }
-  ],
   "2026-11-13": [
    {
     "lang": "vi",
@@ -527,6 +477,76 @@
    {
     "lang": "fr",
     "story": "Football : Antoine Mille signe un doublé dans la victoire de Troyes sur Le Havre, réduit à dix."
+   }
+  ],
+  "2026-11-22": [
+   {
+    "lang": "vi",
+    "story": "Phiên 20/11: VN-Index 1.688,79 điểm (-0,83), thanh khoản tăng hơn 6% lên khoảng 15.930 tỷ đồng; vùng đáy tháng 7 là hỗ trợ cần theo dõi."
+   },
+   {
+    "lang": "vi",
+    "story": "TCB: đóng cửa 20/11 ở 21.200 đồng (+600 đồng, +2,91%), khối lượng khoảng 13,2 triệu cổ phiếu, cùng VIC, STB, GAS đóng góp hơn 5 điểm cho VN-Index."
+   },
+   {
+    "lang": "vi",
+    "story": "Vàng SJC sáng 21/11: 128,5 - 133,5 triệu đồng/lượng, giảm thêm 700 nghìn; chênh với thế giới khoảng 22,76 triệu; USD Vietcombank bán ra 25.980 đồng."
+   },
+   {
+    "lang": "vi",
+    "story": "Quốc hội bế mạc kỳ họp thứ hai: 38 luật, 18 nghị quyết; 5 dự án chuyển sang kỳ họp thứ ba."
+   },
+   {
+    "lang": "vi",
+    "story": "Thông tư 172/2026/TT-BCA về giải quyết khiếu nại trong Công an nhân dân có hiệu lực; không khí lạnh mới từ đêm 23/11, mưa lớn miền Trung dự báo 25-29/11."
+   },
+   {
+    "lang": "en",
+    "story": "Ericsson/telecom: DNB and Ericsson win TM Forum Level 4 autonomy validation for RAN fault management (98 percent of incidents resolved); Nokia optics power CMC Networks' EMEA-R corridor; Ericsson weekly buyback of 500,000 B shares at about SEK 105."
+   },
+   {
+    "lang": "en",
+    "story": "Starlink: Musk floats a rooftop cell unit for dead zones (2027 target); Brazil's Anatel formalises S-band spectrum for Starlink and AST SpaceMobile."
+   },
+   {
+    "lang": "en",
+    "story": "Ukraine: deadly Russian strike on Kyiv, sirens in Polish cities, Denmark expels Russian defence attaché."
+   },
+   {
+    "lang": "en",
+    "story": "Wall Street Friday: Nvidia reportedly down about 14 percent after SEC accounting probe report."
+   },
+   {
+    "lang": "en",
+    "story": "Iran: Trump claims total control of Hormuz; Tehran says it can reopen the strait in a day under its conditions; talks expected to resume."
+   },
+   {
+    "lang": "en",
+    "story": "COP31 in Antalya runs into overtime; draft reportedly admits the 1.5 degree goal is missed, fossil fuel language disputed."
+   },
+   {
+    "lang": "en",
+    "story": "Sport: Alcaraz beats Shelton 3-6, 6-3, 7-6 and meets Zverev in the ATP Finals final; France beat Argentina 45-17 and face South Africa in the Nations Championship final."
+   },
+   {
+    "lang": "en",
+    "story": "Science: study suggests rising and sinking continents erased over a billion years of Earth's rock record."
+   },
+   {
+    "lang": "fr",
+    "story": "Samedi : 82 500 manifestants selon l'Intérieur contre 106 000 une semaine plus tôt, 144 interpellations, neuf membres des forces de l'ordre blessés à Bordeaux."
+   },
+   {
+    "lang": "fr",
+    "story": "Rugby : le XV de France bat l'Argentine 45-17 et affrontera l'Afrique du Sud en finale à Londres."
+   },
+   {
+    "lang": "fr",
+    "story": "Football : PSG, leader avec 23 points, joue à Nice ce soir."
+   },
+   {
+    "lang": "fr",
+    "story": "Le préfet de Centre-Val de Loire, Hugues Moutouh, soupçonné de fuites sur des enquêtes visant le RN, demande à être relevé de ses fonctions."
    }
   ]
  }
