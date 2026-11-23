@@ -1,68 +1,6 @@
 {
  "note": "Stories already covered. Read before writing; skip unless materially new.",
  "episodes": {
-  "2026-11-13": [
-   {
-    "lang": "vi",
-    "story": "VN-Index 12/11 giảm 12,15 điểm (-0,7%) còn 1.734,75 sau hai phiên tăng; khối ngoại bán ròng hơn 900 tỷ đồng, dồn vào FPT."
-   },
-   {
-    "lang": "vi",
-    "story": "TCB: đóng cửa 12/11 ở 21.550 đồng (-1,37%), cùng VIC, VPB kéo chỉ số giảm; chưa có tin mới từ Techcombank."
-   },
-   {
-    "lang": "vi",
-    "story": "SJC 12/11 và sáng 13/11: 136 - 139 triệu đồng/lượng, giảm 1 triệu mỗi chiều; xăng E5 RON92 giảm 1.499 đồng còn tối đa 19.399 đồng/lít."
-   },
-   {
-    "lang": "vi",
-    "story": "Quốc hội chất vấn Bộ trưởng Tài chính và Khoa học công nghệ: điểm nghẽn giải ngân đầu tư công ở khâu chuẩn bị dự án, sẽ chấm điểm địa phương."
-   },
-   {
-    "lang": "vi",
-    "story": "ông Lê Quốc Phong làm Chủ tịch UBND TP.HCM; xăng dầu giảm giá; Việt Nam thắng Đài Bắc Trung Hoa 2-0 giao hữu."
-   },
-   {
-    "lang": "en",
-    "story": "Ericsson/telecom: Ericsson and Verizon partner on AI-native autonomous RAN; FCC accepts SpaceX 800 MHz filing for Starlink Mobile; FCC votes 19 November on barring Chinese carriers from US phone numbers."
-   },
-   {
-    "lang": "en",
-    "story": "Nvidia CEO Jensen Huang resigns; CFO Colette Kress interim CEO; shares fell over 8 percent after hours; earnings Tuesday."
-   },
-   {
-    "lang": "en",
-    "story": "Trump says US does not need an Iran deal, Brent briefly near 94 dollars; Abu Dhabi talks end with prisoner-swap agreement in principle, envoys meet Putin."
-   },
-   {
-    "lang": "en",
-    "story": "Wall Street rebounds Wednesday (S&P 500 +1.3 percent to 7,619) on CoreWeave; nonprofits sue OpenAI, Anthropic and others to halt frontier AI."
-   },
-   {
-    "lang": "en",
-    "story": "Sport and health: Lakers 123-112 Bucks, Nets 145-111 Pelicans, Rockets 115-108 Warriors; pemvidutide 48-week MASH data published in Lancet Gastroenterology and Hepatology."
-   },
-   {
-    "lang": "fr",
-    "story": "Budget Sécu : adoption de l'article 7 sur les cotisations patronales ; plus de 1 200 amendements déposés au Sénat."
-   },
-   {
-    "lang": "fr",
-    "story": "Lycées : saisine systématique de la justice, incendies à Montpellier, 245 personnels blessés ; nouvelles manifestations les 14 et 17 novembre."
-   },
-   {
-    "lang": "fr",
-    "story": "Sondage Odoxa : Mélenchon (18 %) devant Philippe (17 %) ; Le Pen largement en tête."
-   },
-   {
-    "lang": "fr",
-    "story": "CAC 40 +0,34 % à 8 361 points, quatrième hausse de suite ; tempête Charles sur la Côte d'Azur."
-   },
-   {
-    "lang": "fr",
-    "story": "Sport : XV de France reçoit l'Afrique du Sud ce soir ; les Bleus battus 3-1 par l'Italie selon CNews."
-   }
-  ],
   "2026-11-14": [
    {
     "lang": "vi",
@@ -547,6 +485,64 @@
    {
     "lang": "fr",
     "story": "Le préfet de Centre-Val de Loire, Hugues Moutouh, soupçonné de fuites sur des enquêtes visant le RN, demande à être relevé de ses fonctions."
+   }
+  ],
+  "2026-11-23": [
+   {
+    "lang": "vi",
+    "story": "VN-Index đóng cửa 1.688,79 điểm (20/11), cả tuần giảm 2,66%, dưới MA10 và MA20; vùng dao động dự kiến 1.650-1.700, kháng cự 1.700-1.720; P/E khoảng 10,7 lần so với trung bình năm năm 12,9 lần."
+   },
+   {
+    "lang": "vi",
+    "story": "TCB: đóng cửa xác nhận gần nhất 20/11 ở 21.200 đồng (+600 đồng, +2,91%), khối lượng khoảng 13,2 triệu cổ phiếu; BSC khuyến nghị MUA, giá mục tiêu 28.300 đồng, P/B khoảng 1,25 lần."
+   },
+   {
+    "lang": "vi",
+    "story": "Vàng SJC 22/11 giữ 128,5 - 133,5 triệu đồng/lượng; vàng thế giới chốt tuần khoảng 3.539,9 USD/ounce, chênh khoảng 22,6 triệu đồng/lượng."
+   },
+   {
+    "lang": "vi",
+    "story": "Ngân hàng: CafeF 22/11 cho biết Vietcombank không còn được định giá cao nhất ngành, tám mã ngân hàng giao dịch dưới giá trị sổ sách."
+   },
+   {
+    "lang": "vi",
+    "story": "Ngày Văn hóa Việt Nam 24/11; không khí lạnh mới từ đêm nay."
+   },
+   {
+    "lang": "en",
+    "story": "Ericsson/telecom: Ericsson and Telia Sweden sign a 6G memorandum and start upper 6 GHz field trials; Ericsson's EMEA networks head says Saudi operators look beyond data revenue; Nokia expands autonomous-network partnership with One New Zealand."
+   },
+   {
+    "lang": "en",
+    "story": "Tennis: Alcaraz beats Zverev 6-2, 7-6 to win his first ATP Finals title."
+   },
+   {
+    "lang": "en",
+    "story": "Rugby: Nations Championship finals weekend in London, 27 to 29 November."
+   },
+   {
+    "lang": "en",
+    "story": "Nvidia's first earnings without Huang beat expectations; board says it will not reinstate him."
+   },
+   {
+    "lang": "en",
+    "story": "Ukraine: Zelensky warns of major Russian strikes Monday night and Tuesday."
+   },
+   {
+    "lang": "fr",
+    "story": "Football : PSG s'impose 3-2 à Nice, huitième victoire de suite en Ligue 1."
+   },
+   {
+    "lang": "fr",
+    "story": "Sécu : le Sénat a adopté le budget en première lecture, CMP à partir du 26 novembre."
+   },
+   {
+    "lang": "fr",
+    "story": "Maileva (La Poste) : vol de données touchant environ 22 millions de personnes, enquête judiciaire ouverte."
+   },
+   {
+    "lang": "fr",
+    "story": "Gard et Hérault : communes inondées deux fois en trois semaines, débat sur la double franchise."
    }
   ]
  }
