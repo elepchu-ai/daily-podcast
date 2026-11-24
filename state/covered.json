@@ -1,68 +1,6 @@
 {
  "note": "Stories already covered. Read before writing; skip unless materially new.",
  "episodes": {
-  "2026-11-14": [
-   {
-    "lang": "vi",
-    "story": "VN-Index 13/11 gần như đi ngang: +0,18 điểm lên 1.734,93; cả tuần +0,55%; khối ngoại mua ròng khoảng 320,6 tỷ đồng sau phiên bán ròng lớn hôm trước."
-   },
-   {
-    "lang": "vi",
-    "story": "TCB: tăng 1,39% phiên 13/11, khoảng 21.850 đồng, ngân hàng giữ nhịp cuối phiên; cổ phiếu cổ tức mới dự kiến về tài khoản cổ đông trong tháng 11-12."
-   },
-   {
-    "lang": "vi",
-    "story": "SJC sáng 14/11: 135 - 138 triệu đồng/lượng, giảm 1 triệu mỗi chiều; vàng thế giới quanh 3.885 USD/ounce; USD Vietcombank bán quanh 25.910 đồng."
-   },
-   {
-    "lang": "vi",
-    "story": "Ba văn bản được bấm nút ngày 13/11: Luật Đo lường, Luật Chứng khoán (sửa đổi), quyết toán ngân sách năm 2025."
-   },
-   {
-    "lang": "vi",
-    "story": "Công điện 74 sau vụ tai nạn đặc biệt nghiêm trọng ở Tây Ninh làm 3 người chết; cảnh báo lũ quét, sạt lở tại Lai Châu, Điện Biên, Sơn La, Lào Cai."
-   },
-   {
-    "lang": "en",
-    "story": "Ericsson/telecom: Ericsson sets up an R&D capability in Vietnam with about 500 engineers and launches drone detection over mobile networks; Samsung Networks posts its weakest quarter in nine years; Deutsche Telekom CEO fights a Huawei ban in Germany."
-   },
-   {
-    "lang": "en",
-    "story": "Wall Street ends a choppy week: Nvidia's slide and Huang crisis pull the S&P 500 and Nasdaq lower on the day, yet both finish the week ahead; Lutnick to testify on chip sales."
-   },
-   {
-    "lang": "en",
-    "story": "Iran: Trump holds off new strikes but the Hormuz blockade stays; IAEA says Iran rules out regular inspections; Brent near 96 dollars."
-   },
-   {
-    "lang": "en",
-    "story": "US House sends Hegseth impeachment articles to committee, 211 to 204; ICC narrows Afghanistan probe to Taliban crimes; Guinea gold-mining clashes kill 10."
-   },
-   {
-    "lang": "en",
-    "story": "NBA: Sixers beat Raptors, Pistons edge Wizards in a 144-140 shootout; science: a huge Nature analysis backs the new obesity definition, and drug adverts are found to sway AI treatment advice."
-   },
-   {
-    "lang": "fr",
-    "story": "Rugby : les Bleus battent l'Afrique du Sud 21-19 au Stade de France, première victoire sur les Springboks depuis 2022."
-   },
-   {
-    "lang": "fr",
-    "story": "Budget Sécu 2027 : le Sénat supprime l'article 5 sur les chantiers d'insertion et adoucit la hausse des cotisations CNRACL ; le PLF 2027 sera examiné au Sénat du 20 novembre au 8 décembre."
-   },
-   {
-    "lang": "fr",
-    "story": "EP Group (Křetínský) détient 69,3 % de Fnac Darty ; l'offre à 35 euros est rouverte du 12 au 25 novembre."
-   },
-   {
-    "lang": "fr",
-    "story": "Primaire de la droite et du centre : Retailleau et Attal relancent la pression, Philippe refuse toujours ; procès en appel de Depardieu du 16 au 20 novembre."
-   },
-   {
-    "lang": "fr",
-    "story": "Lycées : 0,3 % des lycées bloqués selon le ministère, manifestations attendues samedi et mardi."
-   }
-  ],
   "2026-11-15": [
    {
     "lang": "vi",
@@ -543,6 +481,68 @@
    {
     "lang": "fr",
     "story": "Gard et Hérault : communes inondées deux fois en trois semaines, débat sur la double franchise."
+   }
+  ],
+  "2026-11-24": [
+   {
+    "lang": "vi",
+    "story": "Phiên 23/11: VN-Index +8,35 điểm (+0,49%) lên 1.697,14; HNX-Index -1,01% còn 232,23; sàn nghỉ 24/11, mở lại 25/11."
+   },
+   {
+    "lang": "vi",
+    "story": "TCB: chưa có giá đóng cửa 23/11 được xác minh; mốc xác nhận gần nhất 20/11 là 21.200 đồng; lợi nhuận trước thuế quý III 10.375 tỷ đồng (+25,8%), vốn điều lệ trên 106.000 tỷ sau cổ phiếu thưởng 50%."
+   },
+   {
+    "lang": "vi",
+    "story": "NHNN yêu cầu giảm lãi suất huy động ít nhất 0,5 điểm % trước cuối năm, thanh tra ngay trong tháng 11."
+   },
+   {
+    "lang": "vi",
+    "story": "Tín dụng hết quý III tăng 11,59% so với đầu năm; kỳ vọng cả năm nâng lên 16,4%."
+   },
+   {
+    "lang": "vi",
+    "story": "Không khí lạnh liên tiếp ở miền Bắc, vùng núi có nơi dưới 9 độ."
+   },
+   {
+    "lang": "en",
+    "story": "Ericsson/telecom: top five vendors hold 96% of RAN revenue in H1 2026, Huawei strong and Ericsson softer; Nokia warns of rising equipment costs from chip shortages."
+   },
+   {
+    "lang": "en",
+    "story": "Hormuz: at least three more ships hit over the weekend, highest attack pace since February; Trump leans toward resuming strikes after New Year."
+   },
+   {
+    "lang": "en",
+    "story": "COP31 in Antalya reportedly ends without a deal, US absent."
+   },
+   {
+    "lang": "en",
+    "story": "Ukraine: Russian ships hit by suspected drones; Poland reports Russian airspace violation, Rutte pledges defence."
+   },
+   {
+    "lang": "en",
+    "story": "Science: Yale team says drugs, diet and exercise can slow biological ageing, supplements largely ineffective."
+   },
+   {
+    "lang": "fr",
+    "story": "Sommet Choose France lundi : le gouvernement met en avant les investissements de 2026."
+   },
+   {
+    "lang": "fr",
+    "story": "Macron relance une règle d'or budgétaire dans la Constitution."
+   },
+   {
+    "lang": "fr",
+    "story": "Villepin, candidat à la présidentielle, évoque un gouvernement de mission."
+   },
+   {
+    "lang": "fr",
+    "story": "Mayotte : un sixième escadron de gendarmerie et 20 policiers annoncés par Lecornu."
+   },
+   {
+    "lang": "fr",
+    "story": "Budget : ordonnances possibles après le 26 novembre (Sécu) et le 17 décembre (PLF)."
    }
   ]
  }
