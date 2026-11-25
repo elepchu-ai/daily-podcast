@@ -1,44 +1,6 @@
 {
  "note": "Stories already covered. Read before writing; skip unless materially new.",
  "episodes": {
-  "2026-11-15": [
-   {
-    "lang": "vi",
-    "story": "Cuối tuần không giao dịch: VN-Index giữ mốc đóng cửa 13/11 (1.734,93 điểm); TCB phiên gần nhất 13/11 quanh 21.850 đồng, chưa có phiên mới và chưa có tin mới từ ngân hàng."
-   },
-   {
-    "lang": "vi",
-    "story": "SJC sáng 15/11: 134,5 - 137,5 triệu đồng/lượng, giảm thêm 500 nghìn; cả tuần giảm khoảng 3,7 triệu, thấp nhất hơn một năm; vàng thế giới quanh 3.884 USD/ounce."
-   },
-   {
-    "lang": "vi",
-    "story": "Quốc hội bỏ phiếu cho ông Hồ Sỹ Hùng thôi làm đại biểu (Nghị quyết 52/2026/QH16)."
-   },
-   {
-    "lang": "en",
-    "story": "Ericsson/telecom: Nokia shares down about 3.4 percent on the week after a Santander downgrade; European operators weigh a joint bid for 2 GHz satellite spectrum; Ericsson quiet, Telia/Ericsson Swedish military 5G network is the latest win."
-   },
-   {
-    "lang": "en",
-    "story": "Trump to meet Xi and Putin at APEC in Shenzhen around 18-19 November; Iran and arms control on the agenda, Ukraine not expected."
-   },
-   {
-    "lang": "en",
-    "story": "Nvidia reports Tuesday 17 November: consensus revenue about 109 billion dollars, implied move about 10 percent."
-   },
-   {
-    "lang": "en",
-    "story": "Science: experimental drug clears pancreatic tumors in mice (Cancer Cell); marine snow stickiness shapes deep-ocean carbon storage."
-   },
-   {
-    "lang": "fr",
-    "story": "PLF 2027 arrives in the Senate from 20 November to 8 December."
-   },
-   {
-    "lang": "fr",
-    "story": "Lycéens : Geffray chiffre les annonces à plus de 5 à 6 milliards d'euros, l'intersyndicale réclame 10 milliards ; manifestations attendues le 17 novembre."
-   }
-  ],
   "2026-11-16": [
    {
     "lang": "vi",
@@ -543,6 +505,64 @@
    {
     "lang": "fr",
     "story": "Budget : ordonnances possibles après le 26 novembre (Sécu) et le 17 décembre (PLF)."
+   }
+  ],
+  "2026-11-25": [
+   {
+    "lang": "vi",
+    "story": "Khối ngoại bán ròng khoảng 440 tỷ đồng, phiên thứ năm liên tiếp, lũy kế hơn 127.000 tỷ từ đầu năm; thanh khoản thấp hơn 24% so với bình quân 20 phiên."
+   },
+   {
+    "lang": "vi",
+    "story": "TCB: giá đóng cửa xác minh gần nhất 20/11 là 21.200 đồng (+2,91%); tin mới: bổ nhiệm bà Phan Thị Hải Yến làm Phó Tổng giám đốc, tăng vốn cho Bảo hiểm Phi nhân thọ Techcom, lấy ý kiến lập ngân hàng con 100% vốn."
+   },
+   {
+    "lang": "vi",
+    "story": "Nổ khí gas phố Nguyễn Văn Tuyết, Đống Đa, Hà Nội sáng 24/11: ít nhất 7 người chết, hơn 10 người bị thương."
+   },
+   {
+    "lang": "vi",
+    "story": "Ngày Văn hóa Việt Nam 24/11 lần đầu là ngày nghỉ quốc gia."
+   },
+   {
+    "lang": "vi",
+    "story": "U17 Việt Nam lên hạng bảy trong nhóm đội đứng thứ ba tốt nhất trước lượt cuối vòng bảng World Cup U17."
+   },
+   {
+    "lang": "en",
+    "story": "Ericsson/telecom: Ericsson and Altair Semiconductor complete first eRedCap connection; FCC proposes rules for foreign satellites and partly preempts California copper-retirement rules; Vodafone/AST earth station and VodafoneThree AI-RAN trial with Nokia and Nvidia; Orange sells Belgian fibre network for 800 million euros."
+   },
+   {
+    "lang": "en",
+    "story": "Nvidia: Huang reinstated as CEO, stock up 31.5 percent Monday, down about 6 percent Tuesday; Dow above 50,000, Nasdaq down 1.5 percent."
+   },
+   {
+    "lang": "en",
+    "story": "Hormuz: Iran's army says strait stays shut until seven conditions met; IRGC claims three tankers hit mines; new US Treasury sanctions; Qatar pushes talks."
+   },
+   {
+    "lang": "en",
+    "story": "Champions League: Real Madrid 5-1 PSV, Arsenal 1-1 Dortmund, Man City 2-2 Napoli."
+   },
+   {
+    "lang": "en",
+    "story": "Science: nasal treatment restores memory in ageing mice; Arctic plants suggest an ice age was halted by warming."
+   },
+   {
+    "lang": "fr",
+    "story": "Sénat : accueil froid à la lettre de Lecornu appelant au compromis ; vote solennel du PLF le 9 décembre."
+   },
+   {
+    "lang": "fr",
+    "story": "Mobilisation interprofessionnelle aujourd'hui 25 novembre, puis le 28 ; Farandou recevra les partenaires sociaux sur les salaires."
+   },
+   {
+    "lang": "fr",
+    "story": "Sondage Odoxa (19-20 novembre) : Bardella 35 à 36 % au premier tour."
+   },
+   {
+    "lang": "fr",
+    "story": "Ligue des champions : Lens battu 3-1 à Leipzig ; ce soir Lille-Bayern et PSG-Roma."
    }
   ]
  }
