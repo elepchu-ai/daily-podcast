@@ -1,40 +1,6 @@
 {
  "note": "Stories already covered. Read before writing; skip unless materially new.",
  "episodes": {
-  "2026-11-16": [
-   {
-    "lang": "vi",
-    "story": "Thị trường: chưa có phiên mới, VN-Index giữ mốc 13/11 (1.734,93 điểm); SJC 134,5 - 137,5 triệu đồng/lượng theo bảng giá chủ nhật."
-   },
-   {
-    "lang": "vi",
-    "story": "TCB: phiên gần nhất 13/11 tăng khoảng 1,39%, quanh 21.850 đồng; chưa có tin mới từ ngân hàng."
-   },
-   {
-    "lang": "vi",
-    "story": "Quốc hội nghỉ giữa hai đợt; đợt hai dự kiến bế mạc 21/11."
-   },
-   {
-    "lang": "en",
-    "story": "Ericsson/telecom: Ericsson and Singtel announce a five-year partnership on AI-native 5G Advanced networks, no value disclosed."
-   },
-   {
-    "lang": "en",
-    "story": "Pope Leo closes his three-nation tour in Peru after the Lujan mass."
-   },
-   {
-    "lang": "en",
-    "story": "Spain: housing costs dominate the campaign for the 29 November early election."
-   },
-   {
-    "lang": "fr",
-    "story": "Grève de la fonction publique annoncée mardi, avec lycéens et étudiants."
-   },
-   {
-    "lang": "fr",
-    "story": "Ligue 1 en pause, prochaine journée le 21 novembre."
-   }
-  ],
   "2026-11-17": [
    {
     "lang": "vi",
@@ -563,6 +529,68 @@
    {
     "lang": "fr",
     "story": "Ligue des champions : Lens battu 3-1 à Leipzig ; ce soir Lille-Bayern et PSG-Roma."
+   }
+  ],
+  "2026-11-26": [
+   {
+    "lang": "vi",
+    "story": "VN-Index 25/11 giảm 9,69 điểm (-0,57%) còn 1.687,45; khối ngoại bán ròng kỷ lục khoảng 5.700 tỷ đồng, riêng VIC khoảng 4.700 tỷ."
+   },
+   {
+    "lang": "vi",
+    "story": "Vàng SJC sáng 26/11: 129,1 - 134,1 triệu đồng/lượng, giảm 0,9 triệu chiều bán; tỷ giá trung tâm 25.679 đồng/USD, kỷ lục mới."
+   },
+   {
+    "lang": "vi",
+    "story": "TCB: khoảng 20.650 - 20.700 đồng chiều 25/11, khối lượng khoảng 11,6 triệu cổ phiếu; mốc xác nhận trước đó 21.200 đồng (20/11)."
+   },
+   {
+    "lang": "vi",
+    "story": "Chính phủ: Nghị định 411/2026 về người nước ngoài làm quản lý, giảng dạy tại cơ sở giáo dục; kiện toàn Ban Chỉ đạo rà soát vướng mắc pháp luật."
+   },
+   {
+    "lang": "vi",
+    "story": "U17 Việt Nam gặp U17 Mali 20h tối nay (26/11) ở lượt cuối bảng G, sau thua Bỉ 2-3 và hòa New Zealand 3-3."
+   },
+   {
+    "lang": "en",
+    "story": "Ericsson/telecom: Ericsson supplies deployable 5G core for Spain's Atlas 26 military exercise; Huawei convicted on 10 of 12 counts by a US federal jury in Brooklyn."
+   },
+   {
+    "lang": "en",
+    "story": "Wall Street: Dow +0.33% to 50,182.95 after erasing a 1,100-point loss; S&P 500 -0.25%, Nasdaq -0.62%; October PCE inflation 3.8% annual."
+   },
+   {
+    "lang": "en",
+    "story": "Hormuz: IRGC says two more tankers hit mines; Trump says Iran war funded only through January."
+   },
+   {
+    "lang": "en",
+    "story": "Ukraine: Russian strikes cause outages in five regions; Merz warns of massive escalation."
+   },
+   {
+    "lang": "en",
+    "story": "Champions League: Lille 2-1 Bayern; PSG 2-2 Roma; Barcelona 4-1 Sabah, Liverpool 3-0 Viking, Inter 2-0 Stuttgart."
+   },
+   {
+    "lang": "en",
+    "story": "Science: small study finds peppermint oil lowered blood pressure; depression linked to disrupted hippocampal neuron production."
+   },
+   {
+    "lang": "fr",
+    "story": "Ligue des champions : Lille bat le Bayern 2-1, le PSG tenu en échec 2-2 par la Roma."
+   },
+   {
+    "lang": "fr",
+    "story": "Conseil des ministres : bilan sur les violences faites aux femmes (bracelets anti-rapprochement, pôles judiciaires) ; mobilisation FSU le 28 novembre."
+   },
+   {
+    "lang": "fr",
+    "story": "Grèves : sécurité privée en Île-de-France et Eurostar (FO) mobilisés le 25 novembre."
+   },
+   {
+    "lang": "fr",
+    "story": "Budget de l'UE : Macron refuse toute baisse de l'enveloppe agricole et menace de reporter après la présidentielle."
    }
   ]
  }
