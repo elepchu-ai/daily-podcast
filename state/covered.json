@@ -1,52 +1,6 @@
 {
  "note": "Stories already covered. Read before writing; skip unless materially new.",
  "episodes": {
-  "2026-11-17": [
-   {
-    "lang": "vi",
-    "story": "VN-Index 16/11 tăng 1,96 điểm (+0,11%) lên 1.736,89; thanh khoản giảm khoảng 10,5%, khối ngoại mua ròng nhẹ khoảng 20 tỷ đồng trên HOSE; FPT thủng mốc 50.000 đồng."
-   },
-   {
-    "lang": "vi",
-    "story": "TCB: đóng cửa xác nhận gần nhất 13/11 khoảng 21.850 đồng (+1,39%); chưa có giá phiên 16/11 từ nguồn tin cậy."
-   },
-   {
-    "lang": "vi",
-    "story": "SJC gần nhất xác nhận (15/11): 134,5 - 137,5 triệu đồng/lượng; tỷ giá trung tâm gần nhất 25.611 đồng/USD (11/11)."
-   },
-   {
-    "lang": "en",
-    "story": "Ericsson/telecom: Ericsson's weekly buyback, 100,000 shares a day at about SEK 103-107; Nokia wins One New Zealand autonomous-network deal and joins Telia on an AI compute consortium."
-   },
-   {
-    "lang": "en",
-    "story": "Wall Street: Nasdaq -2.49% to 24,510, S&P 500 -1.92% to 7,417; Nvidia about $156 before Tuesday earnings."
-   },
-   {
-    "lang": "en",
-    "story": "APEC Shenzhen on 18-19 November; Iran says Hormuz stays shut until its seven conditions are met."
-   },
-   {
-    "lang": "en",
-    "story": "NFL: Lions beat Patriots 35-10 in Munich; Maye and Hutchinson injured."
-   },
-   {
-    "lang": "en",
-    "story": "Health: Mount Sinai study finds drug ads can shape AI treatment suggestions."
-   },
-   {
-    "lang": "fr",
-    "story": "Grève et manifestations dans la fonction publique ce mardi : salaires, gel du point d'indice."
-   },
-   {
-    "lang": "fr",
-    "story": "Lecornu annonce un Smic à 1 502 euros brut en décembre (+1,6 %) ; syndicats jugent insuffisant."
-   },
-   {
-    "lang": "fr",
-    "story": "Budget de la Sécu : le texte est entre les mains du Sénat."
-   }
-  ],
   "2026-11-18": [
    {
     "lang": "vi",
@@ -591,6 +545,72 @@
    {
     "lang": "fr",
     "story": "Budget de l'UE : Macron refuse toute baisse de l'enveloppe agricole et menace de reporter après la présidentielle."
+   }
+  ],
+  "2026-11-27": [
+   {
+    "lang": "vi",
+    "story": "VN-Index 26/11 giảm 57,77 điểm (-3,42%) còn 1.629,68, mạnh nhất 4 tháng; khối ngoại bán ròng khoảng 180 tỷ đồng trên HOSE; VIC giảm 6,28%."
+   },
+   {
+    "lang": "vi",
+    "story": "Vàng SJC sáng 27/11: 129,5 - 134,5 triệu đồng/lượng (+0,4 triệu); tỷ giá trung tâm 25.676 đồng/USD (-3)."
+   },
+   {
+    "lang": "vi",
+    "story": "TCB: đóng cửa 26/11 khoảng 19.650 đồng (-5,07%), khối lượng khoảng 22,7 - 25,2 triệu cổ phiếu, khối ngoại bán ròng khoảng 80,5 tỷ; ông Alexandre Macaire thôi làm Phó Tổng giám đốc."
+   },
+   {
+    "lang": "vi",
+    "story": "Mỹ đề xuất thuế bổ sung lên tới 35% với hàng Việt Nam; Bộ Công Thương tiếp tục tham vấn và đàm phán."
+   },
+   {
+    "lang": "vi",
+    "story": "Kết quả World Cup U17: Việt Nam dừng bước sau thất bại 0-2 trước Mali (bàn thắng phút 56 và 82), kết thúc với 1 điểm."
+   },
+   {
+    "lang": "vi",
+    "story": "Cảnh báo lũ trên các sông từ Huế đến Khánh Hòa; Tổng Bí thư Tô Lâm chủ trì phiên họp Hội đồng Quốc phòng và An ninh."
+   },
+   {
+    "lang": "en",
+    "story": "Ericsson/telecom: EE (BT) rolls out Ericsson's AI-native scheduler across London 5G, reporting about 26% faster average downloads; Samsung reportedly wants to supply SpaceX's Starlink Mobile network; Ericsson pushes ISAC sensing on 5G-Advanced, Verizon gets experimental 4.8-4.9 GHz licence."
+   },
+   {
+    "lang": "en",
+    "story": "USTR proposes excess-capacity tariffs on 14 partners, up to 20% on China, Vietnam included; nothing before January at the earliest."
+   },
+   {
+    "lang": "en",
+    "story": "Hormuz: IRGC claims two more tankers and an LNG carrier hit mines; Kuwait blames Iran for a drone attack that killed two Italians."
+   },
+   {
+    "lang": "en",
+    "story": "Europa League: Plzeň 4-0 Benfica, Milan beat Olympiacos, Bournemouth beat Celta, Leverkusen 2-0 Zagreb."
+   },
+   {
+    "lang": "en",
+    "story": "NFL Thanksgiving: Bears beat Lions 39-35 on a last-second Williams-to-Odunze touchdown; Conference League: Ajax 4-0 Thun, Brighton 4-0 Craiova."
+   },
+   {
+    "lang": "en",
+    "story": "Health: newly identified depression subtype may affect nearly one in four severe cases."
+   },
+   {
+    "lang": "fr",
+    "story": "Budget de la Sécu 2027 : échec de la commission mixte paritaire, retour à l'Assemblée en commission le 30 novembre, séance le 7 décembre."
+   },
+   {
+    "lang": "fr",
+    "story": "Mobilisation nationale du 28 novembre, la CGT élargit l'appel et réclame 10 % ; Lecornu vise des avancées mi-décembre pour la fonction publique."
+   },
+   {
+    "lang": "fr",
+    "story": "Ligue Europa : Rennes battu 3-1 à Nimègue (NEC) ; l'OM bat le Levski Sofia 1-0 (penalty de Gouiri)."
+   },
+   {
+    "lang": "fr",
+    "story": "Assemblée : journée DR (responsabilité pénale des mineurs à 16 ans) ; rumeur de dissolution avant 2027 relayée par Public Sénat."
    }
   ]
  }
