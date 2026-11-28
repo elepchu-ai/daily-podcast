@@ -1,64 +1,6 @@
 {
  "note": "Stories already covered. Read before writing; skip unless materially new.",
  "episodes": {
-  "2026-11-18": [
-   {
-    "lang": "vi",
-    "story": "VN-Index 17/11 giảm 0,59% xuống 1.726,72 điểm; thanh khoản tăng gần 26% lên khoảng 14,96 nghìn tỷ đồng; 110 mã tăng, 207 mã giảm; dầu khí giảm sâu nhất."
-   },
-   {
-    "lang": "vi",
-    "story": "TCB: đóng cửa xác nhận gần nhất 16/11 ở 21.300 đồng (-550 đồng, -2,52%); phiên 17/11 sáng quanh 21.100 đồng, khối ngoại bán ròng vài chục tỷ đồng."
-   },
-   {
-    "lang": "vi",
-    "story": "SJC cuối phiên 17/11: 134,7 - 137,7 triệu đồng/lượng (+200 nghìn); vàng thế giới khoảng 3.868 USD/ounce; tỷ giá trung tâm 25.652 đồng/USD."
-   },
-   {
-    "lang": "vi",
-    "story": "Không khí lạnh tràn xuống miền Bắc từ tối 17/11, có mưa rào, dông và trời rét."
-   },
-   {
-    "lang": "en",
-    "story": "Ericsson/telecom: Nokia goes GPU-based on AI-RAN while Ericsson sells non-GPU AI features live in fifteen deployments; Huawei H1 sales up nearly 10 percent to about 468 billion yuan."
-   },
-   {
-    "lang": "en",
-    "story": "Nvidia Q3 revenue $115.8 billion (+103%), guides $130 billion for next quarter with no China data center sales; first report since Jensen Huang stepped down."
-   },
-   {
-    "lang": "en",
-    "story": "Wall Street fell a fourth straight day: S&P 500 -1.03% to 7,340.53, Nasdaq -0.74%, Dow -848 points; Anthropic expected to price its Nasdaq IPO today."
-   },
-   {
-    "lang": "en",
-    "story": "Football: Norway beat Denmark 3-2 in the Nations League, Haaland scoring twice."
-   },
-   {
-    "lang": "en",
-    "story": "Tennis: Alcaraz beat Tiafoe 6-2 6-2 in his ATP Finals opener in Turin."
-   },
-   {
-    "lang": "en",
-    "story": "Health: AML cancer vaccine trial reports 41 percent lower risk of death (company announcement); Mayo-led pancreatic vaccine study in Nature Medicine."
-   },
-   {
-    "lang": "fr",
-    "story": "Fonction publique : grève du 17 novembre en recul, moins de 3 % de grévistes dans l'État ; 146 000 manifestants selon l'Intérieur, 500 000 selon les syndicats."
-   },
-   {
-    "lang": "fr",
-    "story": "PLFSS 2027 : le Sénat a refusé plusieurs taxes et voté un transfert de dette de 15 milliards d'euros ; vote solennel prévu aujourd'hui."
-   },
-   {
-    "lang": "fr",
-    "story": "Smic : hausse de 1,6 % au 1er décembre, fixée sans vote du Parlement ; la CGT la juge insuffisante."
-   },
-   {
-    "lang": "fr",
-    "story": "Ligue des nations : la Norvège bat le Danemark 3-2 ; la Ligue 1 reprend le 21 novembre."
-   }
-  ],
   "2026-11-19": [
    {
     "lang": "vi",
@@ -611,6 +553,64 @@
    {
     "lang": "fr",
     "story": "Assemblée : journée DR (responsabilité pénale des mineurs à 16 ans) ; rumeur de dissolution avant 2027 relayée par Public Sénat."
+   }
+  ],
+  "2026-11-28": [
+   {
+    "lang": "vi",
+    "story": "VN-Index 27/11 tăng 24,22 điểm (+1,49%) lên 1.653,90; khối ngoại mua ròng khoảng 562 tỷ đồng trên HOSE, chấm dứt chuỗi 7 phiên bán ròng; dầu khí tăng trần."
+   },
+   {
+    "lang": "vi",
+    "story": "Vàng SJC sáng 28/11: 131 - 136 triệu đồng/lượng (+1,5 triệu), cao nhất một tuần; vàng thế giới quanh 3.650 USD/ounce."
+   },
+   {
+    "lang": "vi",
+    "story": "TCB: tăng 2,54% phiên 27/11 sau khi giảm 5,07% hôm trước, khoảng 20.150 đồng (ước tính từ mốc 19.650); đóng góp khoảng 1,09 điểm cho VN-Index."
+   },
+   {
+    "lang": "vi",
+    "story": "Cảnh báo lũ diện rộng từ Huế đến Khánh Hòa 27/11 - 01/12, mưa 200-400 mm, có nơi trên 600 mm."
+   },
+   {
+    "lang": "vi",
+    "story": "Xăng giảm kỳ thứ sáu liên tiếp; E5 RON92 giảm hơn 7.600 đồng/lít từ đầu tháng 11."
+   },
+   {
+    "lang": "en",
+    "story": "Ericsson/telecom: Germany reportedly preparing to exclude Huawei and ZTE from 5G, with Nokia, Ericsson and Samsung named as alternatives; Qualcomm unveils 2nm Snapdragon 8 Elite Gen 6 chips with Wi-Fi 8; Airtel Tanzania and Huawei expand fibre."
+   },
+   {
+    "lang": "en",
+    "story": "Wall Street Friday: Dow +592 to 50,774.94, S&P 500 +1.6% to 7,297.49, Nasdaq +2.3%; best week in three years per AP."
+   },
+   {
+    "lang": "en",
+    "story": "Brent near 90 dollars, up about 5% on the week; Saudi Jazan refinery hit, US strikes on Qeshm."
+   },
+   {
+    "lang": "en",
+    "story": "Premier League: Nottingham Forest 3-2 Chelsea, Gibbs-White twice."
+   },
+   {
+    "lang": "en",
+    "story": "Health: Congo Ebola outbreak above 11,500 cases and 5,600 deaths, 400 to 500 new cases weekly."
+   },
+   {
+    "lang": "fr",
+    "story": "Marches contre les violences sexistes et sexuelles ce samedi 28 novembre."
+   },
+   {
+    "lang": "fr",
+    "story": "Grève de la fonction publique le 1er décembre ; syndicats reçus à Matignon le 11 décembre."
+   },
+   {
+    "lang": "fr",
+    "story": "Macron veut un Congrès pour une règle d'or budgétaire ; Sécu en commission le 30 novembre."
+   },
+   {
+    "lang": "fr",
+    "story": "Mayotte : trois adolescents tués en six jours ; Toulouse : 500 000 euros de dégâts à Jean-Jaurès."
    }
   ]
  }
